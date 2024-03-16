@@ -1,0 +1,811 @@
+score,sentence1,sentence2,Predicted Score LLaMA-7B,Predicted Score LLaMA-7B-Chat
+2.5,A girl is styling her hair.,A girl is brushing her hair.,"Given the two sentences:
+- ""A girl is styling her hair.""
+- ""A girl is brushing her hair.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2
+
+### Explanation
+
+The first sentence is about a girl styling her hair, while the second sentence is about a","Given the two sentences:
+- ""A girl is styling her hair.""
+- ""A girl is brushing her hair.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+Both sentences describe a girl engaging in an activity related to hair styling, so they are"
+3.6,A group of men play soccer on the beach.,A group of boys are playing soccer on the beach.,"Given the two sentences:
+- ""A group of men play soccer on the beach.""
+- ""A group of boys are playing soccer on the beach.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 0.
+
+
+### Explanation
+
+The first sentence is a sentence that describes a group","Given the two sentences:
+- ""A group of men play soccer on the beach.""
+- ""A group of boys are playing soccer on the beach.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 5.
+
+Explanation:
+Both sentences convey the same meaning and use the same vocab"
+5.0,One woman is measuring another woman's ankle.,A woman measures another woman's ankle.,"Given the two sentences:
+- ""One woman is measuring another woman's ankle.""
+- ""A woman measures another woman's ankle.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2
+
+    I don't know if this is a good question, but I'm not","Given the two sentences:
+- ""One woman is measuring another woman's ankle.""
+- ""A woman measures another woman's ankle.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 5 (very similar)
+
+Explanation:
+
+Both sentences convey the same meaning and"
+4.2,A man is cutting up a cucumber.,A man is slicing a cucumber.,"Given the two sentences:
+- ""A man is cutting up a cucumber.""
+- ""A man is slicing a cucumber.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+    The sentence ""A man is slicing a cucumber."" is more similar to ""A","Given the two sentences:
+- ""A man is cutting up a cucumber.""
+- ""A man is slicing a cucumber.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4
+
+Explanation:
+The two sentences are similar in meaning, as both describe the action of cutting a"
+1.5,A man is playing a harp.,A man is playing a keyboard.,"Given the two sentences:
+- ""A man is playing a harp.""
+- ""A man is playing a keyboard.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 5.
+    (I think it's 5 but I'm not sure)
+
+I'm not sure if this is a","Given the two sentences:
+- ""A man is playing a harp.""
+- ""A man is playing a keyboard.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+
+Explanation:
+
+Both sentences describe a man playing a musical instrument, which makes them similar. The only difference is"
+1.8,A woman is cutting onions.,A woman is cutting tofu.,"Given the two sentences:
+- ""A woman is cutting onions.""
+- ""A woman is cutting tofu.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+    The best answer is 4 because the two sentences are similar, but not exactly the same.
+
+    The second sentence is a","Given the two sentences:
+- ""A woman is cutting onions.""
+- ""A woman is cutting tofu.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3 (the two sentences are similar, but not identical)"
+3.5,A man is riding an electric bicycle.,A man is riding a bicycle.,"Given the two sentences:
+- ""A man is riding an electric bicycle.""
+- ""A man is riding a bicycle.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+    Explanation:
+    - ""A man is riding an electric bicycle.""","Given the two sentences:
+- ""A man is riding an electric bicycle.""
+- ""A man is riding a bicycle.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+Both sentences are describing a man riding a vehicle, but the second"
+2.2,A man is playing the drums.,A man is playing the guitar.,"Given the two sentences:
+- ""A man is playing the drums.""
+- ""A man is playing the guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 0.
+    I think the question is: ""Which sentence is more similar to the sentence:
+    ""A man is playing the drums.""","Given the two sentences:
+- ""A man is playing the drums.""
+- ""A man is playing the guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+
+Explanation:
+
+Both sentences describe a person playing an instrument, so they are similar in that respect. However, the"
+2.2,A man is playing guitar.,A lady is playing the guitar.,"Given the two sentences:
+- ""A man is playing guitar.""
+- ""A lady is playing the guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2
+
+
+
+
+
+","Given the two sentences:
+- ""A man is playing guitar.""
+- ""A lady is playing the guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+The two sentences are similar in that they both describe a person playing a guitar. The only difference is in the gender"
+1.714,A man is playing a guitar.,A man is playing a trumpet.,"Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is playing a trumpet.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4
+
+    ""A man is playing a guitar.""
+    ""A man is playing a trumpet.""
+
+    ""A","Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is playing a trumpet.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+
+Explanation:
+
+Both sentences describe a person performing a musical instrument, so they are similar in that context."
+1.714,A man is playing a guitar.,A man is playing a trumpet.,"Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is playing a trumpet.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    This is a question from the [Ranker](https://www.rankmyquestion.com/) website.
+","Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is playing a trumpet.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+
+Explanation:
+
+Both sentences describe a person playing a musical instrument, so they are similar in meaning. The"
+5.0,A man is cutting an onion.,A man cuts an onion.,"Given the two sentences:
+- ""A man is cutting an onion.""
+- ""A man cuts an onion.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+    The reason is: ""A man is cutting an onion."" and ""A man cuts an onion."" have the","Given the two sentences:
+- ""A man is cutting an onion.""
+- ""A man cuts an onion.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3
+
+Explanation:
+
+The two sentences are grammatically similar, as they both use the verb ""cut"" in the same"
+0.6,A man is cycling.,A man is talking.,"Given the two sentences:
+- ""A man is cycling.""
+- ""A man is talking.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+    The first sentence is a statement, the second sentence is a question.
+
+    The first sentence is a sentence about the man, the second","Given the two sentences:
+- ""A man is cycling.""
+- ""A man is talking.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2 (the two sentences have some similarities, but not many)"
+4.4,A man is slicing open a fish.,A man is cutting up a fish.,"Given the two sentences:
+- ""A man is slicing open a fish.""
+- ""A man is cutting up a fish.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+    The second sentence is more specific than the first, and it is more similar to the first sentence than to the third","Given the two sentences:
+- ""A man is slicing open a fish.""
+- ""A man is cutting up a fish.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+Both sentences convey the same meaning and use the same action verb (cutting), so"
+2.0,A man is slicing a tomato.,A man is slicing a bun.,"Given the two sentences:
+- ""A man is slicing a tomato.""
+- ""A man is slicing a bun.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+""""""
+
+import re
+
+def solve(sentences):
+    # 1. ","Given the two sentences:
+- ""A man is slicing a tomato.""
+- ""A man is slicing a bun.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4 (very similar)"
+1.8,A man is playing a guitar.,A man is playing a keyboard.,"Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is playing a keyboard.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+    The reason is that the word 'guitar' is more similar to the word 'keyboard' than 'keyboard' is to","Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is playing a keyboard.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3
+
+Explanation:
+Both sentences describe a man playing a musical instrument, so they are similar. However, the specific instrument being played"
+4.4,A baby panda goes down a slide.,A panda slides down a slide.,"Given the two sentences:
+- ""A baby panda goes down a slide.""
+- ""A panda slides down a slide.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+    The sentences are very similar, but the second sentence is more specific.
+""""""
+
+
+def test_","Given the two sentences:
+- ""A baby panda goes down a slide.""
+- ""A panda slides down a slide.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+Both sentences convey the same meaning, a panda sliding down a slide. Therefore"
+3.6,A man is singing and playing a guitar.,A man is playing a guitar.,"Given the two sentences:
+- ""A man is singing and playing a guitar.""
+- ""A man is playing a guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    # 2.
+    Given the two sentences:
+    - ""A man is singing and playing a guitar.""","Given the two sentences:
+- ""A man is singing and playing a guitar.""
+- ""A man is playing a guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3 (very similar)
+
+Explanation:
+Both sentences describe a man playing a guitar, so they are very similar. The"
+3.6,A man attacks a woman.,A man slaps a woman.,"Given the two sentences:
+- ""A man attacks a woman.""
+- ""A man slaps a woman.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 1.
+
+    - ""A man attacks a woman.""
+    - ""A man slaps a woman.""
+    - ""A man slaps","Given the two sentences:
+- ""A man attacks a woman.""
+- ""A man slaps a woman.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 5 (very similar)
+
+Explanation:
+
+Both sentences describe violent acts against a woman, which are similar in nature. They both convey"
+1.2,A man is driving a car.,A man is riding a horse.,"Given the two sentences:
+- ""A man is driving a car.""
+- ""A man is riding a horse.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Given the two sentences:
+- ""A man is driving a car.""
+- ""A man is riding a horse.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+
+Explanation:
+
+Both sentences contain the word ""man"", which is a common feature between them. Additionally, both"
+2.4,A woman is cutting tofu.,A woman is cutting an onion.,"Given the two sentences:
+- ""A woman is cutting tofu.""
+- ""A woman is cutting an onion.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    The reason is that the first sentence is not a complete sentence, but the second sentence is.
+    The second sentence is","Given the two sentences:
+- ""A woman is cutting tofu.""
+- ""A woman is cutting an onion.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+
+Both sentences describe a person performing an action, and both use the same verb ""cutting""."
+0.2,The woman is styling her hair.,The woman is slicing herbs.,"Given the two sentences:
+- ""The woman is styling her hair.""
+- ""The woman is slicing herbs.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+### Explanation
+
+""The woman is slicing herbs."" is a sentence with a lot of","Given the two sentences:
+- ""The woman is styling her hair.""
+- ""The woman is slicing herbs.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+Both sentences contain a verb, ""styling"" and ""slicing"", respectively."
+4.2,Two zebras play in an open field.,Two zebras are playing in a field.,"Given the two sentences:
+- ""Two zebras play in an open field.""
+- ""Two zebras are playing in a field.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 5.
+    The first sentence is a noun phrase (NP) and the second one is a verb phrase (VP","Given the two sentences:
+- ""Two zebras play in an open field.""
+- ""Two zebras are playing in a field.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3
+
+Explanation:
+Both sentences convey the same meaning and use the same words, so they are very"
+4.4,A man is cutting a potato.,A man is slicing some potato.,"Given the two sentences:
+- ""A man is cutting a potato.""
+- ""A man is slicing some potato.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    The sentence ""A man is cutting a potato"" is grammatically correct, and the sentence ""A man","Given the two sentences:
+- ""A man is cutting a potato.""
+- ""A man is slicing some potato.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+
+The two sentences are similar in meaning, as they both describe a man performing the action"
+2.25,A man is slicing an onion.,A woman is slicing a pumpkin.,"Given the two sentences:
+- ""A man is slicing an onion.""
+- ""A woman is slicing a pumpkin.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 0, 2, 4.
+
+    This is a problem from the 2017 USAC","Given the two sentences:
+- ""A man is slicing an onion.""
+- ""A woman is slicing a pumpkin.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+
+Both sentences describe an action of cutting something, and both use the"
+2.0,A  man is dancing.,A man and woman is dancing.,"Given the two sentences:
+- ""A  man is dancing.""
+- ""A man and woman is dancing.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+
+# Exercise 1.3
+
+Given the two sentences:
+- ""A  man is dancing","Given the two sentences:
+- ""A  man is dancing.""
+- ""A man and woman is dancing.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3
+
+Explanation:
+
+Both sentences convey the same meaning, so the similarity score is 3. The only difference between the"
+0.75,A man is riding a motorcycle.,A woman is riding a horse.,"Given the two sentences:
+- ""A man is riding a motorcycle.""
+- ""A woman is riding a horse.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+    Given the two sentences:
+- ""A man is riding a motorcycle.""
+- ""A woman is","Given the two sentences:
+- ""A man is riding a motorcycle.""
+- ""A woman is riding a horse.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4
+
+Explanation:
+Both sentences describe a person riding a mode of transportation, but the mode of transportation"
+2.2,A woman is slicing garlics.,A woman is slicing an onion.,"Given the two sentences:
+- ""A woman is slicing garlics.""
+- ""A woman is slicing an onion.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    - ""A woman is slicing garlics.""
+    - ""A woman is s","Given the two sentences:
+- ""A woman is slicing garlics.""
+- ""A woman is slicing an onion.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4
+
+Explanation:
+Both sentences are describing a woman performing a similar action (slicing), with"
+0.8,A man is speaking.,A man is cooking.,"Given the two sentences:
+- ""A man is speaking.""
+- ""A man is cooking.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2
+
+    The reason is that the second sentence is a 'noun phrase' which is a 'part of speech' (or 'POS') that contains a","Given the two sentences:
+- ""A man is speaking.""
+- ""A man is cooking.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+
+Both sentences are describing noun phrases that refer to men, so they are similar in meaning. However, the"
+2.2,A little boy is singing and playing a guitar.,A man is singing and playing the guitar.,"Given the two sentences:
+- ""A little boy is singing and playing a guitar.""
+- ""A man is singing and playing the guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    The first sentence has two words that are not in the second sentence: ""boy"" and ""playing","Given the two sentences:
+- ""A little boy is singing and playing a guitar.""
+- ""A man is singing and playing the guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+The two sentences have the same meaning and structure, with the only difference being the gender"
+3.2,A turtle is swimming in water.,A turtle is walking underwater.,"Given the two sentences:
+- ""A turtle is swimming in water.""
+- ""A turtle is walking underwater.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    The sentences are very similar, but not exactly the same.
+    The first sentence is a general statement","Given the two sentences:
+- ""A turtle is swimming in water.""
+- ""A turtle is walking underwater.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 5.
+
+Explanation:
+Both sentences describe a turtle, but the second sentence adds the detail of"
+4.8,A young woman is putting stickers all over her face.,A woman is applying stickers to her face.,"Given the two sentences:
+- ""A young woman is putting stickers all over her face.""
+- ""A woman is applying stickers to her face.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+    The first sentence is a simple sentence, the second sentence is a complex sentence.
+    The","Given the two sentences:
+- ""A young woman is putting stickers all over her face.""
+- ""A woman is applying stickers to her face.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+The two sentences are similar in meaning and tone. Both sentences describe a"
+1.4,A woman is wrapping tofu.,A woman is balling dough.,"Given the two sentences:
+- ""A woman is wrapping tofu.""
+- ""A woman is balling dough.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+
+### 2.
+
+Given the two sentences:
+- ""A woman is wrapping tofu.""
+-","Given the two sentences:
+- ""A woman is wrapping tofu.""
+- ""A woman is balling dough.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+Both sentences contain the word ""woman"" and the verb ""wrapping"" or ""ball"
+4.25,A cat is eating some corn.,A cat is eating corn on the cob.,"Given the two sentences:
+- ""A cat is eating some corn.""
+- ""A cat is eating corn on the cob.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+    The first sentence is more general and doesn't specify what kind of corn.
+    The second sentence is","Given the two sentences:
+- ""A cat is eating some corn.""
+- ""A cat is eating corn on the cob.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+The two sentences are similar in that they both describe a cat eating corn, but"
+3.4,A man is eating a food.,A man is eating a piece of bread.,"Given the two sentences:
+- ""A man is eating a food.""
+- ""A man is eating a piece of bread.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 5.
+
+
+
+
+","Given the two sentences:
+- ""A man is eating a food.""
+- ""A man is eating a piece of bread.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+Both sentences describe a man eating something, so they are similar. However, the"
+0.533,A man is playing a guitar.,A man is eating pasta.,"Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is eating pasta.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+
+### Explanation
+
+- ""A man is playing a guitar.""
+- ""A man is eating past","Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is eating pasta.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+
+Explanation:
+
+The two sentences are similar in that they both describe an action being performed by a man. The first"
+0.4,A man is kicking pots of water.,A man is picking flowers.,"Given the two sentences:
+- ""A man is kicking pots of water.""
+- ""A man is picking flowers.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4
+
+    ""A man is kicking pots of water.""
+        ""A man is picking flowers.""
+
+   ","Given the two sentences:
+- ""A man is kicking pots of water.""
+- ""A man is picking flowers.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+
+The first sentence is a clear and specific image, with a clear action being performed (k"
+1.2,A man is cutting a pipe with scissors.,A man is cutting carpet with a knife.,"Given the two sentences:
+- ""A man is cutting a pipe with scissors.""
+- ""A man is cutting carpet with a knife.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    The first sentence is a very similar to the second, but the second sentence is a little","Given the two sentences:
+- ""A man is cutting a pipe with scissors.""
+- ""A man is cutting carpet with a knife.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+
+Both sentences describe a person cutting something with a sharp tool."
+5.0,A woman is dancing in the rain.,A woman dances in the rain out side.,"Given the two sentences:
+- ""A woman is dancing in the rain.""
+- ""A woman dances in the rain out side.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    If the woman is dancing in the rain, she is standing in the rain, not dancing.","Given the two sentences:
+- ""A woman is dancing in the rain.""
+- ""A woman dances in the rain out side.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+
+Both sentences convey the same meaning and use the same words, so they are"
+0.538,A woman is taking a bath.,A woman is riding a horse.,"Given the two sentences:
+- ""A woman is taking a bath.""
+- ""A woman is riding a horse.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    ""A woman is taking a bath."" is a sentence in English, but ""A woman is riding a horse."" is","Given the two sentences:
+- ""A woman is taking a bath.""
+- ""A woman is riding a horse.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+
+Explanation:
+The two sentences are similar because they both describe a woman engaging in an activity. Both sentences use the"
+3.75,A man mixes vegetables in a pot.,A person is stirring vegetables in a pot.,"Given the two sentences:
+- ""A man mixes vegetables in a pot.""
+- ""A person is stirring vegetables in a pot.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    The sentence ""A man mixes vegetables in a pot."" is a transitive sentence.","Given the two sentences:
+- ""A man mixes vegetables in a pot.""
+- ""A person is stirring vegetables in a pot.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+Both sentences convey the same meaning and use similar language, so they are"
+3.0,A woman is talking on a cell phone.,A man and woman are talking on the phone.,"Given the two sentences:
+- ""A woman is talking on a cell phone.""
+- ""A man and woman are talking on the phone.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2
+
+Answer: The sentence ""A woman is talking on a cell phone."" is not a complete sentence.
+
+Comment","Given the two sentences:
+- ""A woman is talking on a cell phone.""
+- ""A man and woman are talking on the phone.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+The two sentences are similar in that they both describe a situation where two people are talking"
+3.6,A man is playing a guitar.,A man is singing while playing the guitar.,"Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is singing while playing the guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 0.
+
+
+
+","Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is singing while playing the guitar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+The two sentences are similar because they both describe a man engaging in music-making activities. The"
+0.5,A man is playing a guitar.,A man is driving a car.,"Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is driving a car.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 1.
+
+### Explanation
+
+The first sentence is a noun phrase. The second sentence is a verb phrase.
+
+The","Given the two sentences:
+- ""A man is playing a guitar.""
+- ""A man is driving a car.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+
+Both sentences describe an action being performed by a man, so they are somewhat similar. However, the"
+1.5,A man is cutting apple by his hand.,A man is cutting carpet with a knife.,"Given the two sentences:
+- ""A man is cutting apple by his hand.""
+- ""A man is cutting carpet with a knife.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+    (c) 2017, 2018, 2019","Given the two sentences:
+- ""A man is cutting apple by his hand.""
+- ""A man is cutting carpet with a knife.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 4.
+
+Explanation:
+
+Both sentences describe a man performing an action with a tool, but the"
+0.8,A man is opening a door.,A man is cutting an onion.,"Given the two sentences:
+- ""A man is opening a door.""
+- ""A man is cutting an onion.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 0.
+    The sentences are very similar, but the first sentence is more general and the second is more specific.
+
+### Example
+","Given the two sentences:
+- ""A man is opening a door.""
+- ""A man is cutting an onion.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+
+Explanation:
+
+Both sentences describe actions that are visually similar, as they both involve the manipulation of an"
+0.8,A man is slicing a tomato.,A man is riding a horse.,"Given the two sentences:
+- ""A man is slicing a tomato.""
+- ""A man is riding a horse.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+    (0) A man is slicing a tomato.
+    (1) A man is r","Given the two sentences:
+- ""A man is slicing a tomato.""
+- ""A man is riding a horse.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+
+Both sentences describe a man performing an action, and both sentences are written in a"
+0.6,A man is cutting paper with a sword.,A woman is cutting a tomato.,"Given the two sentences:
+- ""A man is cutting paper with a sword.""
+- ""A woman is cutting a tomato.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 0
+
+# My solution:
+
+def is_similar(sentence1, sentence2):
+    if sentence1 == sentence","Given the two sentences:
+- ""A man is cutting paper with a sword.""
+- ""A woman is cutting a tomato.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+
+Both sentences contain the word ""cutting"", which is a common thread between the two"
+4.4,A boy studies a calendar.,A boy is looking at a calendar.,"Given the two sentences:
+- ""A boy studies a calendar.""
+- ""A boy is looking at a calendar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+    Given the two sentences:
+    - ""A boy studies a calendar.""
+    - ""A boy is looking at a calendar","Given the two sentences:
+- ""A boy studies a calendar.""
+- ""A boy is looking at a calendar.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+Explanation:
+
+Both sentences convey the same meaning and use the same vocabulary (boy, calendar). They"
+1.75,The ballerina is dancing.,A man is dancing.,"Given the two sentences:
+- ""The ballerina is dancing.""
+- ""A man is dancing.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 3.
+
+    The ballerina is dancing.
+    A man is dancing.
+
+    The ballerina is dancing","Given the two sentences:
+- ""The ballerina is dancing.""
+- ""A man is dancing.,
+    choose the best score (0 not similar at all, 5 very similar): 0, 1, 2, 3, 4, 5.
+    The answer is: 2.
+
+Explanation:
+Both sentences describe a person dancing, so they are similar in meaning. The difference between the two sentences"
