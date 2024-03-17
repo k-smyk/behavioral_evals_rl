@@ -1,0 +1,151 @@
+sentence1,sentence2,actual_score,log_prob_score
+A girl is styling her hair.,A girl is brushing her hair.,2.5,-2.0892393589019775
+A group of men play soccer on the beach.,A group of boys are playing soccer on the beach.,3.6,-2.5739212036132812
+One woman is measuring another woman's ankle.,A woman measures another woman's ankle.,5.0,-2.745455265045166
+A man is cutting up a cucumber.,A man is slicing a cucumber.,4.2,-2.59027361869812
+A man is playing a harp.,A man is playing a keyboard.,1.5,-2.1417312622070312
+A woman is cutting onions.,A woman is cutting tofu.,1.8,-2.84820556640625
+A man is riding an electric bicycle.,A man is riding a bicycle.,3.5,-2.029686450958252
+A man is playing the drums.,A man is playing the guitar.,2.2,-2.462348222732544
+A man is playing guitar.,A lady is playing the guitar.,2.2,-2.519437789916992
+A man is playing a guitar.,A man is playing a trumpet.,1.714,-2.3965911865234375
+A man is playing a guitar.,A man is playing a trumpet.,1.714,-2.3965911865234375
+A man is cutting an onion.,A man cuts an onion.,5.0,-2.849905490875244
+A man is cycling.,A man is talking.,0.6,-2.6336519718170166
+A man is slicing open a fish.,A man is cutting up a fish.,4.4,-2.6500792503356934
+A man is slicing a tomato.,A man is slicing a bun.,2.0,-2.4804093837738037
+A man is playing a guitar.,A man is playing a keyboard.,1.8,-2.8142733573913574
+A baby panda goes down a slide.,A panda slides down a slide.,4.4,-2.647562026977539
+A man is singing and playing a guitar.,A man is playing a guitar.,3.6,-2.7001664638519287
+A man attacks a woman.,A man slaps a woman.,3.6,-2.726074695587158
+A man is driving a car.,A man is riding a horse.,1.2,-2.526333808898926
+A woman is cutting tofu.,A woman is cutting an onion.,2.4,-2.5825209617614746
+The woman is styling her hair.,The woman is slicing herbs.,0.2,-2.541010618209839
+Two zebras play in an open field.,Two zebras are playing in a field.,4.2,-2.585496187210083
+A man is cutting a potato.,A man is slicing some potato.,4.4,-2.6873226165771484
+A man is slicing an onion.,A woman is slicing a pumpkin.,2.25,-2.1930184364318848
+A  man is dancing.,A man and woman is dancing.,2.0,-2.5482659339904785
+A man is riding a motorcycle.,A woman is riding a horse.,0.75,-2.2734830379486084
+A woman is slicing garlics.,A woman is slicing an onion.,2.2,-2.491610288619995
+A man is speaking.,A man is cooking.,0.8,-2.69136118888855
+A little boy is singing and playing a guitar.,A man is singing and playing the guitar.,2.2,-2.5248680114746094
+A turtle is swimming in water.,A turtle is walking underwater.,3.2,-2.559075117111206
+A young woman is putting stickers all over her face.,A woman is applying stickers to her face.,4.8,-2.862781524658203
+A woman is wrapping tofu.,A woman is balling dough.,1.4,-2.782440662384033
+A cat is eating some corn.,A cat is eating corn on the cob.,4.25,-2.3644931316375732
+A man is eating a food.,A man is eating a piece of bread.,3.4,-2.5747952461242676
+A man is playing a guitar.,A man is eating pasta.,0.533,-2.592442750930786
+A man is kicking pots of water.,A man is picking flowers.,0.4,-2.639108180999756
+A man is cutting a pipe with scissors.,A man is cutting carpet with a knife.,1.2,-2.4819798469543457
+A woman is dancing in the rain.,A woman dances in the rain out side.,5.0,-2.7167601585388184
+A woman is taking a bath.,A woman is riding a horse.,0.538,-2.709268093109131
+A man mixes vegetables in a pot.,A person is stirring vegetables in a pot.,3.75,-2.337524175643921
+A woman is talking on a cell phone.,A man and woman are talking on the phone.,3.0,-2.5161726474761963
+A man is playing a guitar.,A man is singing while playing the guitar.,3.6,-2.681978940963745
+A man is playing a guitar.,A man is driving a car.,0.5,-2.1585497856140137
+A man is cutting apple by his hand.,A man is cutting carpet with a knife.,1.5,-2.0942416191101074
+A man is opening a door.,A man is cutting an onion.,0.8,-2.7374720573425293
+A man is slicing a tomato.,A man is riding a horse.,0.8,-2.7466249465942383
+A man is cutting paper with a sword.,A woman is cutting a tomato.,0.6,-2.603116512298584
+A boy studies a calendar.,A boy is looking at a calendar.,4.4,-2.641633987426758
+The ballerina is dancing.,A man is dancing.,1.75,-2.430973768234253
+A woman is dancing.,A woman is playing violin.,0.4,-2.478421688079834
+A woman is slicing some tomatoes.,A woman is chopping a potato.,1.4,-2.7254276275634766
+A woman is water skiing.,A woman is slicing fish.,0.4,-2.6173102855682373
+A man is playing a flute.,A man is riding a scooter.,0.8,-2.6940743923187256
+A man is playing the piano.,A man played the guitar.,2.0,-2.538013458251953
+A woman is picking a can.,A man is playing a guitar.,0.133,-2.4770569801330566
+A man puts three pieces of meat into a pan.,A man is putting meat in a pan.,4.0,-2.5437355041503906
+A woman is cutting an onion.,A woman is cleaning a garden.,0.267,-2.742845058441162
+Some men are sawing.,Men are sawing logs.,3.4,-2.6263680458068848
+A car is driven down the road.,A girl is walking down a road.,1.2,-2.5245583057403564
+The man is kissing and hugging the woman.,A man is hugging and kissing a woman.,5.0,-2.7976057529449463
+A train is moving.,A man is doing yoga.,0.0,-2.404736280441284
+Someone is slicing an onion.,A woman is cutting onion.,3.8,-2.852085590362549
+A woman is playing in the ocean.,A woman is preparing shrimp to cook.,0.75,-2.352821111679077
+A person is playing an electronic keyboard.,A kid is playing keyboard.,3.4,-2.5391173362731934
+A man is holding a leaf.,A monkey is fighting a man.,0.0,-2.3687028884887695
+A woman is peeling shrimp.,A man is squeezing water.,0.2,-2.5125274658203125
+A man is sitting and smoking.,A man is smoking a cigarette.,4.0,-2.5183727741241455
+A man is playing a guitar.,A woman is riding a horse.,0.5,-2.0967769622802734
+A man is standing in front of the window and looking outside.,A man is staring out the window.,3.8,-2.744548797607422
+A skunk is looking here and there.,A skunk looks at the camera.,2.4,-2.711326837539673
+A man is playing the guitar and singing.,A man sings with a guitar.,4.75,-2.3237671852111816
+A woman opens a window.,A man is crawling.,0.0,-2.3119993209838867
+People are dancing outside.,A group of people are dancing.,3.75,-2.278529405593872
+The man is using a camera to hammer a nail.,Someone is banging a camera lense against a nail.,2.6,-2.7388744354248047
+A woman is filing her nails.,A man is peeling a carrot.,0.0,-2.3870184421539307
+A boy is crawling into a dog house.,A boy is playing a wooden flute.,0.75,-2.3613202571868896
+A woman is swimming underwater.,A man is slicing some carrots.,0.0,-2.3744678497314453
+A machine is sharpening a pencil.,The machine shaved the end of the pencil.,3.8,-2.7508692741394043
+A monkey is playing drums.,A gorilla plays the drums.,2.8,-2.715369939804077
+A man is opening a box and taking out paper.,A woman is peeling a potato.,0.0,-2.4618544578552246
+A woman is dancing.,A woman plays the clarinet.,0.8,-2.63845157623291
+A person is drawing on a large touchscreen.,A man is drawing on a digital dry erase board.,3.0,-2.4158589839935303
+The men played follow the leader on the grass.,The rhino grazed on the grass.,1.0,-2.6031980514526367
+A woman is cracking eggs.,A man is talking to a woman.,0.0,-2.433105230331421
+A woman peels garlic with her hands.,The woman is slicing herbs.,1.0,-2.6336679458618164
+The polar bears fought over the kill.,Polar bears are fighting each other.,3.4,-2.641716480255127
+A man is doing trick with play cards.,A man is performing a card trick.,5.0,-2.727752208709717
+The cat is licking a bottle.,A cat plays with a small bottle.,2.333,-2.338397741317749
+A person is slicing an onion.,A person cuts ginger.,1.4,-2.7553439140319824
+A person is peeling a potato with a potato peeler.,A man is cutting tomatoes with a cleaver.,0.75,-2.3330135345458984
+Two women are dancing and singing in front of a crowd.,The women are singing and dancing.,3.538,-2.8031890392303467
+A man is seasoning some carrots.,A woman is slicing garlic.,0.8,-2.668837785720825
+Two men pushed carts through the woods.,Two men are pushing carts.,3.5,-2.125598430633545
+A man is playing a football.,A man is maneuvering a soccer ball with his feet.,2.0,-2.522472858428955
+The lady peeled the potatoe.,A woman is peeling a potato.,4.75,-2.3332059383392334
+A woman is slicing some tofu.,A woman is cutting a block of tofu into small cubes.,4.0,-2.496307373046875
+Someone typed on a keyboard.,Someone is typing.,4.5,-2.3094871044158936
+"Three young men run, jump, and kick off of a Coke machine.",Three men are jumping off a wall.,1.5,-2.287497043609619
+A young Asian girl is applying eyeliner.,A girl is putting on eye makeup.,2.4,-2.698298692703247
+A cat is walking around a house.,A woman is peeling potato.,0.0,-2.394242286682129
+A woman is talking to her pet bunny as she fondles it.,A woman walks her dog onto astro turf.,0.4,-2.626685380935669
+A monkey is playing drums.,Someone in a gorilla costume is playing a set of drums.,2.5,-2.1050686836242676
+A man is riding a white horse on an enclosed ground.,Someone is riding a horse.,2.6,-2.7360212802886963
+An oriental lady is cutting a carrot into thin pieces.,A woman is slicing a carrot.,3.6,-2.619222402572632
+A group of people are dancing.,Women are dancing outside.,3.0,-2.501007318496704
+A man is playing guitar.,A boy is talking to a giant dog.,0.0,-2.4084725379943848
+A woman mixes up vegetables.,A woman is adding ingredients to a skillet.,1.6,-2.8726272583007812
+A woman pours a mixture into a bowl and mixes it.,A woman is preparing an egg in a skillet.,1.25,-2.4620702266693115
+A man is cutting pieces of butter into a mixing bowl.,Pieces of butter is added in the stand mixer.,3.6,-2.7478342056274414
+A man is putting garlic on some bread slices.,A man is sprinkling seasoning on several split and buttered loaves of bread.,2.0,-2.5210580825805664
+The panda bear lay on the logs.,A panda is lying down.,3.6,-2.7302603721618652
+Five men jump into a swimming pool.,A group of swimmers fall into a pool.,2.8,-2.8730790615081787
+A cheetah is running behind its prey.,A cheetah chases prey on across a field.,4.4,-2.655097484588623
+A cat is playing on the floor.,A man is slicing garlic.,0.0,-2.4031982421875
+A boy is playing violin on stage.,A person is mixing a pot.,0.0,-2.4693410396575928
+A dog is barking at a toy.,The little dog barked at the electronic toy.,3.75,-2.2660129070281982
+A man is cycling.,A boy is riding a bicycle.,2.5,-2.032350540161133
+A woman is slicing ginger.,A person is holding two baby lorises.,0.0,-2.439964771270752
+A man is dragging a dead deer.,A man is jumping into water from a cliff.,0.8,-2.7295446395874023
+A man is preparing a snake for cooking.,The man is dropping sliced cucumbers into water.,1.0,-2.627319574356079
+A woman is spreading mustard on a bread roll.,A kitten is playing with a woman's finger.,0.0,-2.4252781867980957
+Someone touched the kitten chewing on a string.,Someone is cutting paper.,0.25,-2.3314507007598877
+Meat is being put into a skillet.,A woman is putting a baby into a trash can.,0.4,-2.5733444690704346
+A baby elephant is eating a small tree.,A little girl peddling a scooter.,0.0,-2.442599058151245
+A woman and man are dancing in the rain.,A man and woman are dancing in rain.,5.0,-2.7805445194244385
+Someone is drawing.,Someone is dancing.,0.3,-2.530423164367676
+A man is playing a guitar.,A woman is playing the guitar.,2.75,-2.284658908843994
+Two men are fistfighting in a ring.,Two men fistfight in a ring.,5.0,-2.815200090408325
+A person wipes butter on a tray.,A person is buttering a tray.,4.25,-2.439241409301758
+Two men are playing football.,Two men are practicing football.,3.4,-2.593952178955078
+The man is playing the guitar.,The girl is playing the guitar.,1.6,-2.770747423171997
+A man is peeling a potato.,A man is slicing a potato.,2.6,-2.76705265045166
+A woman is stabbing a potato with a fork.,A woman is puncturing a potato with a fork.,5.0,-2.837033987045288
+A child is waking up.,A girl is waking up.,3.2,-2.528069019317627
+A boy is playing a key-board.,A little boy is playing a keyboard.,4.8,-2.7171387672424316
+A woman plays the flute.,A woman is playing the flute.,5.0,-2.782891273498535
+A woman is playing an electric guitar.,A man is playing an acoustic guitar.,2.4,-2.5101237297058105
+A man is playing a flute.,A man is playing a guitar.,2.0,-2.466759204864502
+A group of people are sweeping water out of a house.,People are sweeping water out of a house.,5.0,-2.865969181060791
+A man plays a guitar.,A man is playing a guitar.,5.0,-2.785327672958374
+A man and a woman is kissing each other.,A man and a woman are hugging and kissing each other.,3.4,-2.5700933933258057
+A woman is climbing a cliff.,A woman is climbing a rock face.,4.5,-2.1807634830474854
+A polar bear is running towards a group of walruses.,A polar bear is chasing a group of walruses.,4.2,-2.6024160385131836
+A woman is cutting some fish.,A woman is cutting tofu.,2.2,-2.498877763748169
+Someone is playing a piano.,Someone is playing guitar.,2.4,-2.5609371662139893
+A man is pouring rice a roni into a pan.,A man poured ric-a-roni into a pan.,3.8,-2.739529848098755
+A man is breaking wooden boards with his hand.,A man is breaking tiles with his hands.,2.5,-2.177417755126953
+A girl is playing guitar.,A girl is playing a piano.,2.0,-2.492166042327881
+A man is praying.,A man is dancing.,0.75,-2.237272024154663
