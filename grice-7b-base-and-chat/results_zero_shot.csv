@@ -1,0 +1,905 @@
+dialogue,explicit_answer,options,Predicted Score LLaMA-7B,Predicted Score LLaMA-7B-Chat
+"Question: did you leave the cucumber in the den
+Answer: I was in the dining_room",I didn't leave the cucumber in the den,"1. I didn't leave the cucumber in the den
+2. the cucumber is in the dining_room
+3. I left the cucumber in the dining_room
+4. I leave the cucumber in the den","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you leave the cucumber in the den
+Answer: I was in the dining_room
+
+    The options: 1. I didn't leave the cucumber in the den
+2. the cucumber is in the dining_room
+3. I left the cucumber in the dining_room
+4. I leave the cucumber in the den
+
+    The number of the option that captures the explicit answer: 3
+
+    The dialogue:
+Question: did you leave the cucumber in","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you leave the cucumber in the den
+Answer: I was in the dining_room
+
+    The options: 1. I didn't leave the cucumber in the den
+2. the cucumber is in the dining_room
+3. I left the cucumber in the dining_room
+4. I leave the cucumber in the den
+
+    The number of the option that captures the explicit answer: 2"
+"Question: what about Mia
+Answer: she placed the limes there",Mia didn't place the cucumber in the den,"1. I don't know if Mia place the cucumber in the den
+2. I didn't place the cucumber in the den
+3. Mia didn't place the cucumber in the den
+4. Mia didn't place the limes in the den","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: what about Mia
+Answer: she placed the limes there
+
+    The options: 1. I don't know if Mia place the cucumber in the den
+2. I didn't place the cucumber in the den
+3. Mia didn't place the cucumber in the den
+4. Mia didn't place the limes in the den
+
+    The number of the option that captures the explicit answer: 3
+
+    The number of the option that captures the implicature: ","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: what about Mia
+Answer: she placed the limes there
+
+    The options: 1. I don't know if Mia place the cucumber in the den
+2. I didn't place the cucumber in the den
+3. Mia didn't place the cucumber in the den
+4. Mia didn't place the limes in the den
+
+    The number of the option that captures the explicit answer: 3
+
+Explanation:
+The answer ""she placed the limes there"""
+"Question: was she there
+Answer: she was there if not in the den",I am not sure if Mia was in the den,"1. I was not in the den
+2. Mia was in the den
+3. I am not sure if Mia was in the den
+4. Mia was not in the den","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: was she there
+Answer: she was there if not in the den
+
+    The options: 1. I was not in the den
+2. Mia was in the den
+3. I am not sure if Mia was in the den
+4. Mia was not in the den
+
+    The number of the option that captures the explicit answer: 2
+
+    Explanation:
+    The dialogue:
+Question: was she there
+Answer: she was there if not in the den
+
+    The options: 1.","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: was she there
+Answer: she was there if not in the den
+
+    The options: 1. I was not in the den
+2. Mia was in the den
+3. I am not sure if Mia was in the den
+4. Mia was not in the den
+
+    The number of the option that captures the explicit answer: 2. Mia was in the den"
+"Question: was Jayden in the den
+Answer: he walked to the cellar",Jayden was not in the den,"1. Jayden was in the den
+2. Jayden was not in the den
+3. I don't know
+4. I was not in the den","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: was Jayden in the den
+Answer: he walked to the cellar
+
+    The options: 1. Jayden was in the den
+2. Jayden was not in the den
+3. I don't know
+4. I was not in the den
+
+    The number of the option that captures the explicit answer: 4
+
+    The dialogue:
+Question: was Jayden in the den
+Answer: he walked to the cellar
+
+    The options: 1. Jayden was in the den
+2. Jay","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: was Jayden in the den
+Answer: he walked to the cellar
+
+    The options: 1. Jayden was in the den
+2. Jayden was not in the den
+3. I don't know
+4. I was not in the den
+
+    The number of the option that captures the explicit answer: 2. Jayden was not in the den"
+"Question: did he leave the pineapples in the den
+Answer: he left them in the den if not the cellar",I am not sure if Jayden leave the pineapples in the den,"1. I didn't leave the pineapples in the cellar
+2. I am not sure if Jayden leave the pineapples in the den
+3. Jayden didn't leave the pineapples in the den
+4. I leave the pineapples in the cellar","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did he leave the pineapples in the den
+Answer: he left them in the den if not the cellar
+
+    The options: 1. I didn't leave the pineapples in the cellar
+2. I am not sure if Jayden leave the pineapples in the den
+3. Jayden didn't leave the pineapples in the den
+4. I leave the pineapples in the cellar
+
+    The number of the option that captures the explicit answer: 3
+
+   ","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did he leave the pineapples in the den
+Answer: he left them in the den if not the cellar
+
+    The options: 1. I didn't leave the pineapples in the cellar
+2. I am not sure if Jayden leave the pineapples in the den
+3. Jayden didn't leave the pineapples in the den
+4. I leave the pineapples in the cellar
+
+    The number of the option that captures the explicit answer: 3. Jayden"
+"Question: are some of the cherries there
+Answer: I put all of them there",all the cherries are in the den,"1. the cherries are not in the den
+2. I am not sure if some of the cherries are in the den
+3. all the cherries are in the den
+4. some of the cherries are in the den","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are some of the cherries there
+Answer: I put all of them there
+
+    The options: 1. the cherries are not in the den
+2. I am not sure if some of the cherries are in the den
+3. all the cherries are in the den
+4. some of the cherries are in the den
+
+    The number of the option that captures the explicit answer: 4
+
+    The dialogue:
+Question: are some of the cherries there
+Answer: I put all of them there
+
+","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are some of the cherries there
+Answer: I put all of them there
+
+    The options: 1. the cherries are not in the den
+2. I am not sure if some of the cherries are in the den
+3. all the cherries are in the den
+4. some of the cherries are in the den
+
+    The number of the option that captures the explicit answer: 3
+
+Explanation:
+The answer ""I put all of them there"" implies that all the cherries are in the den."
+"Question: did you put the beans there
+Answer: I put them in the cellar",I didn't put the beans in the den,"1. I put the cherries in the den
+2. I didn't put the beans in the cellar
+3. the beans are in the den
+4. I didn't put the beans in the den","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you put the beans there
+Answer: I put them in the cellar
+
+    The options: 1. I put the cherries in the den
+2. I didn't put the beans in the cellar
+3. the beans are in the den
+4. I didn't put the beans in the den
+
+    The number of the option that captures the explicit answer: 3
+
+    The number of the option that captures the implicit answer: 4
+
+    The number of the option that captures","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you put the beans there
+Answer: I put them in the cellar
+
+    The options: 1. I put the cherries in the den
+2. I didn't put the beans in the cellar
+3. the beans are in the den
+4. I didn't put the beans in the den
+
+    The number of the option that captures the explicit answer: 2
+
+Explanation:
+The speaker is denying that they put the beans in the cellar. They are saying that they"
+"Question: did Jayden place the lemons in the porch
+Answer: he placed the grapes there",Jayden didn't place the lemons in the porch,"1. Jayden didn't place the grapes in the porch
+2. the lemons are in the porch
+3. I don't know if Jayden place the lemons in the porch
+4. Jayden didn't place the lemons in the porch","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Jayden place the lemons in the porch
+Answer: he placed the grapes there
+
+    The options: 1. Jayden didn't place the grapes in the porch
+2. the lemons are in the porch
+3. I don't know if Jayden place the lemons in the porch
+4. Jayden didn't place the lemons in the porch
+
+    The number of the option that captures the explicit answer: 3
+
+    The dialogue:
+Question: did","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Jayden place the lemons in the porch
+Answer: he placed the grapes there
+
+    The options: 1. Jayden didn't place the grapes in the porch
+2. the lemons are in the porch
+3. I don't know if Jayden place the lemons in the porch
+4. Jayden didn't place the lemons in the porch
+
+    The number of the option that captures the explicit answer: 2"
+"Question: how many eggplants are there
+Answer: there are at least three there",I am not sure how many eggplants are in the porch,"1. I am not sure how many eggplants are in the porch
+2. three eggplants are in the porch
+3. all of the eggplants are in the porch
+4. four eggplants are in the porch","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: how many eggplants are there
+Answer: there are at least three there
+
+    The options: 1. I am not sure how many eggplants are in the porch
+2. three eggplants are in the porch
+3. all of the eggplants are in the porch
+4. four eggplants are in the porch
+
+    The number of the option that captures the explicit answer: 2
+""""""
+
+
+def test_explicit_answer_capture(explicit_answer_capture","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: how many eggplants are there
+Answer: there are at least three there
+
+    The options: 1. I am not sure how many eggplants are in the porch
+2. three eggplants are in the porch
+3. all of the eggplants are in the porch
+4. four eggplants are in the porch
+
+    The number of the option that captures the explicit answer: 2. three eggplants are in the porch"
+"Question: did you leave them there
+Answer: I didn't",I didn't leave the eggplants in the porch,"1. the eggplants are in the playroom
+2. I leave the eggplants in the porch
+3. the eggplants are not in the front_yard
+4. I didn't leave the eggplants in the porch","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you leave them there
+Answer: I didn't
+
+    The options: 1. the eggplants are in the playroom
+2. I leave the eggplants in the porch
+3. the eggplants are not in the front_yard
+4. I didn't leave the eggplants in the porch
+
+    The number of the option that captures the explicit answer: 2
+    The number of the option that captures the implicature: 4
+
+
+### 3.4.2","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you leave them there
+Answer: I didn't
+
+    The options: 1. the eggplants are in the playroom
+2. I leave the eggplants in the porch
+3. the eggplants are not in the front_yard
+4. I didn't leave the eggplants in the porch
+
+    The number of the option that captures the explicit answer: 4. I didn't leave the eggplants in the porch"
+"Question: did Jayden place them there
+Answer: he didn't",Jayden didn't place the eggplants in the porch,"1. Jayden didn't place the eggplants in the porch
+2. I don't know if Jayden place the eggplants in the porch
+3. I didn't place the eggplants in the porch
+4. Jayden place the eggplants in the porch","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Jayden place them there
+Answer: he didn't
+
+    The options: 1. Jayden didn't place the eggplants in the porch
+2. I don't know if Jayden place the eggplants in the porch
+3. I didn't place the eggplants in the porch
+4. Jayden place the eggplants in the porch
+
+    The number of the option that captures the explicit answer: 4
+
+    The number of the option that captures the implicature","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Jayden place them there
+Answer: he didn't
+
+    The options: 1. Jayden didn't place the eggplants in the porch
+2. I don't know if Jayden place the eggplants in the porch
+3. I didn't place the eggplants in the porch
+4. Jayden place the eggplants in the porch
+
+    The number of the option that captures the explicit answer: 1
+
+Explanation:
+The speaker is denying that Jayden"
+"Question: did Jackson put the melons in the attic
+Answer: he didn't go there",Jackson didn't put the melons in the attic,"1. I don't know if Jackson put the melons in the attic
+2. Jackson didn't put the melons in the attic
+3. the melons are in the attic
+4. Jackson put the melons in the attic","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Jackson put the melons in the attic
+Answer: he didn't go there
+
+    The options: 1. I don't know if Jackson put the melons in the attic
+2. Jackson didn't put the melons in the attic
+3. the melons are in the attic
+4. Jackson put the melons in the attic
+
+    The number of the option that captures the explicit answer: 1
+
+    The number of the option that captures the implicature: 2
+
+","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Jackson put the melons in the attic
+Answer: he didn't go there
+
+    The options: 1. I don't know if Jackson put the melons in the attic
+2. Jackson didn't put the melons in the attic
+3. the melons are in the attic
+4. Jackson put the melons in the attic
+
+    The number of the option that captures the explicit answer: 2
+
+Explanation:
+The answer ""he didn't go there"" is an indirect"
+"Question: what about Lily
+Answer: she said she was in the hall",Lily didn't place the melons in the attic,"1. I don't know if Lily place the melons in the attic
+2. Lily didn't place the melons in the attic
+3. I place the melons in the attic
+4. the melons are in the attic","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: what about Lily
+Answer: she said she was in the hall
+
+    The options: 1. I don't know if Lily place the melons in the attic
+2. Lily didn't place the melons in the attic
+3. I place the melons in the attic
+4. the melons are in the attic
+
+    The number of the option that captures the explicit answer: 2
+
+    Explanation:
+    The explicit answer is ""Lily didn't place the melons","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: what about Lily
+Answer: she said she was in the hall
+
+    The options: 1. I don't know if Lily place the melons in the attic
+2. Lily didn't place the melons in the attic
+3. I place the melons in the attic
+4. the melons are in the attic
+
+    The number of the option that captures the explicit answer: 2. Lily didn't place the melons in the attic"
+"Question: did you leave them there
+Answer: I left the pineapples there",I didn't leave the melons in the attic,"1. I didn't leave the melons in the attic
+2. I didn't leave the pineapples in the attic
+3. the melons are in the attic
+4. I leave the melons in the attic","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you leave them there
+Answer: I left the pineapples there
+
+    The options: 1. I didn't leave the melons in the attic
+2. I didn't leave the pineapples in the attic
+3. the melons are in the attic
+4. I leave the melons in the attic
+
+    The number of the option that captures the explicit answer: 2
+    Explanation: The implicit answer is ""I didn't leave the pineapples in the att","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you leave them there
+Answer: I left the pineapples there
+
+    The options: 1. I didn't leave the melons in the attic
+2. I didn't leave the pineapples in the attic
+3. the melons are in the attic
+4. I leave the melons in the attic
+
+    The number of the option that captures the explicit answer: 2"
+"Question: was Elizabeth in the study
+Answer: she travelled to the master_bedroom",Elizabeth was not in the study,"1. I was not in the study
+2. Elizabeth was not in the study
+3. I don't know if Elizabeth was in the study
+4. Elizabeth was in the study","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: was Elizabeth in the study
+Answer: she travelled to the master_bedroom
+
+    The options: 1. I was not in the study
+2. Elizabeth was not in the study
+3. I don't know if Elizabeth was in the study
+4. Elizabeth was in the study
+
+    The number of the option that captures the explicit answer: 4
+
+    The number of the option that captures the implicature: 4
+
+    The number of the option that captures the answer: 4
+
+    The","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: was Elizabeth in the study
+Answer: she travelled to the master_bedroom
+
+    The options: 1. I was not in the study
+2. Elizabeth was not in the study
+3. I don't know if Elizabeth was in the study
+4. Elizabeth was in the study
+
+    The number of the option that captures the explicit answer: 4. Elizabeth was in the study"
+"Question: did you go there
+Answer: I walked to the office",I was not in the master_bedroom,"1. I was not in the study
+2. I don't know
+3. I was not in the master_bedroom
+4. I was in the master_bedroom","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you go there
+Answer: I walked to the office
+
+    The options: 1. I was not in the study
+2. I don't know
+3. I was not in the master_bedroom
+4. I was in the master_bedroom
+
+    The number of the option that captures the explicit answer: 3
+""""""
+
+
+def test_explicit_answer_capture(answer_explicit_capture_question_explicit_answer_capture):
+    assert answer_explicit_","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you go there
+Answer: I walked to the office
+
+    The options: 1. I was not in the study
+2. I don't know
+3. I was not in the master_bedroom
+4. I was in the master_bedroom
+
+    The number of the option that captures the explicit answer: 2. I don't know"
+"Question: did Mia go there
+Answer: she was in the dining_room",Mia was not in the office,"1. Mia was not in the office
+2. Mia was in the office
+3. I was not in the office
+4. I don't know if Mia was in the office","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Mia go there
+Answer: she was in the dining_room
+
+    The options: 1. Mia was not in the office
+2. Mia was in the office
+3. I was not in the office
+4. I don't know if Mia was in the office
+
+    The number of the option that captures the explicit answer: 3
+
+    The number of the option that captures the implicature: 2
+
+    The number of the option that captures both the explicit and the implic","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Mia go there
+Answer: she was in the dining_room
+
+    The options: 1. Mia was not in the office
+2. Mia was in the office
+3. I was not in the office
+4. I don't know if Mia was in the office
+
+    The number of the option that captures the explicit answer: 2
+
+Explanation: The answer ""she was in the dining room"" implies that Mia was not in the office, since the dining room is a different location"
+"Question: are some of the persimmons in the patio
+Answer: four are there",four of the persimmons are in the patio,"1. four of the persimmons are in the patio
+2. the persimmons are not in the patio
+3. I am not sure how many persimmons are in the patio
+4. I am not sure if some of the persimmons are in the patio","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are some of the persimmons in the patio
+Answer: four are there
+
+    The options: 1. four of the persimmons are in the patio
+2. the persimmons are not in the patio
+3. I am not sure how many persimmons are in the patio
+4. I am not sure if some of the persimmons are in the patio
+
+    The number of the option that captures the explicit answer: 1
+""""""
+
+import unittest
+from unittest.mock import","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are some of the persimmons in the patio
+Answer: four are there
+
+    The options: 1. four of the persimmons are in the patio
+2. the persimmons are not in the patio
+3. I am not sure how many persimmons are in the patio
+4. I am not sure if some of the persimmons are in the patio
+
+    The number of the option that captures the explicit answer: 1"
+"Question: did you place the eggplant there
+Answer: I placed the persimmons there",I didn't place the eggplant in the patio,"1. I didn't place the eggplant in the patio
+2. I didn't place the persimmons in the patio
+3. I place the eggplant in the patio
+4. the eggplant is in the patio","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you place the eggplant there
+Answer: I placed the persimmons there
+
+    The options: 1. I didn't place the eggplant in the patio
+2. I didn't place the persimmons in the patio
+3. I place the eggplant in the patio
+4. the eggplant is in the patio
+
+    The number of the option that captures the explicit answer: 4
+
+    The number of the option that captures the implicature: 2
+
+    The number of","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you place the eggplant there
+Answer: I placed the persimmons there
+
+    The options: 1. I didn't place the eggplant in the patio
+2. I didn't place the persimmons in the patio
+3. I place the eggplant in the patio
+4. the eggplant is in the patio
+
+    The number of the option that captures the explicit answer: 2
+
+Explanation:
+The answer ""I placed the persimmons there"" implies that the speaker did not"
+"Question: did Owen leave the asparagus in the workshop
+Answer: I didn't see him",I don't know if Owen leave the asparagus in the workshop,"1. I didn't leave the eggplant in the workshop
+2. I leave the asparagus in the patio
+3. Owen leave the asparagus in the workshop
+4. I don't know if Owen leave the asparagus in the workshop","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Owen leave the asparagus in the workshop
+Answer: I didn't see him
+
+    The options: 1. I didn't leave the eggplant in the workshop
+2. I leave the asparagus in the patio
+3. Owen leave the asparagus in the workshop
+4. I don't know if Owen leave the asparagus in the workshop
+
+    The number of the option that captures the explicit answer: 3
+
+    The dialogue:
+","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Owen leave the asparagus in the workshop
+Answer: I didn't see him
+
+    The options: 1. I didn't leave the eggplant in the workshop
+2. I leave the asparagus in the patio
+3. Owen leave the asparagus in the workshop
+4. I don't know if Owen leave the asparagus in the workshop
+
+    The number of the option that captures the explicit answer: 3
+
+Explanation:
+The"
+"Question: are some of them there
+Answer: two are there",two of the asparagus are in the workshop,"1. I am not sure how many asparagus are in the workshop
+2. I am not sure if some of the asparagus are in the workshop
+3. the asparagus are not in the workshop
+4. two of the asparagus are in the workshop","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are some of them there
+Answer: two are there
+
+    The options: 1. I am not sure how many asparagus are in the workshop
+2. I am not sure if some of the asparagus are in the workshop
+3. the asparagus are not in the workshop
+4. two of the asparagus are in the workshop
+
+    The number of the option that captures the explicit answer: 4
+
+    The dialogue:
+Question: are some of them there
+Answer","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are some of them there
+Answer: two are there
+
+    The options: 1. I am not sure how many asparagus are in the workshop
+2. I am not sure if some of the asparagus are in the workshop
+3. the asparagus are not in the workshop
+4. two of the asparagus are in the workshop
+
+    The number of the option that captures the explicit answer: 4. two of the asparagus are in the workshop"
+"Question: did you leave the beans in the office
+Answer: I left the watermelons there",I didn't leave the beans in the office,"1. I didn't leave the beans in the office
+2. the beans are in the office
+3. I left the watermelons in the office
+4. I didn't leave the watermelons in the office","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you leave the beans in the office
+Answer: I left the watermelons there
+
+    The options: 1. I didn't leave the beans in the office
+2. the beans are in the office
+3. I left the watermelons in the office
+4. I didn't leave the watermelons in the office
+
+    The number of the option that captures the explicit answer: 2
+    The number of the option that captures the implicature: 4
+
+    The dialog","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did you leave the beans in the office
+Answer: I left the watermelons there
+
+    The options: 1. I didn't leave the beans in the office
+2. the beans are in the office
+3. I left the watermelons in the office
+4. I didn't leave the watermelons in the office
+
+    The number of the option that captures the explicit answer: 2
+
+Explanation:
+The answer ""I left the watermelons there"" is an imp"
+"Question: are all the persimmons in the pantry
+Answer: some are there",not all the persimmons are in the pantry,"1. three of the persimmons are in the pantry
+2. I am not sure if all of the persimmons are in the pantry
+3. not all the persimmons are in the pantry
+4. all of the beans are in the pantry","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are all the persimmons in the pantry
+Answer: some are there
+
+    The options: 1. three of the persimmons are in the pantry
+2. I am not sure if all of the persimmons are in the pantry
+3. not all the persimmons are in the pantry
+4. all of the beans are in the pantry
+
+    The number of the option that captures the explicit answer: 3
+
+### Difficulty: Easy
+
+Given this dialogue,","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are all the persimmons in the pantry
+Answer: some are there
+
+    The options: 1. three of the persimmons are in the pantry
+2. I am not sure if all of the persimmons are in the pantry
+3. not all the persimmons are in the pantry
+4. all of the beans are in the pantry
+
+    The number of the option that captures the explicit answer: 2
+
+Explanation:
+The answer ""some are there"" implies that not all of"
+"Question: are some of the peas there
+Answer: Nathan said he left all of them there",all the peas are in the pantry,"1. some of the peas are in the pantry
+2. I am not sure if some of the peas are in the pantry
+3. all of the peas are in the pantry
+4. all the peas are in the pantry","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are some of the peas there
+Answer: Nathan said he left all of them there
+
+    The options: 1. some of the peas are in the pantry
+2. I am not sure if some of the peas are in the pantry
+3. all of the peas are in the pantry
+4. all the peas are in the pantry
+
+    The number of the option that captures the explicit answer: 2
+
+    The dialogue:
+Question: are some of the peas there
+Answer: Nathan","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are some of the peas there
+Answer: Nathan said he left all of them there
+
+    The options: 1. some of the peas are in the pantry
+2. I am not sure if some of the peas are in the pantry
+3. all of the peas are in the pantry
+4. all the peas are in the pantry
+
+    The number of the option that captures the explicit answer: 2. I am not sure if some of the peas are in the pantry"
+"Question: were you in the master_bedroom
+Answer: I journeyed to the workshop",I was not in the master_bedroom,"1. I don't know
+2. I was not in the master_bedroom
+3. I was in the laundry
+4. I was in the master_bedroom","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: were you in the master_bedroom
+Answer: I journeyed to the workshop
+
+    The options: 1. I don't know
+2. I was not in the master_bedroom
+3. I was in the laundry
+4. I was in the master_bedroom
+
+    The number of the option that captures the explicit answer: 2.
+
+    The dialogue:
+Question: were you in the master_bedroom
+Answer: I journeyed to the workshop
+
+    The options: ","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: were you in the master_bedroom
+Answer: I journeyed to the workshop
+
+    The options: 1. I don't know
+2. I was not in the master_bedroom
+3. I was in the laundry
+4. I was in the master_bedroom
+
+    The number of the option that captures the explicit answer: 2. I was not in the master_bedroom"
+"Question: where can I find the beans
+Answer: they are in the master_bedroom or the garage",I am not sure where the beans are,"1. the beans are in the laundry
+2. the beans are not in the garage
+3. I was not in the garage
+4. I am not sure where the beans are","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: where can I find the beans
+Answer: they are in the master_bedroom or the garage
+
+    The options: 1. the beans are in the laundry
+2. the beans are not in the garage
+3. I was not in the garage
+4. I am not sure where the beans are
+
+    The number of the option that captures the explicit answer: 2.
+
+
+### Question 10
+
+Given this dialogue, choose the correct explicit answer option that captures","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: where can I find the beans
+Answer: they are in the master_bedroom or the garage
+
+    The options: 1. the beans are in the laundry
+2. the beans are not in the garage
+3. I was not in the garage
+4. I am not sure where the beans are
+
+    The number of the option that captures the explicit answer: 2
+
+Explanation: The answer ""they are in the master_bedroom or the garage"" implies that the beans"
+"Question: did Carter go to the garage 
+Answer: he journeyed to the laundry",Carter was not in the garage,"1. I don't know if Carter was in the garage
+2. I don't know
+3. Carter was not in the garage
+4. Carter was in the garage","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Carter go to the garage 
+Answer: he journeyed to the laundry
+
+    The options: 1. I don't know if Carter was in the garage
+2. I don't know
+3. Carter was not in the garage
+4. Carter was in the garage
+
+    The number of the option that captures the explicit answer: 4
+
+    The number of the option that captures the implicature: 1
+
+    The number of the option that captures both the explicit answer and","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Carter go to the garage 
+Answer: he journeyed to the laundry
+
+    The options: 1. I don't know if Carter was in the garage
+2. I don't know
+3. Carter was not in the garage
+4. Carter was in the garage
+
+    The number of the option that captures the explicit answer: 4."
+"Question: where did Mila go
+Answer: she journeyed to the laundry and the master_bedroom",Mila journeyed to the laundry and then the workshop,"1. I was not in the laundry
+2. I was in the master_bedroom
+3. Mila journeyed to the laundry and then the workshop
+4. I was in the laundry","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: where did Mila go
+Answer: she journeyed to the laundry and the master_bedroom
+
+    The options: 1. I was not in the laundry
+2. I was in the master_bedroom
+3. Mila journeyed to the laundry and then the workshop
+4. I was in the laundry
+
+    The number of the option that captures the explicit answer: 4
+
+    The dialogue:
+Question: where did Mila go
+Answer: she journeyed to the la","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: where did Mila go
+Answer: she journeyed to the laundry and the master_bedroom
+
+    The options: 1. I was not in the laundry
+2. I was in the master_bedroom
+3. Mila journeyed to the laundry and then the workshop
+4. I was in the laundry
+
+    The number of the option that captures the explicit answer: 2
+
+Explanation:
+The answer ""she journeyed to the laundry and the master_bedroom"
+"Question: did Mia leave the broccolis in the staircase
+Answer: I didn't see her",I don't know if Mia leave the broccolis in the staircase,"1. Mia leave the broccolis in the staircase
+2. Mia didn't leave the broccolis in the staircase
+3. I don't know if Mia leave the broccolis in the staircase
+4. I didn't leave the broccolis in the staircase","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Mia leave the broccolis in the staircase
+Answer: I didn't see her
+
+    The options: 1. Mia leave the broccolis in the staircase
+2. Mia didn't leave the broccolis in the staircase
+3. I don't know if Mia leave the broccolis in the staircase
+4. I didn't leave the broccolis in the staircase
+
+    The number of the option that captures the explicit answer: 2
+
+","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: did Mia leave the broccolis in the staircase
+Answer: I didn't see her
+
+    The options: 1. Mia leave the broccolis in the staircase
+2. Mia didn't leave the broccolis in the staircase
+3. I don't know if Mia leave the broccolis in the staircase
+4. I didn't leave the broccolis in the staircase
+
+    The number of the option that captures the explicit answer: 2
+
+"
+"Question: are all of them there
+Answer: some are there",not all the broccolis are in the staircase,"1. I was not in the staircase
+2. I am not sure if all of the broccolis are in the staircase
+3. all of the broccolis are in the staircase
+4. not all the broccolis are in the staircase","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are all of them there
+Answer: some are there
+
+    The options: 1. I was not in the staircase
+2. I am not sure if all of the broccolis are in the staircase
+3. all of the broccolis are in the staircase
+4. not all the broccolis are in the staircase
+
+    The number of the option that captures the explicit answer: 2.
+
+### Question:
+
+Given this dialogue, choose the correct explicit answer option that capt","Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+    The dialogue:
+Question: are all of them there
+Answer: some are there
+
+    The options: 1. I was not in the staircase
+2. I am not sure if all of the broccolis are in the staircase
+3. all of the broccolis are in the staircase
+4. not all the broccolis are in the staircase
+
+    The number of the option that captures the explicit answer: 3. all of the broccolis are in the staircase"
