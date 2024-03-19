@@ -1,0 +1,751 @@
+dialogue,options,explicit_answer,log_prob_score_7b,log_prob_score_7b_chat
+"Question: did you leave the cucumber in the den
+Answer: I was in the dining_room","1. I didn't leave the cucumber in the den
+2. the cucumber is in the dining_room
+3. I left the cucumber in the dining_room
+4. I leave the cucumber in the den",I didn't leave the cucumber in the den,-0.9506966471672058,-1.5889837741851807
+"Question: what about Mia
+Answer: she placed the limes there","1. I don't know if Mia place the cucumber in the den
+2. I didn't place the cucumber in the den
+3. Mia didn't place the cucumber in the den
+4. Mia didn't place the limes in the den",Mia didn't place the cucumber in the den,-0.8601275086402893,-1.5845742225646973
+"Question: was she there
+Answer: she was there if not in the den","1. I was not in the den
+2. Mia was in the den
+3. I am not sure if Mia was in the den
+4. Mia was not in the den",I am not sure if Mia was in the den,-0.9794440269470215,-1.5664905309677124
+"Question: was Jayden in the den
+Answer: he walked to the cellar","1. Jayden was in the den
+2. Jayden was not in the den
+3. I don't know
+4. I was not in the den",Jayden was not in the den,-1.9376561641693115,-2.8461451530456543
+"Question: did he leave the pineapples in the den
+Answer: he left them in the den if not the cellar","1. I didn't leave the pineapples in the cellar
+2. I am not sure if Jayden leave the pineapples in the den
+3. Jayden didn't leave the pineapples in the den
+4. I leave the pineapples in the cellar",I am not sure if Jayden leave the pineapples in the den,-0.7730017900466919,-1.5480095148086548
+"Question: are some of the cherries there
+Answer: I put all of them there","1. the cherries are not in the den
+2. I am not sure if some of the cherries are in the den
+3. all the cherries are in the den
+4. some of the cherries are in the den",all the cherries are in the den,-1.4731626510620117,-2.5327062606811523
+"Question: did you put the beans there
+Answer: I put them in the cellar","1. I put the cherries in the den
+2. I didn't put the beans in the cellar
+3. the beans are in the den
+4. I didn't put the beans in the den",I didn't put the beans in the den,-1.17305588722229,-1.5732084512710571
+"Question: did Jayden place the lemons in the porch
+Answer: he placed the grapes there","1. Jayden didn't place the grapes in the porch
+2. the lemons are in the porch
+3. I don't know if Jayden place the lemons in the porch
+4. Jayden didn't place the lemons in the porch",Jayden didn't place the lemons in the porch,-0.9532652497291565,-1.3641550540924072
+"Question: how many eggplants are there
+Answer: there are at least three there","1. I am not sure how many eggplants are in the porch
+2. three eggplants are in the porch
+3. all of the eggplants are in the porch
+4. four eggplants are in the porch",I am not sure how many eggplants are in the porch,-0.7893855571746826,-1.3476738929748535
+"Question: did you leave them there
+Answer: I didn't","1. the eggplants are in the playroom
+2. I leave the eggplants in the porch
+3. the eggplants are not in the front_yard
+4. I didn't leave the eggplants in the porch",I didn't leave the eggplants in the porch,-1.0471702814102173,-1.42741060256958
+"Question: did Jayden place them there
+Answer: he didn't","1. Jayden didn't place the eggplants in the porch
+2. I don't know if Jayden place the eggplants in the porch
+3. I didn't place the eggplants in the porch
+4. Jayden place the eggplants in the porch",Jayden didn't place the eggplants in the porch,-0.9817708134651184,-1.431692361831665
+"Question: did Jackson put the melons in the attic
+Answer: he didn't go there","1. I don't know if Jackson put the melons in the attic
+2. Jackson didn't put the melons in the attic
+3. the melons are in the attic
+4. Jackson put the melons in the attic",Jackson didn't put the melons in the attic,-1.3488491773605347,-1.5069561004638672
+"Question: what about Lily
+Answer: she said she was in the hall","1. I don't know if Lily place the melons in the attic
+2. Lily didn't place the melons in the attic
+3. I place the melons in the attic
+4. the melons are in the attic",Lily didn't place the melons in the attic,-0.7923458218574524,-1.2448346614837646
+"Question: did you leave them there
+Answer: I left the pineapples there","1. I didn't leave the melons in the attic
+2. I didn't leave the pineapples in the attic
+3. the melons are in the attic
+4. I leave the melons in the attic",I didn't leave the melons in the attic,-0.880384624004364,-1.5854668617248535
+"Question: was Elizabeth in the study
+Answer: she travelled to the master_bedroom","1. I was not in the study
+2. Elizabeth was not in the study
+3. I don't know if Elizabeth was in the study
+4. Elizabeth was in the study",Elizabeth was not in the study,-3.0271310806274414,-3.671005964279175
+"Question: did you go there
+Answer: I walked to the office","1. I was not in the study
+2. I don't know
+3. I was not in the master_bedroom
+4. I was in the master_bedroom",I was not in the master_bedroom,-1.3224537372589111,-3.1386494636535645
+"Question: did Mia go there
+Answer: she was in the dining_room","1. Mia was not in the office
+2. Mia was in the office
+3. I was not in the office
+4. I don't know if Mia was in the office",Mia was not in the office,-1.6863921880722046,-3.0663657188415527
+"Question: are some of the persimmons in the patio
+Answer: four are there","1. four of the persimmons are in the patio
+2. the persimmons are not in the patio
+3. I am not sure how many persimmons are in the patio
+4. I am not sure if some of the persimmons are in the patio",four of the persimmons are in the patio,-1.1393941640853882,-1.4929178953170776
+"Question: did you place the eggplant there
+Answer: I placed the persimmons there","1. I didn't place the eggplant in the patio
+2. I didn't place the persimmons in the patio
+3. I place the eggplant in the patio
+4. the eggplant is in the patio",I didn't place the eggplant in the patio,-0.9311193823814392,-1.4238290786743164
+"Question: did Owen leave the asparagus in the workshop
+Answer: I didn't see him","1. I didn't leave the eggplant in the workshop
+2. I leave the asparagus in the patio
+3. Owen leave the asparagus in the workshop
+4. I don't know if Owen leave the asparagus in the workshop",I don't know if Owen leave the asparagus in the workshop,-0.6203173995018005,-1.2598273754119873
+"Question: are some of them there
+Answer: two are there","1. I am not sure how many asparagus are in the workshop
+2. I am not sure if some of the asparagus are in the workshop
+3. the asparagus are not in the workshop
+4. two of the asparagus are in the workshop",two of the asparagus are in the workshop,-0.9601712226867676,-1.8596470355987549
+"Question: did you leave the beans in the office
+Answer: I left the watermelons there","1. I didn't leave the beans in the office
+2. the beans are in the office
+3. I left the watermelons in the office
+4. I didn't leave the watermelons in the office",I didn't leave the beans in the office,-0.9793323278427124,-1.874301791191101
+"Question: are all the persimmons in the pantry
+Answer: some are there","1. three of the persimmons are in the pantry
+2. I am not sure if all of the persimmons are in the pantry
+3. not all the persimmons are in the pantry
+4. all of the beans are in the pantry",not all the persimmons are in the pantry,-1.1886482238769531,-1.4852499961853027
+"Question: are some of the peas there
+Answer: Nathan said he left all of them there","1. some of the peas are in the pantry
+2. I am not sure if some of the peas are in the pantry
+3. all of the peas are in the pantry
+4. all the peas are in the pantry",all the peas are in the pantry,-1.2842105627059937,-2.2555549144744873
+"Question: were you in the master_bedroom
+Answer: I journeyed to the workshop","1. I don't know
+2. I was not in the master_bedroom
+3. I was in the laundry
+4. I was in the master_bedroom",I was not in the master_bedroom,-1.3228918313980103,-1.883798599243164
+"Question: where can I find the beans
+Answer: they are in the master_bedroom or the garage","1. the beans are in the laundry
+2. the beans are not in the garage
+3. I was not in the garage
+4. I am not sure where the beans are",I am not sure where the beans are,-1.3364664316177368,-2.0721893310546875
+"Question: did Carter go to the garage 
+Answer: he journeyed to the laundry","1. I don't know if Carter was in the garage
+2. I don't know
+3. Carter was not in the garage
+4. Carter was in the garage",Carter was not in the garage,-2.0235300064086914,-2.777021884918213
+"Question: where did Mila go
+Answer: she journeyed to the laundry and the master_bedroom","1. I was not in the laundry
+2. I was in the master_bedroom
+3. Mila journeyed to the laundry and then the workshop
+4. I was in the laundry",Mila journeyed to the laundry and then the workshop,-0.9377404451370239,-1.627247929573059
+"Question: did Mia leave the broccolis in the staircase
+Answer: I didn't see her","1. Mia leave the broccolis in the staircase
+2. Mia didn't leave the broccolis in the staircase
+3. I don't know if Mia leave the broccolis in the staircase
+4. I didn't leave the broccolis in the staircase",I don't know if Mia leave the broccolis in the staircase,-0.746593177318573,-1.2811180353164673
+"Question: are all of them there
+Answer: some are there","1. I was not in the staircase
+2. I am not sure if all of the broccolis are in the staircase
+3. all of the broccolis are in the staircase
+4. not all the broccolis are in the staircase",not all the broccolis are in the staircase,-1.049461841583252,-1.5239537954330444
+"Question: did you place the melons there
+Answer: I placed them in the dining_room","1. the melons are in the staircase
+2. I didn't place the melons in the staircase
+3. I place the melons in the staircase
+4. I didn't place the broccolis in the staircase",I didn't place the melons in the staircase,-0.9141576290130615,-2.0526764392852783
+"Question: did Mia put the corns in the porch
+Answer: she said she was in the cellar","1. the corns are in the porch
+2. Mia put the corns in the cellar
+3. I didn't put the corns in the porch
+4. Mia didn't put the corns in the porch",Mia didn't put the corns in the porch,-0.8669421672821045,-1.506653904914856
+"Question: did you leave them there
+Answer: I left the potatoes there","1. I leave the corns in the porch
+2. I left the potatoes in the porch
+3. the corns are in the porch
+4. I didn't leave the corns in the porch",I didn't leave the corns in the porch,-1.0934633016586304,-2.4452860355377197
+"Question: how many melons are in the bathroom
+Answer: there are at least two there","1. three melons are in the bathroom
+2. all of the corns are in the bathroom
+3. I am not sure how many melons are in the bathroom
+4. three of the melons are in the bathroom",I am not sure how many melons are in the bathroom,-0.9094288945198059,-1.1262396574020386
+"Question: are some of the strawberries in the kitchen
+Answer: three are there","1. I am not sure if some of the strawberries are in the kitchen
+2. three of the strawberries are in the kitchen
+3. the strawberries are not in the kitchen
+4. I am not sure how many strawberries are in the kitchen",three of the strawberries are in the kitchen,-0.9351034164428711,-1.7464441061019897
+"Question: was Jackson there
+Answer: he went to the patio","1. Jackson was not in the kitchen
+2. I don't know if Jackson was in the kitchen
+3. I was not in the kitchen
+4. I don't know",Jackson was not in the kitchen,-2.484546184539795,-3.1528191566467285
+"Question: how many turnips are in the basement
+Answer: three or four","1. the turnips are not in the basement
+2. four of the turnips are in the basement
+3. all of the turnips are in the basement
+4. I am not sure how many turnips are in the basement",I am not sure how many turnips are in the basement,-0.897071897983551,-1.19700026512146
+"Question: did you go to the playroom
+Answer: I was in the kitchen","1. I don't know
+2. I was in the basement
+3. I was not in the basement
+4. I was not in the playroom",I was not in the playroom,-1.5495766401290894,-2.5697531700134277
+"Question: did you leave the turnip in the lounge
+Answer: I was in the porch","1. I didn't leave the turnip in the lounge
+2. the turnip is not in the garden
+3. I left the turnip in the porch
+4. the turnip is in the lounge",I didn't leave the turnip in the lounge,-0.8887217044830322,-1.8875346183776855
+"Question: did Jayden leave it there
+Answer: he said he didn't go back there","1. Jayden was in the lounge
+2. I don't know if Jayden leave the turnip in the lounge
+3. I didn't leave the turnip in the lounge
+4. Jayden didn't leave the turnip in the lounge",Jayden didn't leave the turnip in the lounge,-0.9614835381507874,-1.1609424352645874
+"Question: did Sophia put it there
+Answer: she said she put it in the hallway","1. the turnip is in the lounge
+2. I don't know if Sophia put the turnip in the lounge
+3. Sophia put the turnip in the lounge
+4. Sophia didn't put the turnip in the lounge",Sophia didn't put the turnip in the lounge,-0.9218778610229492,-1.5323834419250488
+"Question: did Carter place the pineapples in the sunroom
+Answer: he placed them in the sunroom if not the porch","1. I am not sure if Carter place the pineapples in the sunroom
+2. Carter didn't placed the pineapples in the porch
+3. Carter didn't placed the pineapples in the sunroom
+4. I didn't place the pineapples in the sunroom",I am not sure if Carter place the pineapples in the sunroom,-0.770998477935791,-1.3916829824447632
+"Question: are some of the cabbages in the lounge
+Answer: Lily said she put all of them there","1. I am not sure if some of the cabbages are in the lounge
+2. all the cabbages are in the lounge
+3. all of the cabbages are in the lounge
+4. I was not in the lounge",all the cabbages are in the lounge,-1.1831951141357422,-2.3515708446502686
+"Question: did you go there
+Answer: I journeyed to the bedroom","1. I was not in the sunroom
+2. I was not in the lounge
+3. I was in the lounge
+4. I don't know",I was not in the lounge,-1.5044227838516235,-2.704397678375244
+"Question: where can I get the pumpkin
+Answer: it is in the lounge","1. the pumpkin is in the bedroom
+2. the pumpkin is in the lounge
+3. I am not sure where the pumpkin is
+4. the pumpkin is not in the lounge",the pumpkin is in the lounge,-0.9151203036308289,-1.8010886907577515
+"Question: was Liam in the playroom
+Answer: he went to the study","1. Liam was in the playroom
+2. I was in the playroom
+3. Liam was not in the playroom
+4. I don't know",Liam was not in the playroom,-1.8622170686721802,-2.609539031982422
+"Question: did he place the eggplant in the study
+Answer: he placed the grapefruits there","1. I place the eggplant in the study
+2. I didn't place the eggplant in the study
+3. Liam place the eggplant in the study
+4. Liam didn't place the eggplant in the study",Liam didn't place the eggplant in the study,-1.256188154220581,-1.276225209236145
+"Question: how many persimmons are in the playroom
+Answer: three","1. three persimmons are in the playroom
+2. I am not sure how many persimmons are in the playroom
+3. all of the eggplant are in the playroom
+4. three of the persimmons are in the playroom",three persimmons are in the playroom,-1.294304609298706,-1.7791633605957031
+"Question: were you in the study
+Answer: I journeyed to the playroom","1. I was not in the study
+2. I don't know
+3. I was not in the playroom
+4. I was in the playroom",I was not in the study,-1.9216983318328857,-2.8065500259399414
+"Question: did Lily go to the workshop 
+Answer: she went to the playroom","1. Lily was in the workshop
+2. I don't know if Lily was in the workshop
+3. Lily was not in the workshop
+4. I was in the workshop",Lily was not in the workshop,-1.4256165027618408,-2.3865835666656494
+"Question: was Emily there
+Answer: she went to the living_room","1. I was not in the playroom
+2. I don't know if Emily was in the playroom
+3. Emily was not in the playroom
+4. I don't know",Emily was not in the playroom,-1.4062920808792114,-1.9747519493103027
+"Question: where can I find the celery
+Answer: Emily and I left it in the living_room","1. the celery is in the playroom
+2. I am not sure where the celery is
+3. Emily and I left the celery in the living_room together
+4. I don't know where the celery is",Emily and I left the celery in the living_room together,-1.018593668937683,-1.1963088512420654
+"Question: did Alexander leave the oranges in the hall
+Answer: he said he didn't go back there","1. I don't know if Alexander leave the oranges in the hall
+2. I leave the oranges in the hall
+3. Alexander didn't leave the oranges in the hall
+4. I didn't leave the oranges in the hall",Alexander didn't leave the oranges in the hall,-1.368844985961914,-1.7122716903686523
+"Question: did you place them there
+Answer: I was in the pantry","1. I placed the oranges in the pantry
+2. the oranges are in the TV_room
+3. I didn't place the oranges in the hall
+4. the oranges are not in the TV_room",I didn't place the oranges in the hall,-1.2050565481185913,-2.0269360542297363
+"Question: how many are in the crawlspace
+Answer: there are at least one there","1. the oranges are not in the crawlspace
+2. I am not sure how many oranges are in the crawlspace
+3. two of the oranges are in the crawlspace
+4. one oranges are in the crawlspace",I am not sure how many oranges are in the crawlspace,-0.8614779114723206,-1.2512784004211426
+"Question: did Jayden leave the oranges in the TV_room
+Answer: he said he left them in the porch","1. the oranges are in the TV_room
+2. Jayden leave the oranges in the TV_room
+3. Jayden didn't leave the oranges in the TV_room
+4. Jayden didn't leave the oranges in the porch",Jayden didn't leave the oranges in the TV_room,-1.040997862815857,-1.2993929386138916
+"Question: was he in the bathroom
+Answer: he was in the TV_room","1. Jayden was in the TV_room
+2. Jayden was not in the TV_room
+3. Jayden was not in the bathroom
+4. I don't know",Jayden was not in the bathroom,-1.837406039237976,-2.944244623184204
+"Question: did you leave the cabbage there
+Answer: I was in the bathroom","1. I left the cabbage in the bathroom
+2. the cabbage is not in the porch
+3. I didn't leave the cabbage in the TV_room
+4. the cabbage is in the porch",I didn't leave the cabbage in the TV_room,-1.018034815788269,-1.6694557666778564
+"Question: was Nathan in the TV_room
+Answer: he was in the office","1. I was not in the TV_room
+2. I don't know
+3. Nathan was not in the TV_room
+4. Nathan was in the TV_room",Nathan was not in the TV_room,-1.7137187719345093,-2.127546548843384
+"Question: did you leave the peas in the TV_room
+Answer: I didn't","1. I leave the peas in the TV_room
+2. I leave the peas in the office
+3. I didn't leave the peas in the office
+4. I didn't leave the peas in the TV_room",I didn't leave the peas in the TV_room,-0.8582926988601685,-1.3228992223739624
+"Question: did Nathan place them there
+Answer: he placed them in the hall or the TV_room","1. Nathan didn't place the peas in the TV_room
+2. I am not sure if Nathan place the peas in the TV_room
+3. Nathan didn't placed the peas in the hall
+4. Nathan placed the peas in the hall",I am not sure if Nathan place the peas in the TV_room,-0.8279500603675842,-1.3980871438980103
+"Question: were you in the attic
+Answer: I returned to the garden","1. I was in the front_yard
+2. I was not in the attic
+3. I don't know
+4. I was in the attic",I was not in the attic,-1.7841569185256958,-2.813485860824585
+"Question: where did Liam go
+Answer: I know he didn't went to the attic","1. I was in the attic
+2. I am not sure where Liam was
+3. I don't know
+4. I was not in the attic",I am not sure where Liam was,-1.4235161542892456,-2.371596336364746
+"Question: was he in the hallway
+Answer: he was in the attic","1. Liam was in the hallway
+2. I don't know if Liam was in the hallway
+3. I don't know
+4. Liam was not in the hallway",Liam was not in the hallway,-1.8408185243606567,-2.7648746967315674
+"Question: did you place the peas in the porch
+Answer: I didn't go there","1. I didn't place the peas in the porch
+2. I was in the porch
+3. the peas are in the sunroom
+4. the peas are not in the sunroom",I didn't place the peas in the porch,-0.8766016364097595,-1.7732552289962769
+"Question: what about Alexander
+Answer: he left the cucumbers there","1. Alexander didn't leave the peas in the porch
+2. Alexander leave the peas in the porch
+3. Alexander didn't leave the cucumbers in the porch
+4. the peas are in the porch",Alexander didn't leave the peas in the porch,-1.2184038162231445,-1.8476109504699707
+"Question: did he leave the peas in the porch
+Answer: he left the cucumbers there","1. Alexander didn't leave the cucumbers in the porch
+2. I don't know if Alexander leave the peas in the porch
+3. Alexander leave the peas in the porch
+4. Alexander didn't leave the peas in the porch",Alexander didn't leave the peas in the porch,-1.1373229026794434,-1.7653164863586426
+"Question: were you in the study
+Answer: I walked to the den","1. I was not in the study
+2. I was in the study
+3. I was not in the garage
+4. I was in the playroom",I was not in the study,-1.8378489017486572,-3.461893081665039
+"Question: was Sophia there
+Answer: she was in the garage","1. I don't know
+2. I was not in the den
+3. I don't know if Sophia was in the den
+4. Sophia was not in the den",Sophia was not in the den,-1.6099238395690918,-2.85732364654541
+"Question: are all the lemons there
+Answer: some are there","1. I am not sure how many lemons are in the garage
+2. I am not sure if all of the lemons are in the garage
+3. not all the lemons are in the garage
+4. the lemons are not in the garage",not all the lemons are in the garage,-1.226880669593811,-1.6219176054000854
+"Question: was Amelia there
+Answer: she was in the study","1. I don't know
+2. Amelia was in the garage
+3. I was in the garage
+4. Amelia was not in the garage",Amelia was not in the garage,-1.6051422357559204,-3.3026280403137207
+"Question: did Mila go to the laundry 
+Answer: she was in the patio","1. I was not in the laundry
+2. I don't know
+3. Mila was not in the laundry
+4. I don't know if Mila was in the laundry",Mila was not in the laundry,-1.2507425546646118,-1.9912058115005493
+"Question: were you there
+Answer: I was in the attic","1. I was in the patio
+2. I was in the TV_room
+3. I was not in the patio
+4. I don't know",I was not in the patio,-1.5499540567398071,-2.8831262588500977
+"Question: was Elizabeth there
+Answer: she was in the laundry","1. I was in the attic
+2. I don't know
+3. Elizabeth was not in the attic
+4. I don't know if Elizabeth was in the attic",Elizabeth was not in the attic,-2.123988628387451,-3.012916326522827
+"Question: are some of the bananas in the lounge
+Answer: four are there","1. four of the bananas are in the lounge
+2. all of the bananas are in the lounge
+3. I am not sure how many bananas are in the lounge
+4. I am not sure if some of the bananas are in the lounge",four of the bananas are in the lounge,-1.0897548198699951,-1.4727882146835327
+"Question: were you in the hallway
+Answer: I returned to the pantry","1. I was in the hallway
+2. I was not in the lounge
+3. I don't know
+4. I was not in the hallway",I was not in the hallway,-1.5835407972335815,-2.748469352722168
+"Question: where can I find the cherries
+Answer: they are in the pantry","1. I don't know where the cherries are
+2. I am not sure where the cherries are
+3. the cherries are not in the pantry
+4. the cherries are in the pantry",the cherries are in the pantry,-1.1493467092514038,-2.3232920169830322
+"Question: did you go to the den
+Answer: I walked to the office","1. I was not in the porch
+2. I was in the porch
+3. I was not in the den
+4. I don't know",I was not in the den,-2.004641056060791,-3.831211805343628
+"Question: are all the plums in the lounge
+Answer: some are there","1. all of the plums are in the office
+2. I am not sure if all of the plums are in the lounge
+3. not all the plums are in the lounge
+4. I was not in the lounge",not all the plums are in the lounge,-1.1373836994171143,-1.566665530204773
+"Question: did you see the peas
+Answer: Jack put them in the office and travelled to the office","1. Jack put the peas in the office and then travelled to the office
+2. the peas are in the lounge
+3. I am not sure where the peas are
+4. I put the peas in the office and then travelled to the office",Jack put the peas in the office and then travelled to the office,-0.9934000968933105,-1.2083158493041992
+"Question: did Emily place the potatoes in the attic
+Answer: she placed the radish there","1. I place the potatoes in the attic
+2. Emily place the potatoes in the attic
+3. I don't know if Emily place the potatoes in the attic
+4. Emily didn't place the potatoes in the attic",Emily didn't place the potatoes in the attic,-0.9261448383331299,-1.3196743726730347
+"Question: did you see the asparagus
+Answer: they are in the pantry","1. the asparagus are in the pantry
+2. I don't know where the asparagus are
+3. the asparagus are not in the pantry
+4. I am not sure where the asparagus are",the asparagus are in the pantry,-0.9112257957458496,-1.5072396993637085
+"Question: are some of them there
+Answer: there are some","1. I am not sure if some of the asparagus are in the pantry
+2. I am not sure how many asparagus are in the pantry
+3. three of the asparagus are in the pantry
+4. some of the asparagus are in the pantry",some of the asparagus are in the pantry,-1.048783540725708,-1.7130931615829468
+"Question: where can I get the peas
+Answer: they are in the pantry or the TV_room","1. I was not in the pantry
+2. I am not sure where the peas are
+3. the peas are in the pantry
+4. I was not in the TV_room",I am not sure where the peas are,-1.3647804260253906,-2.2677829265594482
+"Question: where can I get the melons
+Answer: Chloe said there is a blue envelope in the pantry","1. I am not sure where the melons are
+2. the melons are in the pantry
+3. the melons are not in the pantry
+4. the melons are in the blue envelope",the melons are in the pantry,-1.1962037086486816,-1.905105471611023
+"Question: were you in the sunroom
+Answer: I was in the playroom","1. I don't know
+2. I was not in the pantry
+3. I was not in the sunroom
+4. I was in the sunroom",I was not in the sunroom,-1.7637927532196045,-2.9212255477905273
+"Question: did Chloe go there
+Answer: she travelled to the pantry","1. I was not in the playroom
+2. Chloe was not in the playroom
+3. I don't know
+4. I don't know if Chloe was in the playroom",Chloe was not in the playroom,-1.2017337083816528,-1.9913510084152222
+"Question: were you in the hallway
+Answer: I walked to the pantry","1. I was in the hallway
+2. I was not in the hallway
+3. I don't know
+4. I was not in the study",I was not in the hallway,-1.516161322593689,-3.529393196105957
+"Question: are all the onions in the hall
+Answer: they are all there","1. two of the onions are in the hall
+2. I am not sure if all of the onions are in the hall
+3. some of the onions are in the hall
+4. all of the onions are in the hall",all of the onions are in the hall,-1.2123318910598755,-1.8725416660308838
+"Question: where can I find the cherries
+Answer: there is a blue envelope in the pantry","1. the cherries are in the blue envelope
+2. the cherries are in the pantry
+3. I am not sure where the cherries are
+4. the cherries are in the hall",the cherries are in the pantry,-1.2388181686401367,-2.082416296005249
+"Question: did Liam put the turnips in the living_room
+Answer: he said he put them in the bedroom","1. Liam didn't put the turnips in the living_room
+2. I put the turnips in the living_room
+3. Liam put the turnips in the living_room
+4. the turnips are in the living_room",Liam didn't put the turnips in the living_room,-0.9577348828315735,-1.4999860525131226
+"Question: where can I find the corns
+Answer: they are in the master_bedroom or the staircase","1. the corns are in the staircase
+2. I am not sure where the corns are
+3. I was not in the staircase
+4. I was not in the master_bedroom",I am not sure where the corns are,-1.372393250465393,-1.8224835395812988
+"Question: how about the cucumber
+Answer: I don't know","1. I don't know where the cucumber is
+2. the cucumber is not in the living_room
+3. the cucumber is not in the master_bedroom
+4. the cucumber is in the living_room",I don't know where the cucumber is,-1.0348716974258423,-1.5811213254928589
+"Question: how about the pumpkins
+Answer: Liam said there is a red crate in the bedroom","1. the pumpkins are in the bedroom
+2. the pumpkins are in the red crate
+3. the pumpkins are in the living_room
+4. the pumpkins are not in the bedroom",the pumpkins are in the bedroom,-1.1016755104064941,-2.077402114868164
+"Question: did you see the asparagus
+Answer: they are in the living_room or the bedroom","1. I was not in the bedroom
+2. I was in the bedroom
+3. I am not sure where the asparagus are
+4. the asparagus are not in the bedroom",I am not sure where the asparagus are,-1.0959501266479492,-1.8746730089187622
+"Question: did Chloe leave them in the basement
+Answer: she left the eggplants there","1. Chloe didn't leave the eggplants in the basement
+2. Chloe leave the asparagus in the basement
+3. I leave the asparagus in the basement
+4. Chloe didn't leave the asparagus in the basement",Chloe didn't leave the asparagus in the basement,-0.7018882632255554,-1.4762628078460693
+"Question: how many peas are in the bedroom
+Answer: there are at least three there","1. all of the peas are in the basement
+2. four of the peas are in the bedroom
+3. I am not sure how many peas are in the bedroom
+4. three peas are in the bedroom",I am not sure how many peas are in the bedroom,-0.9569962024688721,-1.6271320581436157
+"Question: were you in the living_room
+Answer: I was in the laundry","1. I was not in the hallway
+2. I don't know
+3. I was not in the living_room
+4. I was in the hallway",I was not in the living_room,-1.322397232055664,-2.2977192401885986
+"Question: are some of the pumpkins in the hallway
+Answer: two are there","1. I am not sure if some of the pumpkins are in the hallway
+2. the pumpkins are not in the hallway
+3. all of the pumpkins are in the hallway
+4. two of the pumpkins are in the hallway",two of the pumpkins are in the hallway,-1.049734354019165,-2.1797375679016113
+"Question: where are the peaches
+Answer: there is a green envelope in the garden","1. the peaches are in the hallway
+2. the peaches are in the green envelope
+3. I don't know where the peaches are
+4. the peaches are in the garden",the peaches are in the garden,-1.3459590673446655,-2.4579155445098877
+"Question: did you leave them there
+Answer: I didn't","1. I didn't leave the peaches in the garden
+2. I leave the peaches in the garden
+3. the peaches are in the hallway
+4. the peaches are in the garden",I didn't leave the peaches in the garden,-0.9862775206565857,-1.497382640838623
+"Question: did Emily leave the spinaches in the hallway
+Answer: she didn't travel there","1. Emily leave the spinaches in the hallway
+2. I didn't leave the spinaches in the hallway
+3. the spinaches are in the hallway
+4. Emily didn't leave the spinaches in the hallway",Emily didn't leave the spinaches in the hallway,-0.9271972179412842,-1.387336254119873
+"Question: where can I find them
+Answer: they are in the playroom or the workshop","1. I was not in the playroom
+2. I was not in the workshop
+3. the spinaches are not in the workshop
+4. I am not sure where the spinaches are",I am not sure where the spinaches are,-1.30320143699646,-2.162705659866333
+"Question: did you go to the hallway
+Answer: I was in the cellar","1. I was in the hallway
+2. I was in the workshop
+3. I was not in the hallway
+4. I was not in the playroom",I was not in the hallway,-1.55904221534729,-2.439448118209839
+"Question: did Mason go there
+Answer: he went to the hallway","1. Mason was in the cellar
+2. I was in the cellar
+3. I don't know if Mason was in the cellar
+4. Mason was not in the cellar",Mason was not in the cellar,-2.274315357208252,-3.4849343299865723
+"Question: are some of the radishes in the master_bedroom
+Answer: they are all there","1. some of the radishes are in the master_bedroom
+2. I am not sure how many radishes are in the master_bedroom
+3. all the radishes are in the master_bedroom
+4. three of the radishes are in the master_bedroom",all the radishes are in the master_bedroom,-1.1204994916915894,-1.578268051147461
+"Question: was Olivia in the living_room
+Answer: she was in the master_bedroom","1. Olivia was not in the living_room
+2. I don't know
+3. I don't know if Olivia was in the living_room
+4. Olivia was not in the master_bedroom",Olivia was not in the living_room,-1.2578648328781128,-2.0972740650177
+"Question: are some of the spinaches in the living_room
+Answer: they are all there","1. all the spinaches are in the living_room
+2. all of the spinaches are in the living_room
+3. some of the spinaches are in the living_room
+4. four of the spinaches are in the living_room",all the spinaches are in the living_room,-1.241411566734314,-2.448235511779785
+"Question: was Ava in the bedroom
+Answer: she went to the cellar","1. I don't know if Ava was in the bedroom
+2. I was not in the bedroom
+3. I don't know
+4. Ava was not in the bedroom",Ava was not in the bedroom,-1.2969691753387451,-2.4346556663513184
+"Question: did you place the persimmons there
+Answer: I didn't","1. I didn't place the persimmons in the cellar
+2. I place the persimmons in the cellar
+3. the persimmons are in the cellar
+4. the persimmons are in the workshop",I didn't place the persimmons in the cellar,-0.8598851561546326,-1.1447381973266602
+"Question: did you go there
+Answer: I returned to the bedroom","1. I don't know
+2. I was in the front_yard
+3. I was not in the cellar
+4. I was in the cellar",I was not in the cellar,-1.819882869720459,-3.5430264472961426
+"Question: did you leave the radishes there
+Answer: I left them and the cabbages there","1. I left the radishes and also the cabbages in the bedroom
+2. the radishes are in the bedroom
+3. I didn't leave the radishes in the bedroom
+4. I leave the radishes in the bedroom",I left the radishes and also the cabbages in the bedroom,-0.8358750939369202,-1.8430688381195068
+"Question: where are the celeries
+Answer: Mila said she put them in the hallway and travelled to the hallway","1. I am not sure where the celeries are
+2. Mila put the celeries in the hallway and then travelled to the hallway
+3. the celeries are in the cellar
+4. I put the celeries in the hallway and then travelled to the hallway",Mila put the celeries in the hallway and then travelled to the hallway,-0.6725203394889832,-0.8890607953071594
+"Question: how many are in the hallway
+Answer: there are three","1. I am not sure how many celeries are in the hallway
+2. the celeries were not in the crawlspace
+3. the celeries are not in the hallway
+4. three celeries are in the hallway",three celeries are in the hallway,-1.6381546258926392,-2.5662918090820312
+"Question: did Mia go there
+Answer: she went to the kitchen","1. I was not in the hallway
+2. Mia was not in the hallway
+3. I don't know
+4. I don't know if Mia was in the hallway",Mia was not in the hallway,-1.3235167264938354,-2.1291582584381104
+"Question: are all the limes in the workshop
+Answer: they are all there","1. all of the limes are in the workshop
+2. some of the limes are in the workshop
+3. I am not sure how many limes are in the workshop
+4. the limes are not in the workshop",all of the limes are in the workshop,-1.0440521240234375,-1.7444027662277222
+"Question: are some of the strawberries in the back_yard
+Answer: Elizabeth said she put three there","1. the strawberries are not in the back_yard
+2. all of the strawberries are in the workshop
+3. three of the strawberries are in the back_yard
+4. all of the strawberries are in the back_yard",three of the strawberries are in the back_yard,-0.9855533838272095,-1.0753382444381714
+"Question: were you there
+Answer: I returned to the workshop","1. I was not in the back_yard
+2. I was in the den
+3. I was in the back_yard
+4. I don't know",I was not in the back_yard,-1.445320725440979,-2.78761625289917
+"Question: did Jacob go there
+Answer: he walked to the attic","1. I don't know if Jacob was in the workshop
+2. I was not in the workshop
+3. Jacob was in the workshop
+4. Jacob was not in the workshop",Jacob was not in the workshop,-2.2019829750061035,-3.328394651412964
+"Question: how many cucumbers are in the cellar
+Answer: there are one or two","1. two cucumbers are in the cellar
+2. the cucumbers are not in the cellar
+3. I am not sure how many cucumbers are in the cellar
+4. all of the cucumbers are in the cellar",I am not sure how many cucumbers are in the cellar,-0.8125907182693481,-1.0656580924987793
+"Question: are some of the watermelons there
+Answer: two are there","1. all of the cucumbers are in the cellar
+2. I am not sure if some of the watermelons are in the cellar
+3. two of the watermelons are in the cellar
+4. all of the watermelons are in the cellar",two of the watermelons are in the cellar,-0.9362143874168396,-1.6979448795318604
+"Question: was Jackson there
+Answer: he travelled to the bedroom","1. I was not in the cellar
+2. Jackson was not in the cellar
+3. I was in the cellar
+4. I don't know if Jackson was in the cellar",Jackson was not in the cellar,-2.17875599861145,-2.6243042945861816
+"Question: are some of the grapefruits there
+Answer: some of them are there","1. all of the grapefruits are in the bedroom
+2. I am not sure if some of the grapefruits are in the bedroom
+3. three of the grapefruits are in the bedroom
+4. some of the grapefruits are in the bedroom",some of the grapefruits are in the bedroom,-1.0228009223937988,-1.8133888244628906
+"Question: are some of the lettuces in the back_yard
+Answer: some of them are there","1. all of the lettuces are in the back_yard
+2. five of the lettuces are in the back_yard
+3. some of the lettuces are in the back_yard
+4. I am not sure how many lettuces are in the back_yard",some of the lettuces are in the back_yard,-0.9718260765075684,-1.7481822967529297
+"Question: did you go there
+Answer: I went to the bedroom","1. I don't know
+2. I was not in the workshop
+3. I was in the workshop
+4. I was not in the back_yard",I was not in the back_yard,-1.5491538047790527,-3.9181575775146484
+"Question: how many beans are in the garden
+Answer: four or five","1. I am not sure how many beans are in the garden
+2. all of the beans are in the bedroom
+3. five beans are in the garden
+4. all of the beans are in the garden",I am not sure how many beans are in the garden,-0.9526640176773071,-1.5306886434555054
+"Question: are some of the celeries in the patio
+Answer: Emily said she put five of them there","1. I am not sure how many celeries are in the patio
+2. all of the celeries are in the patio
+3. the celeries are not in the patio
+4. five of the celeries are in the patio",five of the celeries are in the patio,-1.8014296293258667,-2.5167627334594727
+"Question: are all the lemons in the lounge
+Answer: all of them are there","1. the lemons are not in the lounge
+2. not all of the lemons are in the lounge
+3. all of the lemons are in the lounge
+4. I am not sure if all of the lemons are in the lounge",all of the lemons are in the lounge,-1.077903151512146,-1.838339924812317
+"Question: were you there
+Answer: I went to the closet","1. I was not in the lounge
+2. I was not in the patio
+3. I was in the lounge
+4. I don't know",I was not in the lounge,-1.3577182292938232,-2.5264408588409424
+"Question: are some of the asparagus in the TV_room
+Answer: four are there","1. the asparagus are not in the TV_room
+2. I am not sure how many asparagus are in the TV_room
+3. four of the asparagus are in the TV_room
+4. all of the asparagus are in the TV_room",four of the asparagus are in the TV_room,-0.9255276322364807,-1.6656546592712402
+"Question: did Sophia put the celeries there
+Answer: she was not there","1. Sophia was in the TV_room
+2. I put the celeries in the TV_room
+3. Sophia didn't put the celeries in the TV_room
+4. I put the asparagus in the TV_room",Sophia didn't put the celeries in the TV_room,-1.1404433250427246,-1.3654612302780151
+"Question: did you put them there
+Answer: I put the asparagus there","1. I didn't put the celeries in the TV_room
+2. I put the celeries in the TV_room
+3. the celeries are in the TV_room
+4. I didn't put the asparagus in the TV_room",I didn't put the celeries in the TV_room,-0.9331222772598267,-2.0899178981781006
+"Question: did Lucas leave them there
+Answer: he left the peas there","1. I don't know if Lucas leave the celeries in the TV_room
+2. Lucas leave the celeries in the TV_room
+3. Lucas didn't leave the celeries in the TV_room
+4. I leave the celeries in the TV_room",Lucas didn't leave the celeries in the TV_room,-0.9994226098060608,-1.9088584184646606
+"Question: did Elizabeth go to the sunroom 
+Answer: she journeyed to the living_room","1. Elizabeth was not in the sunroom
+2. I don't know
+3. I was not in the sunroom
+4. Elizabeth was in the sunroom",Elizabeth was not in the sunroom,-2.204392671585083,-2.9510910511016846
+"Question: where can I get the peas
+Answer: Jayden said there is a green suitcase in the sunroom","1. the peas are not in the sunroom
+2. the peas are in the green suitcase
+3. the peas are in the sunroom
+4. I don't know where the peas are",the peas are in the sunroom,-1.2619844675064087,-2.052555799484253
+"Question: where can I find the watermelons
+Answer: they are in the living_room","1. the watermelons are in the living_room
+2. I am not sure where the watermelons are
+3. I don't know where the watermelons are
+4. the watermelons are not in the living_room",the watermelons are in the living_room,-0.8704032301902771,-1.4672945737838745
+"Question: where can I get the grapefruits
+Answer: they are in the porch or the bedroom","1. I am not sure where the grapefruits are
+2. I was not in the bedroom
+3. the grapefruits are in the bedroom
+4. I was not in the porch",I am not sure where the grapefruits are,-1.0918484926223755,-1.706390142440796
+"Question: did Liam put them in the porch
+Answer: he put them there and journeyed to the front_yard","1. I didn't put the grapefruits in the porch
+2. I put the grapefruits in the porch and then journeyed to the front_yard
+3. I put the grapefruits in the front_yard and then journeyed to the porch
+4. Liam put the grapefruits in the porch and then journeyed to the front_yard",Liam put the grapefruits in the porch and then journeyed to the front_yard,-0.6155081391334534,-0.8584597706794739
+"Question: did you leave the grapes there
+Answer: I left the lime there","1. I left the lime in the porch
+2. I didn't leave the grapefruits in the porch
+3. I didn't leave the grapes in the porch
+4. I leave the grapes in the porch",I didn't leave the grapes in the porch,-0.8888499736785889,-1.4965176582336426
+"Question: was Avery in the lounge
+Answer: she was in the TV_room","1. Avery was not in the lounge
+2. I don't know if Avery was in the lounge
+3. I don't know
+4. I was not in the lounge",Avery was not in the lounge,-1.2242714166641235,-2.0353024005889893
+"Question: where can I get the pumpkin
+Answer: there is a green suitcase in the hall","1. the pumpkin is in the hall
+2. I don't know where the pumpkin is
+3. the pumpkin is in the green suitcase
+4. the pumpkin is in the TV_room",the pumpkin is in the hall,-1.1931954622268677,-2.4710590839385986
+"Question: how about the spinaches
+Answer: they are in the TV_room or the hall","1. I am not sure where the spinaches are
+2. the spinaches are not in the hall
+3. the spinaches are not in the TV_room
+4. the spinaches are in the TV_room",I am not sure where the spinaches are,-1.2801141738891602,-1.9997575283050537
+"Question: were you in the lounge
+Answer: I returned to the dining_room","1. I was in the bathroom
+2. I was not in the bathroom
+3. I was not in the lounge
+4. I was in the lounge",I was not in the lounge,-1.4545865058898926,-2.4494028091430664
+"Question: where can I find the strawberries
+Answer: Mason said there is a blue crate in the lounge","1. I am not sure where the strawberries are
+2. the strawberries are in the dining_room
+3. the strawberries are in the blue crate
+4. the strawberries are in the lounge",the strawberries are in the lounge,-0.8245171308517456,-1.567822813987732
+"Question: where are the peas
+Answer: they are in the lounge or the bathroom","1. the peas are in the dining_room
+2. the peas are in the lounge
+3. I was not in the lounge
+4. I am not sure where the peas are",I am not sure where the peas are,-1.4135825634002686,-2.2387635707855225
+"Question: are all the lettuces in the hall
+Answer: some are there","1. not all the lettuces are in the hall
+2. the lettuces are not in the hall
+3. all of the peas are in the hall
+4. all of the lettuces are in the hall",not all the lettuces are in the hall,-1.1622202396392822,-1.653050422668457
+"Question: are some of the cucumbers in the playroom
+Answer: five are there","1. all of the cucumbers are in the playroom
+2. I am not sure if some of the cucumbers are in the playroom
+3. five of the cucumbers are in the playroom
+4. I am not sure how many cucumbers are in the playroom",five of the cucumbers are in the playroom,-1.267159342765808,-1.7784274816513062
+"Question: are some of the radishes in the living_room
+Answer: Olivia said she put five there","1. Olivia was not in the living_room
+2. I am not sure how many radishes are in the living_room
+3. five of the radishes are in the living_room
+4. all of the cucumbers are in the living_room",five of the radishes are in the living_room,-1.4773905277252197,-1.972778558731079
+"Question: did you leave the cucumbers there
+Answer: I left them in the playroom","1. I didn't leave the cucumbers in the playroom
+2. I leave the cucumbers in the living_room
+3. I didn't leave the cucumbers in the living_room
+4. I didn't leave the radishes in the living_room",I didn't leave the cucumbers in the living_room,-0.7541910409927368,-1.7602336406707764
+"Question: are all the lemons in the pantry
+Answer: I have no idea","1. I don't know if all the lemons are in the pantry
+2. the lemons are not in the pantry
+3. four of the lemons are in the pantry
+4. the lemons were not in the lounge",I don't know if all the lemons are in the pantry,-0.7349456548690796,-1.0883163213729858
