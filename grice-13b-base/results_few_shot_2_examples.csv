@@ -1,0 +1,1971 @@
+dialogue,explicit_answer,options,Predicted Score LLaMA-13b
+"Question: did you leave the cucumber in the den
+Answer: I was in the dining_room",I didn't leave the cucumber in the den,"1. I didn't leave the cucumber in the den
+2. the cucumber is in the dining_room
+3. I left the cucumber in the dining_room
+4. I leave the cucumber in the den","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you leave the cucumber in the den
+Answer: I was in the dining_room
+
+  Options: 1. I didn't leave the cucumber in the den
+2. the cucumber is in the dining_room
+3. I left the cucumber in the dining_room
+4. I leave the cucumber in the den
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: is the cucumber in the den
+Answer: I was in the dining_room
+
+  Options: 1. the cucumber is in the den
+2. I didn't leave the cucumber in the den
+3. I left the cucumber in the dining_room
+4. I leave the cucumber in the den
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: was the cucumber in the den
+Answer: I was in the dining_room
+
+  Options: 1. the cucumber was in the den
+2. I didn't leave the cucumber in the den
+3. I left the cucumber in the dining_room
+4. I leave the cucumber in the den
+"
+"Question: what about Mia
+Answer: she placed the limes there",Mia didn't place the cucumber in the den,"1. I don't know if Mia place the cucumber in the den
+2. I didn't place the cucumber in the den
+3. Mia didn't place the cucumber in the den
+4. Mia didn't place the limes in the den","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: what about Mia
+Answer: she placed the limes there
+
+  Options: 1. I don't know if Mia place the cucumber in the den
+2. I didn't place the cucumber in the den
+3. Mia didn't place the cucumber in the den
+4. Mia didn't place the limes in the den
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 3
+  3. 2
+  4. 4
+\end{code}
+
+Comment: Please edit the question to limit it to a specific problem with enough detail to identify an adequate answer.
+
+Answer: \begin{code}
+import re
+
+text = """"""
+Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the la"
+"Question: was she there
+Answer: she was there if not in the den",I am not sure if Mia was in the den,"1. I was not in the den
+2. Mia was in the den
+3. I am not sure if Mia was in the den
+4. Mia was not in the den","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: was she there
+Answer: she was there if not in the den
+
+  Options: 1. I was not in the den
+2. Mia was in the den
+3. I am not sure if Mia was in the den
+4. Mia was not in the den
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  The number of the option that captures the implicature of the answer:
+  1
+  2
+  3
+  4
+
+  Question: was she in the den
+
+  Answer: she was in the den if not in the kitchen
+
+  Options: 1. I was not in the kitchen
+ 2. Mia was in the kitchen
+ 3. I am not sure if Mia was in the kitchen
+ 4. Mia was not in the kitchen
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  The number of the option that captures the implicature of the answer:
+  1
+  2
+  3
+  4
+
+  Question: was she in the kitchen
+
+  Answer: she was in the kitchen if not in the den
+
+  Options: 1. I was not in the den
+ 2. Mia was in the den"
+"Question: was Jayden in the den
+Answer: he walked to the cellar",Jayden was not in the den,"1. Jayden was in the den
+2. Jayden was not in the den
+3. I don't know
+4. I was not in the den","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: was Jayden in the den
+Answer: he walked to the cellar
+
+  Options: 1. Jayden was in the den
+2. Jayden was not in the den
+3. I don't know
+4. I was not in the den
+
+  The number of the option that captures the explicit answer:
+  1
+\end{code}
+
+Answer: I think you should use `argmax` function to get the index of the answer with maximum value.
+
+\begin{code}
+answer = np.argmax(np.abs(np.diff(np.array(answers))))
+\end{code}
+
+Answer: I think you can use the `np.argmax()` function to get the index of the answer with maximum value.
+
+\begin{code}
+answer = np.argmax(np.abs(np.diff(np.array(answers))))
+\end{code}
+
+Comment: This is the correct answer.
+
+Answer: I think you are looking for the [argmax](https://numpy.org/doc/stable/reference/generated/numpy.argmax.html) function.
+
+\begin{code}
+import numpy as np
+
+answers = [1, 2, 1, 0, 2, 0, 1, 1, 1, 0, "
+"Question: did he leave the pineapples in the den
+Answer: he left them in the den if not the cellar",I am not sure if Jayden leave the pineapples in the den,"1. I didn't leave the pineapples in the cellar
+2. I am not sure if Jayden leave the pineapples in the den
+3. Jayden didn't leave the pineapples in the den
+4. I leave the pineapples in the cellar","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did he leave the pineapples in the den
+Answer: he left them in the den if not the cellar
+
+  Options: 1. I didn't leave the pineapples in the cellar
+2. I am not sure if Jayden leave the pineapples in the den
+3. Jayden didn't leave the pineapples in the den
+4. I leave the pineapples in the cellar
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  The number of the option that captures the implicature of the answer:
+  1
+  2
+  3
+  4
+
+  Question: did he leave the pineapples in the den
+
+  Answer: he left them in the den if not the cellar
+
+  Options: 1. I didn't leave the pineapples in the cellar
+ 2. I am not sure if Jayden leave the pineapples in the den
+ 3. Jayden didn't leave the pineapples in the den
+ 4. I leave the pineapples in the cellar
+
+  Explict answer: I didn't leave the pineapples in the cellar
+
+  Question: did he leave the pineapples in the den
+
+"
+"Question: are some of the cherries there
+Answer: I put all of them there",all the cherries are in the den,"1. the cherries are not in the den
+2. I am not sure if some of the cherries are in the den
+3. all the cherries are in the den
+4. some of the cherries are in the den","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: are some of the cherries there
+Answer: I put all of them there
+
+  Options: 1. the cherries are not in the den
+2. I am not sure if some of the cherries are in the den
+3. all the cherries are in the den
+4. some of the cherries are in the den
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+
+  Question: is the cherry pie there
+Answer: I put it in the fridge
+
+  Options: 1. the cherry pie is in the fridge
+2. I am not sure if the cherry pie is in the fridge
+3. the cherry pie is not in the fridge
+4. I am not sure if the cherry pie is in the fridge
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+
+  Question: is the pie there
+Answer: I put it in the fridge
+
+  Options: 1. the pie is in the fridge
+2. I am not sure if the pie is in the fridge
+3. the pie is not in the fridge
+4. I am not"
+"Question: did you put the beans there
+Answer: I put them in the cellar",I didn't put the beans in the den,"1. I put the cherries in the den
+2. I didn't put the beans in the cellar
+3. the beans are in the den
+4. I didn't put the beans in the den","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you put the beans there
+Answer: I put them in the cellar
+
+  Options: 1. I put the cherries in the den
+2. I didn't put the beans in the cellar
+3. the beans are in the den
+4. I didn't put the beans in the den
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 3
+  3. 4
+  4. 2
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you put the beans there
+Answer: I put them in the cellar
+
+  Options: 1. I put the cherries in the den
+2. I didn't put the beans in the cellar
+3. the beans are in the den
+4. I didn't put the beans in the den
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 3
+  3. 4
+  4. 2
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you put the beans there
+Answer: I put them in the cellar
+
+"
+"Question: did Jayden place the lemons in the porch
+Answer: he placed the grapes there",Jayden didn't place the lemons in the porch,"1. Jayden didn't place the grapes in the porch
+2. the lemons are in the porch
+3. I don't know if Jayden place the lemons in the porch
+4. Jayden didn't place the lemons in the porch","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did Jayden place the lemons in the porch
+Answer: he placed the grapes there
+
+  Options: 1. Jayden didn't place the grapes in the porch
+2. the lemons are in the porch
+3. I don't know if Jayden place the lemons in the porch
+4. Jayden didn't place the lemons in the porch
+
+  The number of the option that captures the explicit answer:
+  1.
+  2.
+  3.
+  4.
+
+  Question: did you eat the strawberries
+
+  Answer: I ate the lemons
+
+  Options: 1. I didn't eat the strawberries
+2. I ate the grapes
+3. I didn't eat the grapes
+4. I ate the strawberries
+
+  The number of the option that captures the explicit answer:
+  1.
+  2.
+  3.
+  4.
+
+  Question: did you eat the strawberries
+
+  Answer: I ate the grapes
+
+  Options: 1. I didn't eat the strawberries
+2. I ate the lemons
+3. I didn't eat the lemons
+4. I ate the strawberries
+"
+"Question: how many eggplants are there
+Answer: there are at least three there",I am not sure how many eggplants are in the porch,"1. I am not sure how many eggplants are in the porch
+2. three eggplants are in the porch
+3. all of the eggplants are in the porch
+4. four eggplants are in the porch","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: how many eggplants are there
+Answer: there are at least three there
+
+  Options: 1. I am not sure how many eggplants are in the porch
+2. three eggplants are in the porch
+3. all of the eggplants are in the porch
+4. four eggplants are in the porch
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: how many eggplants are there
+Answer: there are at least two there
+
+  Options: 1. I am not sure how many eggplants are in the porch
+2. two eggplants are in the porch
+3. all of the eggplants are in the porch
+4. four eggplants are in the porch
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: how many eggplants are there
+Answer: there are at least four there
+
+  Options: 1. I am not sure how many eggplants are in the porch
+2. four eggplants are in the porch
+3. all of the eggplants are in the porch
+4. four eggplants are in the porch
+
+  The number of the option that"
+"Question: did you leave them there
+Answer: I didn't",I didn't leave the eggplants in the porch,"1. the eggplants are in the playroom
+2. I leave the eggplants in the porch
+3. the eggplants are not in the front_yard
+4. I didn't leave the eggplants in the porch","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you leave them there
+Answer: I didn't
+
+  Options: 1. the eggplants are in the playroom
+2. I leave the eggplants in the porch
+3. the eggplants are not in the front_yard
+4. I didn't leave the eggplants in the porch
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you leave them there
+Answer: I didn't
+
+  Options: 1. the eggplants are in the playroom
+2. I leave the eggplants in the porch
+3. the eggplants are not in the front_yard
+4. I didn't leave the eggplants in the porch
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you leave them there
+Answer: I didn't
+
+  Options: 1. the eggplants are in the playroom
+2. I leave the eggplants in the porch
+"
+"Question: did Jayden place them there
+Answer: he didn't",Jayden didn't place the eggplants in the porch,"1. Jayden didn't place the eggplants in the porch
+2. I don't know if Jayden place the eggplants in the porch
+3. I didn't place the eggplants in the porch
+4. Jayden place the eggplants in the porch","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did Jayden place them there
+Answer: he didn't
+
+  Options: 1. Jayden didn't place the eggplants in the porch
+2. I don't know if Jayden place the eggplants in the porch
+3. I didn't place the eggplants in the porch
+4. Jayden place the eggplants in the porch
+
+  The number of the option that captures the explicit answer:
+  1.
+  2.
+  3.
+  4.
+
+  Question: did you see the eggplants
+Answer: I did
+
+  Options: 1. I saw the eggplants
+2. I didn't see the eggplants
+3. I didn't see the eggplants
+4. I saw the eggplants
+
+  The number of the option that captures the explicit answer:
+  1.
+  2.
+  3.
+  4.
+
+  Question: did you put them there
+Answer: I did
+
+  Options: 1. I put the eggplants in the porch
+2. I didn't put the eggplants in the porch
+3. I didn't put the eggplants in the porch
+4. I put the eggplants in the porch
+
+  The number of the option that captures the"
+"Question: did Jackson put the melons in the attic
+Answer: he didn't go there",Jackson didn't put the melons in the attic,"1. I don't know if Jackson put the melons in the attic
+2. Jackson didn't put the melons in the attic
+3. the melons are in the attic
+4. Jackson put the melons in the attic","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did Jackson put the melons in the attic
+Answer: he didn't go there
+
+  Options: 1. I don't know if Jackson put the melons in the attic
+2. Jackson didn't put the melons in the attic
+3. the melons are in the attic
+4. Jackson put the melons in the attic
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: did you go to the basement
+Answer: I didn't go there
+
+  Options: 1. I don't know if I went to the basement
+2. I didn't go to the basement
+3. I went to the basement
+4. I went to the laundry
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: was Emily in the basement
+Answer: she wasn't there
+
+  Options: 1. Emily was in the basement
+2. Emily was in the laundry
+3. Emily was not in the basement
+4. Emily was not in the laundry
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  "
+"Question: what about Lily
+Answer: she said she was in the hall",Lily didn't place the melons in the attic,"1. I don't know if Lily place the melons in the attic
+2. Lily didn't place the melons in the attic
+3. I place the melons in the attic
+4. the melons are in the attic","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: what about Lily
+Answer: she said she was in the hall
+
+  Options: 1. I don't know if Lily place the melons in the attic
+2. Lily didn't place the melons in the attic
+3. I place the melons in the attic
+4. the melons are in the attic
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+\end{code}
+
+Comment: Are you using the same dataset as the other two questions?
+
+Comment: @Dave yes, I'm using the same dataset
+
+Comment: What's the output for the first question?
+
+Comment: @Dave I get 2
+
+Comment: @Dave 1
+
+Answer: I think the problem is that you are treating the `explicit_answer` variable as a string.
+
+\begin{code}
+explicit_answer = ""I was not in the basement""
+\end{code}
+
+This is not a string.  It is a list.  You are trying to compare it to a string, which is why it is not working.
+
+I think you want to do this:
+
+\begin{code}
+explicit_answer = [0,"
+"Question: did you leave them there
+Answer: I left the pineapples there",I didn't leave the melons in the attic,"1. I didn't leave the melons in the attic
+2. I didn't leave the pineapples in the attic
+3. the melons are in the attic
+4. I leave the melons in the attic","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you leave them there
+Answer: I left the pineapples there
+
+  Options: 1. I didn't leave the melons in the attic
+2. I didn't leave the pineapples in the attic
+3. the melons are in the attic
+4. I leave the melons in the attic
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+\end{code}
+
+Answer: \begin{code}
+import re
+
+text = """"""
+Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialog"
+"Question: was Elizabeth in the study
+Answer: she travelled to the master_bedroom",Elizabeth was not in the study,"1. I was not in the study
+2. Elizabeth was not in the study
+3. I don't know if Elizabeth was in the study
+4. Elizabeth was in the study","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: was Elizabeth in the study
+Answer: she travelled to the master_bedroom
+
+  Options: 1. I was not in the study
+2. Elizabeth was not in the study
+3. I don't know if Elizabeth was in the study
+4. Elizabeth was in the study
+
+  The number of the option that captures the explicit answer:
+  4
+
+  Question: did the cat eat the cheese
+
+  Answer: she travelled to the kitchen
+
+  Options: 1. I don't know if the cat ate the cheese
+2. the cat ate the cheese
+3. the cat did not eat the cheese
+4. I don't know if the cat ate the cheese
+
+  The number of the option that captures the explicit answer:
+  3
+
+  Question: was the cat in the kitchen
+
+  Answer: she travelled to the living_room
+
+  Options: 1. the cat was in the kitchen
+2. I don't know if the cat was in the kitchen
+3. the cat was not in the kitchen
+4. the cat was in the kitchen
+
+  The number of the option that captures the explicit answer:
+  3
+
+  Question: was the cat in the living_room
+
+  Answer: she travelled to the bedroom
+
+  Options: 1"
+"Question: did you go there
+Answer: I walked to the office",I was not in the master_bedroom,"1. I was not in the study
+2. I don't know
+3. I was not in the master_bedroom
+4. I was in the master_bedroom","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you go there
+Answer: I walked to the office
+
+  Options: 1. I was not in the study
+2. I don't know
+3. I was not in the master_bedroom
+4. I was in the master_bedroom
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: did you go there
+Answer: I walked to the office
+
+  Options: 1. I was not in the study
+2. I don't know
+3. I was not in the master_bedroom
+4. I was in the master_bedroom
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: did you go there
+Answer: I walked to the office
+
+  Options: 1. I was not in the study
+2. I don't know
+3. I was not in the master_bedroom
+4. I was in the master_bedroom
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: did you go there
+Answer: I walked to the office
+
+  Options: 1. I was not in the study
+2. I don't know"
+"Question: did Mia go there
+Answer: she was in the dining_room",Mia was not in the office,"1. Mia was not in the office
+2. Mia was in the office
+3. I was not in the office
+4. I don't know if Mia was in the office","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did Mia go there
+Answer: she was in the dining_room
+
+  Options: 1. Mia was not in the office
+2. Mia was in the office
+3. I was not in the office
+4. I don't know if Mia was in the office
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: did Mia go there
+Answer: she was in the dining_room
+
+  Options: 1. Mia was not in the office
+2. Mia was in the office
+3. I was not in the office
+4. I don't know if Mia was in the office
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: did Mia go there
+Answer: she was in the dining_room
+
+  Options: 1. Mia was not in the office
+2. Mia was in the office
+3. I was not in the office
+4. I don't know if Mia was in the office
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Question: did Mia go there
+Answer: she was in the d"
+"Question: are some of the persimmons in the patio
+Answer: four are there",four of the persimmons are in the patio,"1. four of the persimmons are in the patio
+2. the persimmons are not in the patio
+3. I am not sure how many persimmons are in the patio
+4. I am not sure if some of the persimmons are in the patio","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: are some of the persimmons in the patio
+Answer: four are there
+
+  Options: 1. four of the persimmons are in the patio
+2. the persimmons are not in the patio
+3. I am not sure how many persimmons are in the patio
+4. I am not sure if some of the persimmons are in the patio
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 3
+  3. 2
+  4. 4
+
+  Question: is the book on the table
+
+  Answer: it is on the table
+
+  Options: 1. the book is on the table
+2. the book is not on the table
+3. I am not sure if the book is on the table
+4. I am not sure if the book is not on the table
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 3
+  3. 2
+  4. 4
+
+  Question: was the book on the table
+
+  Answer: it was on the table
+
+  Options: 1. the book was on the table
+2. the book was not on the table
+3. I am not sure if the book was on the table
+4. I am"
+"Question: did you place the eggplant there
+Answer: I placed the persimmons there",I didn't place the eggplant in the patio,"1. I didn't place the eggplant in the patio
+2. I didn't place the persimmons in the patio
+3. I place the eggplant in the patio
+4. the eggplant is in the patio","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you place the eggplant there
+Answer: I placed the persimmons there
+
+  Options: 1. I didn't place the eggplant in the patio
+2. I didn't place the persimmons in the patio
+3. I place the eggplant in the patio
+4. the eggplant is in the patio
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  The number of the option that captures the implicit answer:
+  1
+  2
+  3
+  4
+
+  Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry"
+"Question: did Owen leave the asparagus in the workshop
+Answer: I didn't see him",I don't know if Owen leave the asparagus in the workshop,"1. I didn't leave the eggplant in the workshop
+2. I leave the asparagus in the patio
+3. Owen leave the asparagus in the workshop
+4. I don't know if Owen leave the asparagus in the workshop","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did Owen leave the asparagus in the workshop
+Answer: I didn't see him
+
+  Options: 1. I didn't leave the eggplant in the workshop
+2. I leave the asparagus in the patio
+3. Owen leave the asparagus in the workshop
+4. I don't know if Owen leave the asparagus in the workshop
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+\end{code}
+
+I have tried this:
+
+\begin{code}
+def find_answer(question, answer):
+    answer = question.split("":"")
+    if answer[0] == ""Question"":
+        answer = answer[1]
+    if answer[0] == ""Answer"":
+        answer = answer[1]
+    return answer
+\end{code}
+
+But I get this error:
+
+\begin{code}
+Traceback (most recent call last):
+  File ""C:\Users\john\Desktop\Code\practice\question.py"", line 7, in <module>
+    return answer
+TypeError: 'str' object does not support item assignment
+\end{code}
+
+Answer: You are trying to assign to a string, not to a"
+"Question: are some of them there
+Answer: two are there",two of the asparagus are in the workshop,"1. I am not sure how many asparagus are in the workshop
+2. I am not sure if some of the asparagus are in the workshop
+3. the asparagus are not in the workshop
+4. two of the asparagus are in the workshop","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: are some of them there
+Answer: two are there
+
+  Options: 1. I am not sure how many asparagus are in the workshop
+2. I am not sure if some of the asparagus are in the workshop
+3. the asparagus are not in the workshop
+4. two of the asparagus are in the workshop
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: do you know if some of them are there
+Answer: I don't know
+
+  Options: 1. I am not sure how many asparagus are in the workshop
+2. I am not sure if some of the asparagus are in the workshop
+3. the asparagus are not in the workshop
+4. two of the asparagus are in the workshop
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: do you know if some of them are there
+Answer: I don'"
+"Question: did you leave the beans in the office
+Answer: I left the watermelons there",I didn't leave the beans in the office,"1. I didn't leave the beans in the office
+2. the beans are in the office
+3. I left the watermelons in the office
+4. I didn't leave the watermelons in the office","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did you leave the beans in the office
+Answer: I left the watermelons there
+
+  Options: 1. I didn't leave the beans in the office
+2. the beans are in the office
+3. I left the watermelons in the office
+4. I didn't leave the watermelons in the office
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+
+  Question: did you leave the beans in the office
+Answer: I didn't leave the watermelons there
+
+  Options: 1. I left the watermelons in the office
+2. the beans are in the office
+3. I didn't leave the watermelons in the office
+4. I didn't leave the beans in the office
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+
+  Question: did you leave the beans in the office
+Answer: I didn't leave the beans in the office
+
+  Options: 1. I didn't leave the watermelons in the office
+2. the beans are in the office"
+"Question: are all the persimmons in the pantry
+Answer: some are there",not all the persimmons are in the pantry,"1. three of the persimmons are in the pantry
+2. I am not sure if all of the persimmons are in the pantry
+3. not all the persimmons are in the pantry
+4. all of the beans are in the pantry","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: are all the persimmons in the pantry
+Answer: some are there
+
+  Options: 1. three of the persimmons are in the pantry
+2. I am not sure if all of the persimmons are in the pantry
+3. not all the persimmons are in the pantry
+4. all of the beans are in the pantry
+
+  The number of the option that captures the explicit answer:
+  1
+  2
+  3
+  4
+\end{code}
+
+Comment: I'm voting to close this question as off-topic because it is a test question from a class.
+
+Answer: \begin{blockquote}
+
+\begin{code}
+Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+\end{code}
+
+\end{blockquote}
+
+The correct answer is 1.
+
+\begin{blockquote}
+
+\begin{code}
+Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1."
+"Question: are some of the peas there
+Answer: Nathan said he left all of them there",all the peas are in the pantry,"1. some of the peas are in the pantry
+2. I am not sure if some of the peas are in the pantry
+3. all of the peas are in the pantry
+4. all the peas are in the pantry","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: are some of the peas there
+Answer: Nathan said he left all of them there
+
+  Options: 1. some of the peas are in the pantry
+2. I am not sure if some of the peas are in the pantry
+3. all of the peas are in the pantry
+4. all the peas are in the pantry
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+
+  Question: are the peas in the pantry
+
+  Answer: I think I left them all there
+
+  Options: 1. the peas are in the pantry
+2. I am not sure if the peas are in the pantry
+3. I am not sure if the peas are in the pantry
+4. the peas are in the pantry
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+
+  Question: did you see the peas
+
+  Answer: I am not sure if I left them all there
+
+  Options: 1. I saw the peas
+2. I am not sure if I saw the peas
+3. I am not sure if"
+"Question: were you in the master_bedroom
+Answer: I journeyed to the workshop",I was not in the master_bedroom,"1. I don't know
+2. I was not in the master_bedroom
+3. I was in the laundry
+4. I was in the master_bedroom","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: were you in the master_bedroom
+Answer: I journeyed to the workshop
+
+  Options: 1. I don't know
+2. I was not in the master_bedroom
+3. I was in the laundry
+4. I was in the master_bedroom
+
+  The number of the option that captures the explicit answer:
+  1
+
+  Question: were you in the basement
+Answer: I journeyed to the workshop
+
+  Options: 1. I don't know
+2. I was not in the basement
+3. I was in the playroom
+4. I was in the basement
+
+  The number of the option that captures the explicit answer:
+  4
+
+  Question: were you in the basement
+Answer: I journeyed to the workshop
+
+  Options: 1. I don't know
+2. I was not in the basement
+3. I was in the crawlspace
+4. I was in the basement
+
+  The number of the option that captures the explicit answer:
+  4
+
+  Question: were you in the basement
+Answer: I journeyed to the workshop
+
+  Options: 1. I don't know
+2. I was not in the basement
+3. I was in the crawlspace
+4. I"
+"Question: where can I find the beans
+Answer: they are in the master_bedroom or the garage",I am not sure where the beans are,"1. the beans are in the laundry
+2. the beans are not in the garage
+3. I was not in the garage
+4. I am not sure where the beans are","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: where can I find the beans
+Answer: they are in the master_bedroom or the garage
+
+  Options: 1. the beans are in the laundry
+2. the beans are not in the garage
+3. I was not in the garage
+4. I am not sure where the beans are
+
+  The number of the option that captures the explicit answer:
+  1. 2
+  2. 1
+  3. 4
+  4. 3
+
+  Question: who was in the basement
+Answer: I was in the basement
+
+  Options: 1. I was in the basement
+2. I was in the garage
+3. I was in the laundry
+4. I was in the playroom
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 3
+  3. 2
+  4. 4
+
+  Question: where was the basement
+Answer: the basement was in the playroom
+
+  Options: 1. the basement was in the laundry
+2. the basement was not in the laundry
+3. I was not in the laundry
+4. I don't know
+
+  The number of the option that captures the explicit answer:
+  1"
+"Question: did Carter go to the garage 
+Answer: he journeyed to the laundry",Carter was not in the garage,"1. I don't know if Carter was in the garage
+2. I don't know
+3. Carter was not in the garage
+4. Carter was in the garage","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did Carter go to the garage 
+Answer: he journeyed to the laundry
+
+  Options: 1. I don't know if Carter was in the garage
+2. I don't know
+3. Carter was not in the garage
+4. Carter was in the garage
+
+  The number of the option that captures the explicit answer:
+  1.
+  2.
+  3.
+  4.
+
+  Question: did Emily go to the garage 
+Answer: she was in the playroom
+
+  Options: 1. I don't know if Emily was in the garage
+2. I don't know
+3. Emily was not in the garage
+4. Emily was in the garage
+
+  The number of the option that captures the explicit answer:
+  1.
+  2.
+  3.
+  4.
+
+  Question: did Carter go to the playroom 
+Answer: he journeyed to the laundry
+
+  Options: 1. I don't know if Carter was in the playroom
+2. I don't know
+3. Carter was not in the playroom
+4. Carter was in the playroom
+
+  The number of the option that captures the explicit answer:
+  1.
+  2.
+  3.
+  "
+"Question: where did Mila go
+Answer: she journeyed to the laundry and the master_bedroom",Mila journeyed to the laundry and then the workshop,"1. I was not in the laundry
+2. I was in the master_bedroom
+3. Mila journeyed to the laundry and then the workshop
+4. I was in the laundry","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: where did Mila go
+Answer: she journeyed to the laundry and the master_bedroom
+
+  Options: 1. I was not in the laundry
+2. I was in the master_bedroom
+3. Mila journeyed to the laundry and then the workshop
+4. I was in the laundry
+
+  The number of the option that captures the explicit answer:
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+
+
+"
+"Question: did Mia leave the broccolis in the staircase
+Answer: I didn't see her",I don't know if Mia leave the broccolis in the staircase,"1. Mia leave the broccolis in the staircase
+2. Mia didn't leave the broccolis in the staircase
+3. I don't know if Mia leave the broccolis in the staircase
+4. I didn't leave the broccolis in the staircase","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: did Mia leave the broccolis in the staircase
+Answer: I didn't see her
+
+  Options: 1. Mia leave the broccolis in the staircase
+2. Mia didn't leave the broccolis in the staircase
+3. I don't know if Mia leave the broccolis in the staircase
+4. I didn't leave the broccolis in the staircase
+
+  The number of the option that captures the explicit answer:
+  1
+
+  Question: did you see Mia
+
+  Answer: I didn't see her
+
+  Options: 1. I saw Mia
+2. I didn't see Mia
+3. I don't know if I saw Mia
+4. I saw the broccolis in the staircase
+
+  The number of the option that captures the explicit answer:
+  2
+
+  Question: did you see Mia
+
+  Answer: I didn't see her
+
+  Options: 1. I saw Mia
+2. I didn't see Mia
+3. I don't know if I saw Mia
+4. I saw the broccolis in the staircase
+
+  The number of the option that captures the explicit answer:
+  2
+
+  Question: did you see M"
+"Question: are all of them there
+Answer: some are there",not all the broccolis are in the staircase,"1. I was not in the staircase
+2. I am not sure if all of the broccolis are in the staircase
+3. all of the broccolis are in the staircase
+4. not all the broccolis are in the staircase","Question: were you in the basement
+
+  Answer: I journeyed to the laundry
+
+  Options: 1. I was in the basement
+ 2. I was in the playroom
+ 3. I was not in the basement
+ 4. I was not in the crawlspace
+
+  Explict answer: I was not in the basement
+
+  Question: was Emily there
+
+  Answer: she was in the playroom
+
+  Options: 1. Emily was in the laundry
+ 2. Emily was not in the laundry
+ 3. I was not in the laundry
+ 4. I don't know
+
+  Explict answer: Emily was not in the laundry
+
+  Given this dialogue, choose the correct explicit answer option that captures the implicature of the answer.
+
+  Question: are all of them there
+Answer: some are there
+
+  Options: 1. I was not in the staircase
+2. I am not sure if all of the broccolis are in the staircase
+3. all of the broccolis are in the staircase
+4. not all the broccolis are in the staircase
+
+  The number of the option that captures the explicit answer:
+  1
+
+  Question: is it a good time to go
+Answer: it is a good time to go
+
+  Options: 1. I don't know
+2. it is not a good time to go
+3. it is a good time to go
+4. it is not a good time to go
+
+  The number of the option that captures the explicit answer:
+  3
+
+  Question: did I see the cat
+Answer: I did not see the cat
+
+  Options: 1. I was not in the basement
+2. I was not in the basement
+3. I was not in the basement
+4. I was not in the basement
+
+  The number of the option that captures the explicit answer:
+  3
+
+  Question: did you see the cat
+Answer: I did not see the cat
+
+  Options: 1. I was not in the basement
+2. I was"
