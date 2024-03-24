@@ -1,151 +1,151 @@
 prompt,correct,log_prob_correct,incorrect,log_prob_incorrect,correct_prediction
-My body cast a shadow over the grass.,The sun was rising.,tensor(-4.4031),The grass was cut.,tensor(-4.9314),True
-The woman tolerated her friend's difficult behavior.,The woman knew her friend was going through a hard time.,tensor(-2.3509),The woman felt that her friend took advantage of her kindness.,tensor(-2.4729),True
-The women met for coffee.,They wanted to catch up with each other.,tensor(-2.6818),The cafe reopened in a new location.,tensor(-3.1916),True
-The runner wore shorts.,The forecast predicted high temperatures.,tensor(-4.0954),She planned to run along the beach.,tensor(-3.7655),False
-The guests of the party hid behind the couch.,It was a surprise party.,tensor(-3.3635),It was a birthday party.,tensor(-2.9453),False
-The politician lost the election.,No one voted for him.,tensor(-2.7956),He ran negative campaign ads.,tensor(-4.6217),True
-The stain came out of the shirt.,I bleached the shirt.,tensor(-3.7531),I patched the shirt.,tensor(-3.8162),True
-The man got a discount on his groceries.,He used a coupon.,tensor(-3.4223),He greeted the cashier.,tensor(-2.8528),False
-The physician misdiagnosed the patient.,The patient filed a malpractice lawsuit against the physician.,tensor(-1.4778),The patient disclosed confidential information to the physician.,tensor(-2.6107),True
-The customer filed a complaint with the store manager.,The sales associate acted rude to the customer.,tensor(-3.5550),The sales associate undercharged the customer.,tensor(-4.0301),True
-The woman repaired her faucet.,The faucet was leaky.,tensor(-2.9018),The faucet was turned off.,tensor(-3.0595),True
-The elderly woman suffered a stroke.,The woman's daughter moved in to take care of her.,tensor(-2.5900),The woman's daughter came over to clean her house.,tensor(-3.2487),True
-The pond froze over for the winter.,People skated on the pond.,tensor(-1.9656),People brought boats to the pond.,tensor(-3.2624),True
-The offender violated parole.,She was sent back to jail.,tensor(-2.4387),She stole money from a church.,tensor(-3.3351),True
-I poured water on my sleeping friend.,My friend awoke.,tensor(-2.9674),My friend snored.,tensor(-4.1468),True
-The girl gasped.,Her friend stuck an ice cube down her back.,tensor(-3.8823),Her friend gave her a pat on the back.,tensor(-2.7235),False
-The shirt shrunk.,I put it in the dryer.,tensor(-2.6944),I poured bleach on it.,tensor(-3.7177),True
-It got dark outside.,The moon became visible in the sky.,tensor(-3.3508),Snowflakes began to fall from the sky.,tensor(-2.1208),False
-I hung up the phone.,The caller said goodbye to me.,tensor(-4.2004),The caller identified himself to me.,tensor(-4.5674),True
-The woman's ring slipped off in the shower.,The ring went down the drain.,tensor(-2.3882),The woman polished the ring.,tensor(-4.3327),True
-The girl received a trophy.,She won a spelling bee.,tensor(-2.9060),She made a new friend.,tensor(-3.7808),True
-The woman's date wanted to look like a gentleman.,He opened the door for her.,tensor(-2.6518),He asked her if she liked sushi.,tensor(-2.8237),True
-The farmland needed irrigation.,A canal was constructed.,tensor(-4.7969),A flood occurred.,tensor(-5.5599),True
-The host cancelled the party.,She was certain she had the flu.,tensor(-3.8239),She worried she would catch the flu.,tensor(-3.6794),False
-The woman gave the man her phone number.,She was attracted to him.,tensor(-2.9676),She was repulsed by him.,tensor(-3.2845),True
-The skydiver glided safely to the ground.,She opened her parachute.,tensor(-2.8083),She jumped out of the plane.,tensor(-2.4351),False
-The toddler became cranky.,Her mother put her down for a nap.,tensor(-2.4274),Her mother fixed her hair into pigtails.,tensor(-3.6352),True
-The child became immune to the disease.,He received the vaccine for the disease.,tensor(-2.7900),He avoided exposure to the disease.,tensor(-3.4459),True
-The grape juice fermented.,The juice turned to wine.,tensor(-3.4678),The juice evaporated.,tensor(-3.9995),True
-The friends' debate dragged on interminably.,The friends were splitting hairs.,tensor(-4.3993),The friends saw eye to eye.,tensor(-4.6444),True
-The woman hummed to herself.,She was in a good mood.,tensor(-2.4364),She was nervous.,tensor(-4.0342),True
-The man hated his new haircut.,He wore a hat.,tensor(-4.8974),He grew a beard.,tensor(-3.9541),False
-The police aimed their weapons at the fugitive.,The fugitive dropped his gun.,tensor(-3.2448),The fugitive fell to the ground.,tensor(-2.8270),False
-The patient was dehydrated.,The nurse gave him an IV.,tensor(-3.7714),The nurse tested his reflexes.,tensor(-4.0331),True
-The girl found the missing puzzle piece.,She completed the puzzle.,tensor(-3.1785),She took apart the puzzle.,tensor(-4.0054),True
-The man urgently leaped out of bed.,He wanted to shut off the alarm clock.,tensor(-3.4134),He wanted to iron his pants before work.,tensor(-3.8800),True
-The papers were disorganized.,I put them into alphabetical order.,tensor(-3.3885),I made photocopies of them.,tensor(-3.3175),False
-The woman won the lottery.,She bought a yacht.,tensor(-3.3248),She joined a church.,tensor(-5.0122),True
-The seamstress pushed the threaded needle into the fabric.,The thread went through the fabric.,tensor(-3.6982),The thread wrapped around the needle.,tensor(-2.9703),False
-The woman hired a lawyer.,She decided to sue her employer.,tensor(-2.9552),She decided to run for office.,tensor(-3.8040),True
-The tenant misplaced his keys to his apartment.,His landlord unlocked the door.,tensor(-2.4777),His landlord repaired the door.,tensor(-2.4015),False
-My favorite song came on the radio.,I sang along to it.,tensor(-3.9858),I covered my ears.,tensor(-5.0795),True
-The executive decided not to hire the applicant.,The applicant failed a background check.,tensor(-3.2187),The applicant had experience for the job.,tensor(-3.2992),True
-The man's eye became infected.,He went blind.,tensor(-4.6204),He put on glasses.,tensor(-4.1795),False
-The bird couldn't fly.,It injured its wing.,tensor(-4.6574),It migrated for the winter.,tensor(-4.3663),False
-The girl made a wish.,She saw a shooting star.,tensor(-3.4999),She saw a black cat.,tensor(-4.1669),True
-The woman shivered as she got out the pool.,She wrapped herself in a towel.,tensor(-2.3763),She poured herself some lemonade.,tensor(-3.0226),True
-The nurse prepared the needle for the patient's injection.,The patient tensed up.,tensor(-4.1453),The patient bled.,tensor(-4.8829),True
-The man threw out the bread.,It was stale.,tensor(-3.2822),It was fresh.,tensor(-4.8073),True
-The children knocked over a lamp.,They had a pillow fight.,tensor(-3.1412),They jumped on the bed.,tensor(-2.9009),False
-I drank from the water fountain.,I was thirsty.,tensor(-3.0031),I felt nauseous.,tensor(-3.7520),True
-The homeowners disliked their nosy neighbors.,They built a fence around their property.,tensor(-2.5088),They hosted a barbeque in their backyard.,tensor(-3.0179),True
-The bodybuilder lifted weights.,Her muscles became fatigued.,tensor(-3.0582),The gym closed.,tensor(-4.9350),True
-The cook stirred the ingredients in the bowl.,The ingredients blended together.,tensor(-2.8316),The ingredients melted.,tensor(-2.9403),True
-The man signed the document.,The transaction became official.,tensor(-5.4370),The transaction was voided.,tensor(-4.5960),False
-The police officer dropped the gun.,The gun went off.,tensor(-3.6448),The gun recoiled.,tensor(-4.1734),True
-The woman felt compelled to help someone in need.,She donated blood.,tensor(-4.5444),She wrote a poem.,tensor(-4.9415),True
-The woman felt lonely.,She adopted a cat.,tensor(-4.6956),She renovated her kitchen.,tensor(-4.9345),True
-I rubbed sandpaper on the wood.,The wood became smooth.,tensor(-3.9863),The wood became sticky.,tensor(-4.2939),True
-The crowd gave the band a standing ovation.,The band reappeared on the stage.,tensor(-3.3291),The band signed autographs.,tensor(-3.6094),True
-The man threw his empty can onto the street.,He was fined for littering.,tensor(-2.8888),He was jumped from behind.,tensor(-4.1270),True
-My stomach growled.,I forgot to eat breakfast.,tensor(-3.6157),I was full from breakfast.,tensor(-4.6768),True
-The boaters set off a flare.,Their boat was rescued.,tensor(-3.2896),Their boat drifted to shore.,tensor(-2.9757),False
-The man removed his coat.,He entered the house.,tensor(-4.4106),He loosened his tie.,tensor(-2.8075),False
-The family took their dog to the veterinarian.,The dog injured his paw.,tensor(-3.7069),The dog chewed on a bone.,tensor(-3.3947),False
-The woman dangled the biscuit above the dog.,The dog jumped up.,tensor(-3.2065),The dog scratched its fur.,tensor(-4.5097),True
-I learned how to play the board game.,My friend explained the rules to me.,tensor(-2.8891),My friend got the rules wrong.,tensor(-4.1082),True
-The man went away for the weekend.,He wanted to relax.,tensor(-4.2059),He felt content.,tensor(-6.8330),True
-The shop was closed.,The shop was undergoing renovation.,tensor(-3.2307),The owner was helping customers.,tensor(-4.8872),True
-The boy tuned the radio.,The station was coming in with static.,tensor(-3.7282),The station was playing rock music.,tensor(-3.5252),False
-The terrorist set off the bomb.,The bomb exploded.,tensor(-3.1182),The bomb was deactivated.,tensor(-3.6785),True
-The police handcuffed the suspect.,The suspect resisted arrest.,tensor(-3.3783),The police called for backup.,tensor(-3.9959),True
-The authorities vowed to protect the identity of the crime victim.,They withheld the victim's name from the public.,tensor(-2.2298),The victim struggled to recall details about the crime.,tensor(-3.5571),True
-The man's clothes fit loosely.,He lost weight.,tensor(-5.2392),He bought them on sale.,tensor(-4.1552),False
-The clock stopped ticking.,The clock showed the wrong time.,tensor(-3.7709),I took extra time to get ready.,tensor(-4.3594),True
-The man closed the umbrella.,He approached the building.,tensor(-5.2218),He got out of the car.,tensor(-2.7937),False
-The man craved a cigarette.,He was addicted to nicotine.,tensor(-2.3386),His family urged him to quit smoking.,tensor(-2.7430),True
-The man dropped food on the floor.,His dog ran over to eat the food.,tensor(-2.7515),His dog jumped up on him.,tensor(-3.0085),True
-The girl was angry with her friend.,The girl spread a rumor about her friend.,tensor(-3.0779),The girl told a secret to her friend.,tensor(-2.9142),False
-The fugitive hid from the police.,The fugitive remained at large.,tensor(-3.1746),The police dropped the case.,tensor(-4.5030),True
-I tipped the bottle.,The liquid in the bottle poured out.,tensor(-2.7559),The liquid in the bottle froze.,tensor(-3.1975),True
-The woman spoke with a foreign accent.,She migrated from another country.,tensor(-4.1929),She came from a wealthy family.,tensor(-3.1490),False
-The boy's mouth stung.,He ate a pepper.,tensor(-4.0413),He blew out the candle.,tensor(-3.0305),False
-I finished a page of the book.,I turned to the next page.,tensor(-3.9389),I ripped out the next page.,tensor(-4.2688),True
-The service at the restaurant was slow.,The restaurant was crowded.,tensor(-3.3913),There were many empty tables.,tensor(-3.4368),True
-I saw a woman getting robbed on the street.,I called 911.,tensor(-2.5676),I hailed a cab.,tensor(-4.2862),True
-My stomach hurt.,I ate birthday cake.,tensor(-3.6155),I jogged on the treadmill.,tensor(-3.2785),False
-I put my plate in the sink.,I finished eating.,tensor(-4.1609),I skipped dinner.,tensor(-5.1414),True
-The man closed the book.,He finished reading it.,tensor(-4.0928),It provoked him to think.,tensor(-4.4094),True
-The boy read the novel aloud to his grandfather.,His grandfather was blind.,tensor(-2.6716),His grandfather was deaf.,tensor(-2.4328),False
-My foot went numb.,I shook my foot.,tensor(-4.7282),I put my shoes on.,tensor(-3.6141),False
-The photographer got the child to smile.,The photographer quickly snapped the child's photo.,tensor(-2.5373),The photographer quickly changed the child's pose.,tensor(-2.8553),True
-The window was opaque.,The glass was stained.,tensor(-3.9164),The blinds were open.,tensor(-3.8912),False
-I slipped on the floor.,The tile was wet.,tensor(-4.2686),The tile was cracked.,tensor(-4.2720),True
-The man slid the razor across his chin.,His stubble disappeared.,tensor(-3.9137),His stubble grew.,tensor(-4.1313),True
-The woman took her family on vacation.,She received a salary bonus.,tensor(-4.6358),Her husband got laid off.,tensor(-3.9790),False
-The woman awakened.,Her husband was snoring.,tensor(-3.1827),She took sleeping pills.,tensor(-4.1290),True
-The woman sensed a pleasant smell.,She was reminded of her childhood.,tensor(-2.3390),She remembered to take her medication.,tensor(-4.0343),True
-The bar closed.,It was 3 AM.,tensor(-3.3299),It was crowded.,tensor(-3.7179),True
-The driver got pulled over by the police.,He was speeding.,tensor(-3.6399),He was parking.,tensor(-4.9388),True
-The teacher took roll.,She identified the students that were absent.,tensor(-3.6646),She gave her students a pop quiz.,tensor(-2.6044),False
-I pushed the pendulum.,It swung back and forth.,tensor(-2.3060),It slowed to a stop.,tensor(-3.0469),True
-The child kicked the stack of blocks.,The blocks scattered all over the rug.,tensor(-3.6261),The stack towered over the boy's head.,tensor(-2.9804),False
-The teenager ran away from home.,His parents abused him.,tensor(-3.6325),He relied on his parents.,tensor(-4.2899),True
-I botched the job interview.,The interviewer asked difficult questions.,tensor(-3.3206),I anticipated the interviewer's questions.,tensor(-2.9665),False
-The pharmaceutical company recalled the drug.,Users reported dangerous side effects.,tensor(-4.3794),Users got refills on their prescriptions.,tensor(-3.8475),False
-The man looked at his watch.,He realized he was early.,tensor(-3.9699),He realized he forgot something.,tensor(-4.5365),True
-I dabbed the floor with a paper towel.,I spilled juice on the floor.,tensor(-3.0288),The floor was permanently stained.,tensor(-3.3813),True
-The bartender refused to serve the patron.,The patron was drunk.,tensor(-3.4281),The patron was alone.,tensor(-5.1709),True
-I was confused by the professor's lecture.,I asked the professor questions.,tensor(-4.4700),I paid attention to the professor.,tensor(-4.1217),False
-The book was deemed inappropriate for children.,Schools banned it from its libraries.,tensor(-3.2015),Teachers required students to read it.,tensor(-3.3090),True
-The man begged for forgiveness.,The woman took pity on him.,tensor(-3.3599),The woman joked around with him.,tensor(-4.0630),True
-I received a package in the mail.,The package triggered my curiosity.,tensor(-5.0583),I took the package to the post office.,tensor(-2.9347),False
-The surfer caught the wave.,The wave carried her to the shore.,tensor(-2.8326),She paddled her board into the ocean.,tensor(-2.7828),False
-The speaker disarmed her debate opponent.,The speaker won the debate.,tensor(-3.1013),The speaker congratulated her opponent.,tensor(-2.5954),False
-I moved to a new city.,I found a better-paying job.,tensor(-3.0904),My son was born.,tensor(-3.9193),True
-I avoided giving a straight answer to the question.,The question made me uncomfortable.,tensor(-2.7677),I wanted to be honest.,tensor(-3.9713),True
-The student received detention.,He talked back to the teacher.,tensor(-3.0828),The teacher graded his homework.,tensor(-3.5165),True
-The boy's hands were shaking.,He planned to ask the girl out.,tensor(-4.2652),His palms were cold and sweaty.,tensor(-2.4095),False
-The fans in the stadium cheered.,The player scored.,tensor(-6.6743),The game ended in a tie.,tensor(-3.6467),False
-The girl went down the hill on her bike.,Her bike sped up.,tensor(-3.3383),Her bike swerved.,tensor(-3.1198),False
-A man cut in front of me in the long line.,I confronted him.,tensor(-4.2756),I smiled at him.,tensor(-4.2474),False
-The inside of the train went dark.,The train travelled through a tunnel.,tensor(-3.4264),The train ran off the tracks.,tensor(-3.6732),True
-The man contemplated the painting.,He felt in awe.,tensor(-4.0838),He collapsed.,tensor(-6.3109),True
-The turtle hid in its shell.,It detected a predator.,tensor(-5.0062),It ate a fish.,tensor(-3.7327),False
-The girl handed down her clothes to her younger sister.,She outgrew the clothes.,tensor(-3.9771),The clothes were tattered.,tensor(-3.6801),False
-Several witnesses of the crime testified against the suspect.,The suspect was convicted.,tensor(-3.5945),The suspect was acquitted.,tensor(-3.7658),True
-The parents left their children with a babysitter.,They made plans to celebrate their anniversary.,tensor(-2.4648),Their youngest child started attending preschool.,tensor(-3.3625),True
-The trip took a long time.,The driver made a wrong turn.,tensor(-4.0059), The driver talked the whole way.,tensor(-3.9454),False
-The product was heavily advertised.,Consumers recognized the product.,tensor(-3.6852),The product became outdated.,tensor(-4.7247),True
-I rubbed the soap between my hands.,The soap foamed.,tensor(-4.3502),My hands went numb.,tensor(-3.5718),False
-The cowgirl threw her lasso towards the horse.,The lasso grabbed onto the horse.,tensor(-2.4746),The horse trotted into the barn.,tensor(-2.7843),True
-The group overlooked the woman's faux pas.,The woman was relieved.,tensor(-4.2579),The woman apologized.,tensor(-4.5130),True
-The girl came across an unfamiliar word in her textbook.,She looked the term up in the dictionary.,tensor(-2.8103),She chucked the textbook across the room.,tensor(-2.9946),True
-The man became disabled.,His family offered him financial support.,tensor(-3.9803),His family cut off contact with him.,tensor(-3.1415),False
-The flashlight was dead.,I replaced the batteries.,tensor(-3.3862),I took it apart.,tensor(-4.3106),True
-The skunk sprayed the dog.,The dog emitted a foul smell.,tensor(-2.9217),The skunk roamed the woods.,tensor(-3.2741),True
-I scratched my skin.,My itch went away.,tensor(-3.7581),My scar faded.,tensor(-4.9234),True
-I wrote a thank-you note to my grandmother.,She sent me a gift.,tensor(-3.6418),She became forgetful.,tensor(-5.9504),True
-A burglar broke into the house.,The security alarm went off.,tensor(-3.8422),The homeowners were asleep.,tensor(-3.0924),False
-I held the door for the woman entering behind me.,The woman thanked me.,tensor(-3.2134),The door slammed shut.,tensor(-3.2984),True
-The mirror in the bathroom fogged up.,The girl turned on the fan.,tensor(-4.0083),The girl applied her makeup.,tensor(-4.6504),True
-The security guard tackled the man.,The man displayed a weapon.,tensor(-4.3961),The man reached into his pocket.,tensor(-3.6088),False
-The driver rotated the steering wheel.,The car turned.,tensor(-5.1054),The car halted.,tensor(-4.7064),False
-The army surrendered the battle.,They were outnumbered.,tensor(-3.2892),They stormed the city.,tensor(-4.0449),True
-The navy bombed the ship.,The ship's debris sunk in the sea.,tensor(-2.6993),The ship crashed into the pier.,tensor(-3.1727),True
-I ironed my shirt.,It was wrinkled.,tensor(-2.6865),It was clean.,tensor(-4.0603),True
-The girl felt dizzy.,She lost her balance.,tensor(-3.6929),She did stretches.,tensor(-5.1228),True
-The driver pulled over to the side of the road.,He noticed a stranded vehicle.,tensor(-4.4724),He went through an intersection.,tensor(-5.2802),True
-The hospital sent the patient home.,The patient's symptoms cleared up.,tensor(-3.0354),The patient's family visited him.,tensor(-3.9194),True
+The woman filed a restraining order against the man.What is the cause of this?,The man stalked her.,tensor(-1.9079),The man called her.,tensor(-3.3225),True
+I drank from the water fountain.What is the cause of this?,I was thirsty.,tensor(-1.7672),I felt nauseous.,tensor(-2.5065),True
+The authorities vowed to protect the identity of the crime victim.What is the effect of this?,They withheld the victim's name from the public.,tensor(-1.7588),The victim struggled to recall details about the crime.,tensor(-2.9199),True
+My feet were blistered.What is the cause of this?,I went hiking.,tensor(-2.3254),I went swimming.,tensor(-2.9579),True
+I burst into a fit of laughter.What is the effect of this?,My eyes welled up with tears.,tensor(-1.9799),My teeth began to chatter.,tensor(-2.6976),True
+The bird couldn't fly.What is the cause of this?,It injured its wing.,tensor(-2.9483),It migrated for the winter.,tensor(-3.3980),True
+The boy got a black eye.What is the cause of this?,The bully punched the boy.,tensor(-2.0021),The bully mocked the boy.,tensor(-3.1031),True
+The woman received a diploma.What is the cause of this?,She graduated from college.,tensor(-2.7690),She enrolled in college.,tensor(-3.1751),True
+The clouds looked dark.What is the effect of this?,I brought my umbrella to work.,tensor(-2.7034),I brought my laptop to work.,tensor(-3.4777),True
+The truck crashed into the motorcycle on the bridge.What is the effect of this?,The motorcyclist died.,tensor(-1.6155),The bridge collapsed.,tensor(-1.8772),True
+The cowgirl threw her lasso towards the horse.What is the effect of this?,The lasso grabbed onto the horse.,tensor(-1.6979),The horse trotted into the barn.,tensor(-1.9390),True
+The police officer pulled over the celebrity.What is the effect of this?,The celebrity offered the officer a bribe.,tensor(-1.7925),The celebrity sued the police officer.,tensor(-1.8435),True
+A water pipe in the house burst.What is the cause of this?,The pipe froze.,tensor(-3.1252),The water was unsanitary.,tensor(-3.3044),True
+The patient was dehydrated.What is the effect of this?,The nurse gave him an IV.,tensor(-3.1771),The nurse tested his reflexes.,tensor(-3.3219),True
+The friends' dinnertime conversation turned to politics.What is the effect of this?,A debate erupted.,tensor(-3.2900),The conversation quieted down.,tensor(-3.7375),True
+Our group's conversation gradually lulled to silence.What is the effect of this?,I felt awkward.,tensor(-3.3575),I became enraged.,tensor(-3.7187),True
+The cup of tea was scalding hot.What is the effect of this?,I blew on it.,tensor(-2.9024),I poured it out.,tensor(-2.5828),False
+The investigators deemed the man's death a suicide.What is the cause of this?,He left a note.,tensor(-3.0138),He had children.,tensor(-4.6891),True
+The girl felt dizzy.What is the effect of this?,She lost her balance.,tensor(-2.6576),She did stretches.,tensor(-4.2107),True
+The leader received praise.What is the cause of this?,He fought poverty.,tensor(-5.2019),He raised taxes.,tensor(-3.9958),False
+The woman hit a midlife crisis.What is the effect of this?,She went sky diving.,tensor(-3.4909),She retired.,tensor(-4.9059),True
+A fistfight broke out in the hall of the school.What is the effect of this?,The principal suspended the students involved.,tensor(-2.5567),The principal called off classes for the day.,tensor(-2.6560),True
+The cook stirred the ingredients in the bowl.What is the effect of this?,The ingredients blended together.,tensor(-1.8264),The ingredients melted.,tensor(-1.9390),True
+The sun emerged from the clouds.What is the effect of this?,The woman took her sweater off.,tensor(-3.1069),The woman glanced at her watch.,tensor(-2.6739),False
+The woman betrayed her friend.What is the effect of this?,Her friend cut off contact with her.,tensor(-2.4532),Her friend sent her a greeting card.,tensor(-2.9488),True
+I pushed the pendulum.What is the effect of this?,It swung back and forth.,tensor(-1.8545),It slowed to a stop.,tensor(-2.7213),True
+The woman exaggerated the details of the story.What is the cause of this?,She wanted attention.,tensor(-3.2482),She felt shy.,tensor(-3.3283),True
+I put shoes on.What is the cause of this?,The floor contained broken glass.,tensor(-4.8863),The paint on the walls was wet.,tensor(-3.4123),False
+The toddler became cranky.What is the effect of this?,Her mother put her down for a nap.,tensor(-2.1973),Her mother fixed her hair into pigtails.,tensor(-3.1974),True
+We ordered a pizza.What is the effect of this?,The pizza was delivered.,tensor(-1.6632),The pizza got cold.,tensor(-2.2077),True
+The man had lipstick on his cheek.What is the cause of this?,The woman kissed him.,tensor(-2.4414),The woman made him blush.,tensor(-3.3028),True
+The girl came across an unfamiliar word in her textbook.What is the effect of this?,She looked the term up in the dictionary.,tensor(-2.0694),She chucked the textbook across the room.,tensor(-2.1070),True
+My stomach growled.What is the cause of this?,I forgot to eat breakfast.,tensor(-2.0700),I was full from breakfast.,tensor(-3.0885),True
+The man's watch was broken.What is the effect of this?,He asked a stranger for the time.,tensor(-2.8989),He waited at the bus stop.,tensor(-3.1052),True
+The student flaunted his test grade to his classmates.What is the cause of this?,He received a perfect score.,tensor(-2.7346),He feigned interest in the class.,tensor(-3.4719),True
+The gardener pulled the weeds.What is the effect of this?,The weeds came out of the soil.,tensor(-2.1351),The weeds produced seeds.,tensor(-2.6405),True
+The chef pressed down on the dough.What is the effect of this?,The dough flattened.,tensor(-1.9055),The dough crumbled.,tensor(-2.6440),True
+The man grieved.What is the cause of this?,His mother passed away.,tensor(-2.4113),His wife criticized him.,tensor(-2.8023),True
+The teacher took roll.What is the effect of this?,She identified the students that were absent.,tensor(-2.9870),She gave her students a pop quiz.,tensor(-2.1805),False
+I rubbed sandpaper on the wood.What is the effect of this?,The wood became smooth.,tensor(-2.3637),The wood became sticky.,tensor(-2.8355),True
+The clay hardened.What is the cause of this?,The potter put the clay in the oven.,tensor(-1.7339),The potter rolled the clay into a ball.,tensor(-2.1405),True
+The girl made a wish.What is the cause of this?,She saw a shooting star.,tensor(-2.5844),She saw a black cat.,tensor(-3.0190),True
+The woman awakened.What is the cause of this?,Her husband was snoring.,tensor(-2.9094),She took sleeping pills.,tensor(-2.6680),False
+The driver rotated the steering wheel.What is the effect of this?,The car turned.,tensor(-3.8998),The car halted.,tensor(-4.0674),True
+The girl desired her parent's approval.What is the effect of this?,She obeyed her parent's rules.,tensor(-1.9082),She ran away from home.,tensor(-2.8466),True
+The homeowners disliked their nosy neighbors.What is the effect of this?,They built a fence around their property.,tensor(-1.8056),They hosted a barbeque in their backyard.,tensor(-2.3667),True
+The man dropped food on the floor.What is the effect of this?,His dog ran over to eat the food.,tensor(-2.3771),His dog jumped up on him.,tensor(-2.7033),True
+Marine life diminished.What is the cause of this?,Oil spilled into the ocean.,tensor(-2.1341),Boats sailed through the ocean.,tensor(-3.9963),True
+My daughter suffered an allergy attack.What is the effect of this?,I took her to the emergency room.,tensor(-1.8123),I encouraged her to take deep breaths.,tensor(-2.8754),True
+The chandelier shattered on the floor.What is the cause of this?,The chandelier dropped from the ceiling.,tensor(-1.5972),The chandelier's lights flickered on and off.,tensor(-1.6250),True
+The magnet attracted the paperclip.What is the effect of this?,The paperclip stuck to the magnet.,tensor(-1.6084),The paperclip dropped from the magnet.,tensor(-2.3228),True
+The smoke alarm went off.What is the cause of this?,I burnt my dinner.,tensor(-3.4786),I lit a candle.,tensor(-3.0603),False
+The man held his breath.What is the cause of this?,He went underwater.,tensor(-4.1587),He treaded water.,tensor(-3.7129),False
+The women met for coffee.What is the cause of this?,They wanted to catch up with each other.,tensor(-2.0811),The cafe reopened in a new location.,tensor(-2.4590),True
+My body cast a shadow over the grass.What is the cause of this?,The sun was rising.,tensor(-2.7948),The grass was cut.,tensor(-3.2059),True
+The bureau drawers were cluttered.What is the effect of this?,I threw away unnecessary contents.,tensor(-5.0514),I locked the drawers shut.,tensor(-3.8295),False
+I jumped instinctively in fright.What is the cause of this?,I sensed someone approaching me from behind.,tensor(-2.5181),I heard people chuckling in the adjacent room.,tensor(-3.0173),True
+I dabbed the floor with a paper towel.What is the cause of this?,I spilled juice on the floor.,tensor(-2.0226),The floor was permanently stained.,tensor(-2.7519),True
+The woman pressed down on the piano key.What is the effect of this?,A sound played.,tensor(-4.9160),The key got stuck.,tensor(-3.1338),False
+The baby pulled the mother's hair.What is the effect of this?,The mother grimaced.,tensor(-2.5828),The baby burped.,tensor(-3.6076),True
+I ironed my shirt.What is the cause of this?,It was wrinkled.,tensor(-2.1830),It was clean.,tensor(-3.2267),True
+The woman was wrongly convicted for the crime.What is the cause of this?,She was framed.,tensor(-2.3912),The jury was fair.,tensor(-3.2572),True
+The police officer dropped the gun.What is the effect of this?,The gun went off.,tensor(-2.2498),The gun recoiled.,tensor(-2.4027),True
+I tipped the bottle.What is the effect of this?,The liquid in the bottle poured out.,tensor(-1.6424),The liquid in the bottle froze.,tensor(-2.2300),True
+I finished a page of the book.What is the effect of this?,I turned to the next page.,tensor(-2.5474),I ripped out the next page.,tensor(-3.2692),True
+The physician misdiagnosed the patient.What is the effect of this?,The patient filed a malpractice lawsuit against the physician.,tensor(-0.9562),The patient disclosed confidential information to the physician.,tensor(-2.0010),True
+The parents recognized their daughter's creativity.What is the effect of this?,They encouraged her to become an artist.,tensor(-1.7479),They taught her how to ride a bike.,tensor(-2.1470),True
+The woman shivered as she got out the pool.What is the effect of this?,She wrapped herself in a towel.,tensor(-1.8968),She poured herself some lemonade.,tensor(-2.5604),True
+The woman wanted to be a doctor.What is the effect of this?,She went to medical school.,tensor(-2.2772),She visited the hospital.,tensor(-3.5361),True
+The mother needed help looking after her children.What is the effect of this?,She sent the children to daycare.,tensor(-2.4644),She gave up custody of the children.,tensor(-2.4419),False
+The family took their dog to the veterinarian.What is the cause of this?,The dog injured his paw.,tensor(-2.3919),The dog chewed on a bone.,tensor(-2.1854),False
+The egg splattered.What is the cause of this?,I dropped it.,tensor(-3.7058),I boiled it.,tensor(-3.1742),False
+I applied pressure to the cut on my arm.What is the effect of this?,It stopped bleeding.,tensor(-2.4104),It healed.,tensor(-3.4570),True
+The skier slipped on the slope.What is the cause of this?,She hit a patch of ice.,tensor(-3.0823),She dropped her ski poles.,tensor(-3.8783),True
+The scientist gained recognition.What is the cause of this?,She discovered a new species.,tensor(-3.1672),She received tenure at the university.,tensor(-2.7580),False
+The book became a huge bestseller.What is the effect of this?,It was adapted into a movie.,tensor(-2.3115),The author faded into obscurity.,tensor(-2.6591),True
+The family postponed the barbeque.What is the cause of this?,The forecast called for storms.,tensor(-2.3747),It was a holiday weekend.,tensor(-2.1527),False
+My stomach hurt.What is the cause of this?,I ate birthday cake.,tensor(-2.3675),I jogged on the treadmill.,tensor(-2.6796),True
+The man felt thankful to be alive.What is the cause of this?,He was cured of cancer.,tensor(-2.5077),His wife was diagnosed with cancer.,tensor(-2.1620),False
+The vehicles travelled slowly.What is the cause of this?,It was foggy.,tensor(-3.1739),It was cloudy.,tensor(-3.3789),True
+The children ran through the sprinkler.What is the cause of this?,They were hot.,tensor(-2.7664),They ate popsicles.,tensor(-2.6099),False
+The chair squeaked.What is the cause of this?,The man scooted the chair closer to his desk.,tensor(-2.6264),The man carried the chair to his office.,tensor(-3.6974),True
+I wrote a thank-you note to my grandmother.What is the cause of this?,She sent me a gift.,tensor(-2.4928),She became forgetful.,tensor(-4.4748),True
+The host of the trivia show called on the contestant for an answer.What is the cause of this?,The contestant rang the buzzer.,tensor(-2.2003),The contestant was in the lead.,tensor(-2.4005),True
+The mother suspected that her son was lying.What is the cause of this?,He avoided making eye contact with her.,tensor(-2.9595),He refused to talk to her.,tensor(-2.7513),False
+The boy's mouth stung.What is the cause of this?,He ate a pepper.,tensor(-2.8610),He blew out the candle.,tensor(-2.3854),False
+I clenched the candy wrapper in my fist.What is the effect of this?,The wrapper crinkled.,tensor(-2.1132),The wrapper ripped.,tensor(-2.5739),True
+A group of teenagers crashed the party.What is the effect of this?,The host of the party kicked them out.,tensor(-2.0570),The host of the party invited them in.,tensor(-2.6590),True
+The boy wanted to be muscular.What is the effect of this?,He lifted weights.,tensor(-3.1822),He played computer games.,tensor(-3.8371),True
+I pushed the gas pedal.What is the effect of this?,The car accelerated.,tensor(-1.8724),The car door opened.,tensor(-3.7192),True
+The milk stayed cold.What is the cause of this?,I stored it in the refrigerator.,tensor(-1.9098),It was pasteurized.,tensor(-2.8954),True
+The celebrity wore sunglasses.What is the cause of this?,She wanted to avoid recognition.,tensor(-3.0931),She wanted to thank her fans.,tensor(-3.2567),True
+The woman gave the man her phone number.What is the cause of this?,She was attracted to him.,tensor(-1.9084),She was repulsed by him.,tensor(-2.4182),True
+The army surrendered the battle.What is the cause of this?,They were outnumbered.,tensor(-2.2791),They stormed the city.,tensor(-3.3930),True
+The swimmer won the race.What is the effect of this?,She received a gold medal.,tensor(-2.5885),Her team lost the meet.,tensor(-3.2302),True
+The girl met her favorite actor.What is the effect of this?,She asked him for his autograph.,tensor(-1.9378),She went to see his new film.,tensor(-2.3161),True
+The girl applied the scissors to the paper.What is the effect of this?,The paper sliced apart.,tensor(-2.9878),The paper crinkled.,tensor(-2.5222),False
+The shop was closed.What is the cause of this?,The shop was undergoing renovation.,tensor(-2.2969),The owner was helping customers.,tensor(-4.0628),True
+My flight got delayed.What is the cause of this?,Tornadoes were sighted in the area.,tensor(-2.4303),I was held up at airport security.,tensor(-2.9173),True
+The child caught a life-threatening illness.What is the cause of this?,She didn't get vaccinated.,tensor(-1.8518),She was adopted.,tensor(-4.2512),True
+The woman felt compelled to help someone in need.What is the effect of this?,She donated blood.,tensor(-3.4901),She wrote a poem.,tensor(-3.6052),True
+The boat capsized.What is the cause of this?,It was caught in a hurricane.,tensor(-2.2185),The captain raised the sail.,tensor(-3.6125),True
+The man lifted the heavy box.What is the effect of this?,He put out his back.,tensor(-3.7549),He scratched his back.,tensor(-3.5304),False
+The woman had an infection.What is the effect of this?,She took antibiotics.,tensor(-1.7398),She washed her hands.,tensor(-2.6837),True
+The woman's ring slipped off in the shower.What is the effect of this?,The ring went down the drain.,tensor(-1.7803),The woman polished the ring.,tensor(-3.3735),True
+The employee missed work.What is the cause of this?,There was a death in her family.,tensor(-2.5331),Her family got in touch with her.,tensor(-3.3931),True
+The turtle hid in its shell.What is the cause of this?,It detected a predator.,tensor(-3.5532),It ate a fish.,tensor(-3.1921),False
+My friend was recovering from surgery.What is the effect of this?,I brought her a card and flowers.,tensor(-2.9539),I dropped her off at the hospital.,tensor(-2.4533),False
+I moved to a new city.What is the cause of this?,I found a better-paying job.,tensor(-2.3925),My son was born.,tensor(-3.1583),True
+The teacher caught the student chewing gum.What is the effect of this?,The student spit out the gum.,tensor(-1.5287),The gum stuck to the student's shoe.,tensor(-1.7791),True
+The city re-elected the mayor.What is the cause of this?,The mayor fulfilled his promises.,tensor(-2.5548),The city cut its budget.,tensor(-3.7789),True
+The customer thought the souvenir was overpriced.What is the effect of this?,He bargained with the vendor.,tensor(-2.3595),The vender sold it to him.,tensor(-3.0741),True
+The man's clothes fit loosely.What is the cause of this?,He lost weight.,tensor(-3.2003),He bought them on sale.,tensor(-3.2475),True
+The photograph faded.What is the cause of this?,It was old.,tensor(-4.4526),It was fake.,tensor(-5.1393),True
+The runner wore shorts.What is the cause of this?,The forecast predicted high temperatures.,tensor(-3.3456),She planned to run along the beach.,tensor(-3.4175),True
+The man read the cartoon in the newspaper.What is the effect of this?,He chuckled.,tensor(-2.8520),He sipped coffee.,tensor(-4.1142),True
+The glasses on the table spilled.What is the cause of this?,The child yanked the tablecloth.,tensor(-2.7715),The child drew on the table.,tensor(-3.5206),True
+The computer crashed.What is the cause of this?,I downloaded a virus.,tensor(-3.6949),I backed up my files.,tensor(-2.4735),False
+I lingered in bed upon awakening.What is the cause of this?,It was Saturday.,tensor(-3.4797),I was hungry.,tensor(-2.7954),False
+The balloon expanded.What is the cause of this?,I blew into it.,tensor(-3.2991),I pricked it.,tensor(-4.3787),True
+The man gained weight.What is the effect of this?,He got his suit altered.,tensor(-3.6988),He got his shoes shined.,tensor(-3.6063),False
+Air leaked out of the beach ball.What is the cause of this?,There was a hole in it.,tensor(-2.3829),It was inflated.,tensor(-3.4573),True
+The group overlooked the woman's faux pas.What is the effect of this?,The woman was relieved.,tensor(-2.4740),The woman apologized.,tensor(-2.6990),True
+I held the door for the woman entering behind me.What is the effect of this?,The woman thanked me.,tensor(-1.7349),The door slammed shut.,tensor(-2.4139),True
+The boy's hands were shaking.What is the cause of this?,He planned to ask the girl out.,tensor(-3.7342),His palms were cold and sweaty.,tensor(-1.7918),False
+The cat purred.What is the cause of this?,I petted it.,tensor(-2.5486),It scratched me.,tensor(-3.5732),True
+The hunter ran out of ammunition.What is the effect of this?,He reloaded the gun.,tensor(-2.4694),He aimed at the deer.,tensor(-2.5087),True
+I scrubbed the stain on the floor.What is the effect of this?,I got rid of the stain.,tensor(-1.5471),I got dirt on the floor.,tensor(-2.2383),True
+The police eliminated the woman from the list of suspects.What is the cause of this?,Her alibi checked out.,tensor(-2.6065),The police interrogated her.,tensor(-2.4346),False
+The nurse prepared the needle for the patient's injection.What is the effect of this?,The patient tensed up.,tensor(-3.2063),The patient bled.,tensor(-3.4299),True
+The driver pulled over to the side of the road.What is the cause of this?,He noticed a stranded vehicle.,tensor(-3.3173),He went through an intersection.,tensor(-3.6596),True
+The parents left their children with a babysitter.What is the cause of this?,They made plans to celebrate their anniversary.,tensor(-2.2033),Their youngest child started attending preschool.,tensor(-2.7088),True
+The child became immune to the disease.What is the cause of this?,He received the vaccine for the disease.,tensor(-2.2308),He avoided exposure to the disease.,tensor(-3.1098),True
+The water in the teapot started to boil.What is the effect of this?,The teapot whistled.,tensor(-1.9791),The teapot cooled.,tensor(-2.0214),True
+The boy felt homesick.What is the cause of this?,He went away to camp.,tensor(-3.6336),He bickered with his sister.,tensor(-3.1690),False
+The security guard replayed the surveillance footage.What is the cause of this?,He noticed some suspicious activity.,tensor(-2.7399),The surveillance camera was out of focus.,tensor(-1.7050),False
+I flipped the light switch up and down.What is the effect of this?,The light flickered.,tensor(-2.1510),The light faded.,tensor(-3.3459),True
+The button on my shirt fell off.What is the effect of this?,I sewed the button back on.,tensor(-2.1338),I glued the button back on.,tensor(-2.3298),True
+I ran out of breath.What is the cause of this?,I climbed several flights of stairs.,tensor(-2.0154),I read several chapters of the book.,tensor(-3.1675),True
+The mother scolded her daughter.What is the cause of this?,Her daughter burped at the kitchen table.,tensor(-3.5166),Her daughter set the kitchen table.,tensor(-3.7369),True
+The vandals threw a rock at the window.What is the effect of this?,The window cracked.,tensor(-1.8058),The window fogged up.,tensor(-2.6049),True
+The woman's makeup smeared.What is the cause of this?,She wiped her eyes.,tensor(-2.3924),She brushed her hair.,tensor(-3.0285),True
+The seamstress pushed the threaded needle into the fabric.What is the effect of this?,The thread went through the fabric.,tensor(-2.2073),The thread wrapped around the needle.,tensor(-1.9708),False
+I went to bed.What is the cause of this?,It was late.,tensor(-3.0866),It was a clear night.,tensor(-2.6375),False
+The friends' debate dragged on interminably.What is the cause of this?,The friends were splitting hairs.,tensor(-2.7931),The friends saw eye to eye.,tensor(-3.4278),True
+The boy read the novel aloud to his grandfather.What is the cause of this?,His grandfather was blind.,tensor(-1.4450),His grandfather was deaf.,tensor(-1.6699),True
+The bar closed.What is the cause of this?,It was 3 AM.,tensor(-3.3554),It was crowded.,tensor(-3.5635),True
+The fans in the stadium cheered.What is the cause of this?,The player scored.,tensor(-4.4961),The game ended in a tie.,tensor(-2.5396),False
+The man became disabled.What is the effect of this?,His family offered him financial support.,tensor(-3.3273),His family cut off contact with him.,tensor(-2.5610),False
+The pond froze over for the winter.What is the effect of this?,People skated on the pond.,tensor(-1.7167),People brought boats to the pond.,tensor(-2.9612),True
