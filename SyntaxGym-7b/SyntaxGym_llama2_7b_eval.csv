@@ -1,4 +1,4 @@
-suite name,prediction,results
+suite name,prediction,correct_prediction
 subordination,['((3;%sub_no-matrix%) > (3;%no-sub_no-matrix%) ) & ((3;%sub_matrix%) < (3;%no-sub_matrix%) )'],False
 subordination,['((3;%sub_no-matrix%) > (3;%no-sub_no-matrix%) ) & ((3;%sub_matrix%) < (3;%no-sub_matrix%) )'],False
 subordination,['((3;%sub_no-matrix%) > (3;%no-sub_no-matrix%) ) & ((3;%sub_matrix%) < (3;%no-sub_matrix%) )'],False
