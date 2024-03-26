@@ -1,0 +1,602 @@
+Sentence #,LlaMa-13b Response
+1,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['As the doctor studied the book.', 'The doctor studied the book.', 'As the doctor studied the book, the nurse walked into the room.', 'The doctor studied the book, the nurse walked into the room.']
+Answer with the sentence that is grammatically correct: 1. The doctor studied the book. The nurse walked into the room. 2. The doctor studied the book. 3. The doctor"
+2,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['After the man shot the bird.', 'The man shot the bird.', 'After the man shot the bird, he loaded his gun.', 'The man shot the bird, he loaded his gun.']
+Answer with the sentence that is grammatically correct: 1. After the man shot the bird. 2. The man shot the bird. 3. After the man shot the bird, he loaded"
+3,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the students did not like the material.', 'The students did not like the material.', 'Because the students did not like the material, they complained to the principal.', 'The students did not like the material, they complained to the principal.']
+Answer with the sentence that is grammatically correct: 0/1 points
+['Because the students did not like the material, they complained to the principal.', 'The students did not like"
+4,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['When the general entered the camp.', 'The general entered the camp.', 'When the general entered the camp, the soldiers cheered.', 'The general entered the camp, the soldiers cheered.']
+Answer with the sentence that is grammatically correct: 1. The general entered the camp. 2. The general entered the camp. 3. When the general entered the camp, the soldiers che"
+5,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['After the delivery man delivered the newspaper.', 'The delivery man delivered the newspaper.', 'After the delivery man delivered the newspaper, the dog looked at the door.', 'The delivery man delivered the newspaper, the dog looked at the door.']
+Answer with the sentence that is grammatically correct: 1. The delivery man delivered the newspaper. 2. The delivery man delivered the newspaper, the dog looked at the door. 3. After"
+6,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the lawyers printed the documents.', 'The lawyers printed the documents.', 'While the lawyers printed the documents, the aids made coffee.', 'The lawyers printed the documents, the aids made coffee.']
+Answer with the sentence that is grammatically correct: 1. While the lawyers printed the documents, the aids made coffee. 2. The lawyers printed the documents. 3"
+7,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the editor liked the draft.', 'The editor liked the draft.', 'Because the editor liked the draft, he published it the next month.', 'The editor liked the draft, he published it the next month.']
+Answer with the sentence that is grammatically correct: 1) Because the editor liked the draft, he published it the next month. 2) The editor liked the draft, he published it the next"
+8,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Since the nurse lost her documents.', 'The nurse lost her documents.', 'Since the nurse lost her documents, she administered the wrong medicine.', 'The nurse lost her documents, she administered the wrong medicine.']
+Answer with the sentence that is grammatically correct: 1, 2, 3 or 4.
+I'm not sure if it's the same for all languages, but I think"
+9,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the scientist broke the computer.', 'The scientist broke the computer.', 'Because the scientist broke the computer, the administrator wrote everything by hand.', 'The scientist broke the computer, the administrator wrote everything by hand.']
+Answer with the sentence that is grammatically correct: 1
+Grammatically, all of the sentences are correct.
+In the first sentence, the adverbial clause 'because the scientist broke"
+10,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['After the minister praised the new building.', 'The minister praised the new building.', 'After the minister praised the new building, it started to rain.', 'The minister praised the new building, it started to rain.']
+Answer with the sentence that is grammatically correct: 1, 2, 3 or 4.
+After the minister praised the new building, it started to rain.
+The minister pra"
+11,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the architect read the plans.', 'The architect read the plans.', 'Because the architect read the plans, the house was built correctly.', 'The architect read the plans, the house was built correctly.']
+Answer with the sentence that is grammatically correct: 1) 'The architect read the plans, the house was built correctly.' 2) 'The architect read the plans, the house was built correctly"
+12,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Before the actor delivered the speech.', 'The actor delivered the speech.', 'Before the actor delivered the speech, she took a deep breath.', 'The actor delivered the speech, she took a deep breath.']
+Answer with the sentence that is grammatically correct: 1) Before the actor delivered the speech. 2) The actor delivered the speech. 3) Before the actor delivered the speech, she took"
+13,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the pianist practiced the music.', 'The pianist practiced the music.', 'While the pianist practiced the music, the conductor stretched his arms.', 'The pianist practiced the music, the conductor stretched his arms.']
+Answer with the sentence that is grammatically correct: 1.
+[While the pianist practiced the music, the conductor stretched his arms.]
+[The pianist practiced the"
+14,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Although the students enjoyed the novel.', 'The students enjoyed the novel.', 'Although the students enjoyed the novel, the teacher considered it poorly written.', 'The students enjoyed the novel, the teacher considered it poorly written.']
+Answer with the sentence that is grammatically correct: 1.
+The students enjoyed the novel.
+Although the students enjoyed the novel, the teacher considered it poorly written.
+The students enjoyed"
+15,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the maid read the magazine.', 'The maid read the magazine.', 'While the maid read the magazine, the customer waited at her table.', 'The maid read the magazine, the customer waited at her table.']
+Answer with the sentence that is grammatically correct: 1. While the maid read the magazine, the customer waited at her table. 2. The maid read the magazine, the customer waited"
+16,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Before the assistant wrote the letter.', 'The assistant wrote the letter.', 'Before the assistant wrote the letter, she had a cup of coffee.', 'The assistant wrote the letter, she had a cup of coffee.']
+Answer with the sentence that is grammatically correct: 1. Before the assistant wrote the letter, she had a cup of coffee. 2. The assistant wrote the letter, she had a cup of"
+17,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['After the diplomat presented the file.', 'The diplomat presented the file.', 'After the diplomat presented the file, the ambassador gave a speech.', 'The diplomat presented the file, the ambassador gave a speech.']
+Answer with the sentence that is grammatically correct: 1) After the diplomat presented the file, the ambassador gave a speech. 2) The diplomat presented the file, the ambassador"
+18,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the officials reviewed the contract.', 'The officials reviewed the contract.', 'While the officials reviewed the contract, the players waited nervously.', 'The officials reviewed the contract, the players waited nervously.']
+Answer with the sentence that is grammatically correct: 1) [While the officials reviewed the contract, the players waited nervously.], 2) [The officials reviewed the contract,"
+19,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the clerk lost the plans.', 'The clerk lost the plans.', 'Because the clerk lost the plans, the detective looked elsewhere.', 'The clerk lost the plans, the detective looked elsewhere.']
+Answer with the sentence that is grammatically correct: 2
+The clerk lost the plans.
+Because the clerk lost the plans, the detective looked elsewhere.
+Because the cl"
+20,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the tourists read the guide.', 'The tourists read the guide.', 'While the tourists read the guide, the children played in the sand.', 'The tourists read the guide, the children played in the sand.']
+Answer with the sentence that is grammatically correct: 1) While the tourists read the guide, the children played in the sand. 2) The tourists read the guide, the children played"
+21,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['When the politicians passed the new law.', 'The politicians passed the new law.', 'When the politicians passed the new law, the protestors blocked traffic outside.', 'The politicians passed the new law, the protestors blocked traffic outside.']
+Answer with the sentence that is grammatically correct: 1, 2, 3, or 4.
+The politicians passed the new law, the protestors blocked traffic outside.
+G"
+22,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['When the police found new evidence.', 'The police found new evidence.', 'When the police found new evidence, the judge declared a mistrial.', 'The police found new evidence, the judge declared a mistrial.']
+Answer with the sentence that is grammatically correct: 1, 2, or 3.
+The police found new evidence.
+When the police found new evidence, the judge declared a mistrial"
+23,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Before the students handed in their papers.', 'The students handed in their papers.', 'Before the students handed in their papers, they revised them all night long.', 'The students handed in their papers, they revised them all night long.']
+Answer with the sentence that is grammatically correct: 1. The students handed in their papers. 2. The students handed in their papers, they revised them all night long. 3."
+24,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['As the doctor who the administrator had recently hired studied the book that colleagues had written on cancer therapy.', 'The doctor who the administrator had recently hired studied the book that colleagues had written on cancer therapy.', 'As the doctor who the administrator had recently hired studied the book that colleagues had written on cancer therapy, the nurse walked into the room.', 'The doctor who the administrator had recently hired studied the book that colleagues had written on cancer therapy, the nurse walked into the room.']
+Answer with the sentence that is grammatically correct: 0 / 1 pts
+['As the doctor who the administrator had recently hired studied the book that colleagues had written on cancer therapy"
+25,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['After the man who a friend had helped shot the bird that he had been tracking secretly.', 'The man who a friend had helped shot the bird that he had been tracking secretly.', 'After the man who a friend had helped shot the bird that he had been tracking secretly, he loaded his gun.', 'The man who a friend had helped shot the bird that he had been tracking secretly, he loaded his gun.']
+Answer with the sentence that is grammatically correct: 0.00
+['After the man who a friend had helped shot the bird that he had been tracking secretly, he loaded his gun."
+26,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the students who the teacher had in her class did not like the material that the teacher used to cover evolution.', 'The students who the teacher had in her class did not like the material that the teacher used to cover evolution.', 'Because the students who the teacher had in her class did not like the material that the teacher used to cover evolution, they complained to the principal.', 'The students who the teacher had in her class did not like the material that the teacher used to cover evolution, they complained to the principal.']
+Answer with the sentence that is grammatically correct: 1) Because the students who the teacher had in her class did not like the material that the teacher used to cover evolution, they complained to the"
+27,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['When the general who the officer had given a uniform entered the camp that the colonel constructed two years ago.', 'The general who the officer had given a uniform entered the camp that the colonel constructed two years ago.', 'When the general who the officer had given a uniform entered the camp that the colonel constructed two years ago, the soldiers cheered.', 'The general who the officer had given a uniform entered the camp that the colonel constructed two years ago, the soldiers cheered.']
+Answer with the sentence that is grammatically correct: 1 2 3 4
+The general who the officer had given a uniform entered the camp that the colonel constructed two years ago.
+"
+28,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['After the trainer who the dog feared delivered the newspaper that the resident had ordered.', 'The trainer who the dog feared delivered the newspaper that the resident had ordered.', 'After the trainer who the dog feared delivered the newspaper that the resident had ordered, the dog looked at the door.', 'The trainer who the dog feared delivered the newspaper that the resident had ordered, the dog looked at the door.']
+Answer with the sentence that is grammatically correct: 1, 2, 3, 4.
+'The trainer who the dog feared delivered the newspaper that the resident had ordered."
+29,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the lawyers who the client had hired printed the documents that the client never requested.', 'The lawyers who the client had hired printed the documents that the client never requested.', 'While the lawyers who the client had hired printed the documents that the client never requested, the aids made coffee.', 'The lawyers who the client had hired printed the documents that the client never requested, the aids made coffee.']
+Answer with the sentence that is grammatically correct: 1
+The lawyers who the client had hired printed the documents that the client never requested.
+While the lawyers who the"
+30,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the editor who the author knew well liked the draft that the celebrity had written.', 'The editor who the author knew well liked the draft that the celebrity had written.', 'Because the editor who the author knew well liked the draft that the celebrity had written, he published it the next month.', 'The editor who the author knew well liked the draft that the celebrity had written, he published it the next month.']
+Answer with the sentence that is grammatically correct: 1. 'Because the editor who the author knew well liked the draft that the celebrity had written.'
+2. 'The editor who the"
+31,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Since the nurse who the doctor had met only once lost her documents that she had bought from an expensive store.', 'The nurse who the doctor had met only once lost her documents that she had bought from an expensive store.', 'Since the nurse who the doctor had met only once lost her documents that she had bought from an expensive store, she administered the wrong medicine.', 'The nurse who the doctor had met only once lost her documents that she had bought from an expensive store, she administered the wrong medicine.']
+Answer with the sentence that is grammatically correct: 1) 'Since the nurse who the doctor had met only once lost her documents that she had bought from an expensive store, she administered"
+32,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the scientist who the contractor had recommended broke the computer that the administrator moved to the basement.', 'The scientist who the contractor had recommended broke the computer that the administrator moved to the basement.', 'Because the scientist who the contractor had recommended broke the computer that the administrator moved to the basement, the administrator wrote everything by hand.', 'The scientist who the contractor had recommended broke the computer that the administrator moved to the basement, the administrator wrote everything by hand.']
+Answer with the sentence that is grammatically correct: 1 2 3 4
+The scientist who the contractor had recommended broke the computer that the administrator moved to the basement.
+"
+33,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['After the minister who the mayor had invited praised the new building that the businessman had built downtown.', 'The minister who the mayor had invited praised the new building that the businessman had built downtown.', 'After the minister who the mayor had invited praised the new building that the businessman had built downtown, it started to rain.', 'The minister who the mayor had invited praised the new building that the businessman had built downtown, it started to rain.']
+Answer with the sentence that is grammatically correct: 1 2 3 4
+The minister who the mayor had invited praised the new building that the businessman had built downtown."
+34,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the architect who the mayor respected very much read the proposal that the housing authority drafted.', 'The architect who the mayor respected very much read the proposal that the housing authority drafted.', 'Because the architect who the mayor respected very much read the proposal that the housing authority drafted, the house was built correctly.', 'The architect who the mayor respected very much read the proposal that the housing authority drafted, the house was built correctly.']
+Answer with the sentence that is grammatically correct: 1) 'Because the architect who the mayor respected very much read the proposal that the housing authority drafted.', 2) 'The"
+35,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Before the actor who the director praised openly delivered the speech that the author had written yesterday.', 'The actor who the director praised openly delivered the speech that the author had written yesterday.', 'Before the actor who the director praised openly delivered the speech that the author had written yesterday, she took a deep breath.', 'The actor who the director praised openly delivered the speech that the author had written yesterday, she took a deep breath.']
+Answer with the sentence that is grammatically correct: 1, 2, 3, or 4.
+['Before the actor who the director praised openly delivered the speech that the author"
+36,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the pianist who the critic did not like practiced the music that the composer had written.', 'The pianist who the critic did not like practiced the music that the composer had written.', 'While the pianist who the critic did not like practiced the music that the composer had written, the conductor stretched his arms.', 'The pianist who the critic did not like practiced the music that the composer had written, the conductor stretched his arms.']
+Answer with the sentence that is grammatically correct: 1)
+While the pianist who the critic did not like practiced the music that the composer had written, the conductor stretched his"
+37,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Although the students who the principle had disciplined enjoyed the novel that the school administrator had written.', 'The students who the principle had disciplined enjoyed the novel that the school administrator had written.', 'Although the students who the principle had disciplined enjoyed the novel that the school administrator had written, the teacher considered it poorly written.', 'The students who the principle had disciplined enjoyed the novel that the school administrator had written, the teacher considered it poorly written.']
+Answer with the sentence that is grammatically correct: 10 points
+Although the students who the principle had disciplined enjoyed the novel that the school administrator had written, the teacher considered it poorly"
+38,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the maid who the chef had yelled at read the magazine that the shift manager left behind.', 'The maid who the chef had yelled at read the magazine that the shift manager left behind.', 'While the maid who the chef had yelled at read the magazine that the shift manager left behind, the customer waited at her table.', 'The maid who the chef had yelled at read the magazine that the shift manager left behind, the customer waited at her table.']
+Answer with the sentence that is grammatically correct: 1. The maid who the chef had yelled at read the magazine that the shift manager left behind. 2. While the maid who"
+39,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Before the assistant who the boss moved down the hall wrote the letter that the lawyer threw away.', 'The assistant who the boss moved down the hall wrote the letter that the lawyer threw away.', 'Before the assistant who the boss moved down the hall wrote the letter that the lawyer threw away, she had a cup of coffee.', 'The assistant who the boss moved down the hall wrote the letter that the lawyer threw away, she had a cup of coffee.']
+Answer with the sentence that is grammatically correct: 1 2 3 4
+The assistant who the boss moved down the hall wrote the letter that the lawyer threw away.
+The assistant"
+40,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['After the diplomat who the spy had contacted repeatedly presented the file that the assistant had written.', 'The diplomat who the spy had contacted repeatedly presented the file that the assistant had written.', 'After the diplomat who the spy had contacted repeatedly presented the file that the assistant had written, the ambassador gave a speech.', 'The diplomat who the spy had contacted repeatedly presented the file that the assistant had written, the ambassador gave a speech.']
+Answer with the sentence that is grammatically correct: 1. The diplomat who the spy had contacted repeatedly presented the file that the assistant had written. 2. The diplomat who the"
+41,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the officials who the coaches had bribed handsomely reviewed the contract that the lawyers had written.', 'The officials who the coaches had bribed handsomely reviewed the contract that the lawyers had written.', 'While the officials who the coaches had bribed handsomely reviewed the contract that the lawyers had written, the players waited nervously.', 'The officials who the coaches had bribed handsomely reviewed the contract that the lawyers had written, the players waited nervously.']
+Answer with the sentence that is grammatically correct: 1. While the officials who the coaches had bribed handsomely reviewed the contract that the lawyers had written, the players"
+42,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Because the clerk who the citizens liked greatly lost the plans that the city planners had drafted.', 'The clerk who the citizens liked greatly lost the plans that the city planners had drafted.', 'Because the clerk who the citizens liked greatly lost the plans that the city planners had drafted, the detective looked elsewhere.', 'The clerk who the citizens liked greatly lost the plans that the city planners had drafted, the detective looked elsewhere.']
+Answer with the sentence that is grammatically correct: 1, 2, 3, or 4.
+Correct answer: 3. In sentence 1, because is misplaced"
+43,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['While the tourists who the locals found strange read the guide that the maid had given them.', 'The tourists who the locals found strange read the guide that the maid had given them.', 'While the tourists who the locals found strange read the guide that the maid had given them, the children played in the sand.', 'The tourists who the locals found strange read the guide that the maid had given them, the children played in the sand.']
+Answer with the sentence that is grammatically correct: 1, 2, 3, or 4.
+The tourists who the locals found strange read the guide that the maid had"
+44,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['When the politicians who the lobbyists trusted passed the new law that all the shop owners strongly opposed.', 'The politicians who the lobbyists trusted passed the new law that all the shop owners strongly opposed.', 'When the politicians who the lobbyists trusted passed the new law that all the shop owners strongly opposed, the protestors walked down the street.', 'The politicians who the lobbyists trusted passed the new law that all the shop owners strongly opposed, the protestors walked down the street.']
+Answer with the sentence that is grammatically correct: 0
+'When the politicians who the lobbyists trusted passed the new law that all the shop owners strongly opposed.', '"
+45,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['When the police who the officer had given pistols found new evidence that the suspect had hidden.', 'The police who the officer had given pistols found new evidence that the suspect had hidden.', 'When the police who the officer had given pistols found new evidence that the suspect had hidden, the judge declared a mistrial.', 'The police who the officer had given pistols found new evidence that the suspect had hidden, the judge declared a mistrial.']
+Answer with the sentence that is grammatically correct: 1.
+The police who the officer had given pistols found new evidence that the suspect had hidden.
+The police who the officer had given"
+46,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Before the students who the committee had praised handed in their papers that the teacher assigned them.', 'The students who the committee had praised handed in their papers that the teacher assigned them.', 'Before the students who the committee had praised handed in their papers that the teacher assigned them, they revised them all night long.', 'The students who the committee had praised handed in their papers that the teacher assigned them, they revised them all night long.']
+Answer with the sentence that is grammatically correct: 1, 2, 3, or 4.
+The students who the committee had praised handed in their papers that the teacher assigned them"
+47,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The painting that the artist painted deteriorated', 'The painting that the artist deteriorated painted']
+Answer with the sentence that is grammatically correct: 1) The painting that the artist painted deteriorated. 2) The painting that the artist deteriorated painted.
+Sent"
+48,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The storm that the captain feared subsided', 'The storm that the captain subsided feared']
+Answer with the sentence that is grammatically correct: 1) 'The storm that the captain feared subsided' 2) 'The storm that the captain subsided feared'
+'The"
+49,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The girl that the bug frightened shouted', 'The girl that the bug shouted frightened']
+Answer with the sentence that is grammatically correct: 1) The girl that the bug frightened shouted. 2) The girl that the bug shouted frightened.
+The girl that the"
+50,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The baby that the woman held yelled', 'The baby that the woman yelled held']
+Answer with the sentence that is grammatically correct: 1. The baby that the woman held yelled 2. The baby that the woman yelled held
+The sentence is grammatically correct. The"
+51,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The soldier that the bullet wounded died', 'The soldier that the bullet died wounded']
+Answer with the sentence that is grammatically correct: 1) The soldier that the bullet wounded died. 2) The soldier that the bullet died wounded.
+The sentence ""The soldier that the bullet"
+52,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The storm that the scientist predicted intensified', 'The storm that the scientist intensified predicted']
+Answer with the sentence that is grammatically correct: 1 or 2
+The storm that the scientist predicted intensified.
+The storm that the scientist intensified predicted.
+Given the"
+53,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The convict that the cop arrested escaped', 'The convict that the cop escaped arrested']
+Answer with the sentence that is grammatically correct: 1) 'The convict that the cop arrested escaped', 2) 'The convict that the cop escaped arrested', 3) both are"
+54,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The computer that the secretary bought crashed', 'The computer that the secretary crashed bought']
+Answer with the sentence that is grammatically correct: 1) The computer that the secretary crashed bought. 2) The computer that the secretary bought crashed.
+'The computer that the secretary"
+55,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The floor that the maid swept cracked', 'The floor that the maid cracked swept']
+Answer with the sentence that is grammatically correct: 1. The floor that the maid swept cracked 2. The floor that the maid cracked swept
+The floor that the"
+56,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The yacht that the millionaires bought sank', 'The yacht that the millionaires sank bought']
+Answer with the sentence that is grammatically correct: 1. The yacht that the millionaires bought sank. 2. The yacht that the millionaires sank bought.
+Sent"
+57,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The shirt that the man bought ripped', 'The shirt that the man ripped bought']
+Answer with the sentence that is grammatically correct: 1. 'The shirt that the man bought ripped.' 2. 'The shirt that the man ripped bought.'
+The sentence"
+58,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The water that the maid poured evaporated', 'The water that the maid evaporated poured']
+Answer with the sentence that is grammatically correct: 1) The water that the maid poured evaporated. 2) The water that the maid evaporated poured.
+"
+59,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The building that the workers built collapsed', 'The building that the workers collapsed built']
+Answer with the sentence that is grammatically correct: 1 or 2.
+The building that the workers collapsed built
+The building that the workers built collapsed
+The building that the workers col"
+60,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The bones that the doctor examined broke', 'The bones that the doctor broke examined']
+Answer with the sentence that is grammatically correct: 1) The bones that the doctor examined broke. 2) The bones that the doctor broke examined.
+The bones that"
+61,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The building that the workers repaired deteriorated', 'The building that the workers deteriorated repaired']
+Answer with the sentence that is grammatically correct: 1) ""The building that the workers repaired deteriorated."" 2) ""The building that the workers deteriorated rep"
+62,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The ship that the workers built sank', 'The ship that the workers sank built']
+Answer with the sentence that is grammatically correct: 1. The ship that the workers built sank. 2. The ship that the workers sank built.
+1. The ship that the"
+63,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The horse that the boy rode bucked', 'The horse that the boy bucked rode']
+Answer with the sentence that is grammatically correct: 1. The horse that the boy rode bucked. 2. The horse that the boy bucked rode.
+In English, we"
+64,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The water that the chef needed evaporated', 'The water that the chef evaporated needed']
+Answer with the sentence that is grammatically correct: 1. The water that the chef needed evaporated. 2. The water that the chef evaporated needed.
+Both sentences are"
+65,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The tree that the old man cut fell', 'The tree that the old man fell cut']
+Answer with the sentence that is grammatically correct: 1. The tree that the old man cut fell. 2. The tree that the old man fell cut.
+In this exercise, you will"
+66,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The letter that the author wrote arrived', 'The letter that the author arrived wrote']
+Answer with the sentence that is grammatically correct: 0/1 point
+The letter that the author wrote arrived.
+The letter that the author arrived wrote.
+In this sentence, the adverb"
+67,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The glass that the athlete hit cracked', 'The glass that the athlete cracked hit']
+Answer with the sentence that is grammatically correct: 1) The glass that the athlete hit cracked. 2) The glass that the athlete cracked hit.
+The correct answer is"
+68,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The bomb that the terrorist built exploded', 'The bomb that the terrorist exploded built']
+Answer with the sentence that is grammatically correct: 1. The bomb that the terrorist built exploded. 2. The bomb that the terrorist exploded built.
+The sentence that is"
+69,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The meat that the man cooked burned', 'The meat that the man burned cooked']
+Answer with the sentence that is grammatically correct: 1) The meat that the man cooked burned 2) The meat that the man burned cooked
+The sentence that is grammatically"
+70,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The sugar that the visitor bought dissolved', 'The sugar that the visitor dissolved bought']
+Answer with the sentence that is grammatically correct: 1. The sugar that the visitor bought dissolved 2. The sugar that the visitor dissolved bought
+The sentence is grammatically correct because it"
+71,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The pants that the woman bought ripped', 'The pants that the woman ripped bought']
+Answer with the sentence that is grammatically correct: 1) The pants that the woman bought ripped. 2) The pants that the woman ripped bought.
+The sentence that is"
+72,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The toilet that the worker fixed clogged', 'The toilet that the worker clogged fixed']
+Answer with the sentence that is grammatically correct: 1) The toilet that the worker fixed clogged. 2) The toilet that the worker clogged fixed.
+"
+73,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The window that the boy wiped shattered', 'The window that the boy shattered wiped']
+Answer with the sentence that is grammatically correct: 1. The window that the boy wiped shattered. 2. The window that the boy shattered wiped.
+"
+74,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The child that the shadow frightened yelled', 'The child that the shadow yelled frightened']
+Answer with the sentence that is grammatically correct: 1) The child that the shadow frightened yelled 2) The child that the shadow yelled frightened
+The sentence that is grammatically"
+75,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The author next to the senators hurt herself', 'The author next to the senators hurt themselves', 'The authors next to the senator hurt themselves', 'The authors next to the senator hurt herself']
+Answer with the sentence that is grammatically correct: 1, 2, 3, or 4
+The correct answer is ""The authors next to the senator hurt themselves.""
+Gram"
+76,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The pilot behind the teachers injured herself', 'The pilot behind the teachers injured themselves', 'The pilots behind the teacher injured themselves', 'The pilots behind the teacher injured herself']
+Answer with the sentence that is grammatically correct: 1, 2, 3, 4
+The pilot behind the teachers injured herself.
+The pilot behind the teachers injured themselves.
+The"
+77,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The doctor in front of the guards trusted herself', 'The doctor in front of the guards trusted themselves', 'The doctors in front of the guard trusted themselves', 'The doctors in front of the guard trusted herself']
+Answer with the sentence that is grammatically correct: 1) 'The doctor in front of the guards trusted herself' 2) 'The doctor in front of the guards trusted themselves"
+78,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The farmer near the clerks embarrassed herself', 'The farmer near the clerks embarrassed themselves', 'The farmers near the clerk embarrassed themselves', 'The farmers near the clerk embarrassed herself']
+Answer with the sentence that is grammatically correct: 4
+['The farmers near the clerk embarrassed themselves', 'The farmer near the clerks embarrassed herself', 'The"
+79,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The manager to the side of the architects disguised herself', 'The manager to the side of the architects disguised themselves', 'The managers to the side of the architect disguised themselves', 'The managers to the side of the architect disguised herself']
+Answer with the sentence that is grammatically correct: 1) 'The manager to the side of the architects disguised herself' 2) 'The manager to the side of the architects"
+80,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The customer across from the athletes hated herself', 'The customer across from the athletes hated themselves', 'The customers across from the athlete hated themselves', 'The customers across from the athlete hated herself']
+Answer with the sentence that is grammatically correct: 1. The customer across from the athletes hated herself. 2. The customer across from the athletes hated themselves. 3."
+81,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The officer next to the actors doubted herself', 'The officer next to the actors doubted themselves', 'The officers next to the actor doubted themselves', 'The officers next to the actor doubted herself']
+Answer with the sentence that is grammatically correct: 1. The officer next to the actors doubted herself. 2. The officer next to the actors doubted themselves. 3. The officers"
+82,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The teacher behind the ministers hurt herself', 'The teacher behind the ministers hurt themselves', 'The teachers behind the minister hurt themselves', 'The teachers behind the minister hurt herself']
+Answer with the sentence that is grammatically correct: 1) 'The teacher behind the ministers hurt herself' 2) 'The teacher behind the ministers hurt themselves' 3) 'The"
+83,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The senator in front of the actors injured herself', 'The senator in front of the actors injured themselves', 'The senators in front of the actor injured themselves', 'The senators in front of the actor injured herself']
+Answer with the sentence that is grammatically correct: 3
+The senator in front of the actors injured herself
+The senator in front of the actors injured themselves
+The senators in front of"
+84,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The consultant near the secretaries suspected herself', 'The consultant near the secretaries suspected themselves', 'The consultants near the secretary suspected themselves', 'The consultants near the secretary suspected herself']
+Answer with the sentence that is grammatically correct: 1
+The consultant near the secretaries suspected herself.
+The consultant near the secretaries suspected themselves.
+The consultants near"
+85,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The guard to the side of the executives embarrassed herself', 'The guard to the side of the executives embarrassed themselves', 'The guards to the side of the executive embarrassed themselves', 'The guards to the side of the executive embarrassed herself']
+Answer with the sentence that is grammatically correct: 1) The guard to the side of the executives embarrassed herself 2) The guard to the side of the executives embarrassed"
+86,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The clerk across from the authors disguised herself', 'The clerk across from the authors disguised themselves', 'The clerks across from the author disguised themselves', 'The clerks across from the author disguised herself']
+Answer with the sentence that is grammatically correct: 1. The clerk across from the authors disguised herself 2. The clerk across from the authors disguised themselves 3."
+87,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The architect next to the pilots hated herself', 'The architect next to the pilots hated themselves', 'The architects next to the pilot hated themselves', 'The architects next to the pilot hated herself']
+Answer with the sentence that is grammatically correct: 1) The architect next to the pilots hated herself; 2) The architect next to the pilots hated themselves; 3)"
+88,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The athlete behind the doctors doubted herself', 'The athlete behind the doctors doubted themselves', 'The athletes behind the doctor doubted themselves', 'The athletes behind the doctor doubted herself']
+Answer with the sentence that is grammatically correct: 1.
+The athlete behind the doctors doubted herself.
+The athlete behind the doctors doubted herself. (Correct Answer"
+89,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The actor in front of the farmers hurt herself', 'The actor in front of the farmers hurt themselves', 'The actors in front of the farmer hurt themselves', 'The actors in front of the farmer hurt herself']
+Answer with the sentence that is grammatically correct: 1
+Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality. [The actor"
+90,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The minister near the managers injured herself', 'The minister near the managers injured themselves', 'The ministers near the manager injured themselves', 'The ministers near the manager injured herself']
+Answer with the sentence that is grammatically correct: 1, 2, 3, 4, 5, or 6."
+91,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The taxi driver to the side of the customers suspected herself', 'The taxi driver to the side of the customers suspected themselves', 'The taxi drivers to the side of the customer suspected themselves', 'The taxi drivers to the side of the customer suspected herself']
+Answer with the sentence that is grammatically correct: 1. The taxi driver to the side of the customers suspected herself. 2. The taxi driver to the side of the customers sus"
+92,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The secretary across from the officers embarrassed herself', 'The secretary across from the officers embarrassed themselves', 'The secretaries across from the officer embarrassed themselves', 'The secretaries across from the officer embarrassed herself']
+Answer with the sentence that is grammatically correct: 1) The secretary across from the officers embarrassed herself 2) The secretary across from the officers embarrassed themselves 3) The secret"
+93,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The executive next to the teachers disguised herself', 'The executive next to the teachers disguised themselves', 'The executives next to the teacher disguised themselves', 'The executives next to the teacher disguised herself']
+Answer with the sentence that is grammatically correct: 1) The executive next to the teachers disguised herself 2) The executive next to the teachers disguised themselves 3) The execut"
+94,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The author next to the senators hurt himself', 'The author next to the senators hurt themselves', 'The authors next to the senator hurt themselves', 'The authors next to the senator hurt himself']
+Answer with the sentence that is grammatically correct: 0 / 20
+The correct answer is: ""The author next to the senators hurt himself""
+This is the correct answer because the"
+95,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The pilot behind the teachers injured himself', 'The pilot behind the teachers injured themselves', 'The pilots behind the teacher injured themselves', 'The pilots behind the teacher injured himself']
+Answer with the sentence that is grammatically correct: 1) The pilot behind the teachers injured himself 2) The pilot behind the teachers injured themselves 3) The pilots behind the teacher injured themselves"
+96,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The doctor in front of the guards suspected himself', 'The doctor in front of the guards suspected themselves', 'The doctors in front of the guard suspected themselves', 'The doctors in front of the guard suspected himself']
+Answer with the sentence that is grammatically correct: 1. The doctor in front of the guards suspected himself 2. The doctor in front of the guards suspected themselves 3."
+97,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The farmer near the clerks embarrassed himself', 'The farmer near the clerks embarrassed themselves', 'The farmers near the clerk embarrassed themselves', 'The farmers near the clerk embarrassed himself']
+Answer with the sentence that is grammatically correct: 1) The farmer near the clerks embarrassed himself. 2) The farmer near the clerks embarrassed themselves. "
+98,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The manager to the side of the architects disguised himself', 'The manager to the side of the architects disguised themselves', 'The managers to the side of the architect disguised themselves', 'The managers to the side of the architect disguised himself']
+Answer with the sentence that is grammatically correct: 3) The managers to the side of the architect disguised themselves.
+This sentence demonstrates the correct syntactic phenomenon from the"
+99,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The customer across from the athletes hated himself', 'The customer across from the athletes hated themselves', 'The customers across from the athlete hated themselves', 'The customers across from the athlete hated himself']
+Answer with the sentence that is grammatically correct: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,"
+100,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The officer next to the actors doubted himself', 'The officer next to the actors doubted themselves', 'The officers next to the actor doubted themselves', 'The officers next to the actor doubted himself']
+Answer with the sentence that is grammatically correct: 1. The officer next to the actors doubted himself. 2. The officer next to the actors doubted themselves. 3. The officers"
+101,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The teacher behind the ministers hurt himself', 'The teacher behind the ministers hurt themselves', 'The teachers behind the minister hurt themselves', 'The teachers behind the minister hurt himself']
+Answer with the sentence that is grammatically correct: 1) The teacher behind the ministers hurt himself. 2) The teacher behind the ministers hurt themselves. 3) The teachers behind the"
+102,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The senator in front of the actors injured himself', 'The senator in front of the actors injured themselves', 'The senators in front of the actor injured themselves', 'The senators in front of the actor injured himself']
+Answer with the sentence that is grammatically correct: 1 or 2 or 3 or 4
+The senator in front of the actors injured himself
+The senator in front of the actors"
+103,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The consultant near the secretaries suspected himself', 'The consultant near the secretaries suspected themselves', 'The consultants near the secretary suspected themselves', 'The consultants near the secretary suspected himself']
+Answer with the sentence that is grammatically correct: 1) The consultant near the secretaries suspected himself 2) The consultant near the secretaries suspected themselves 3) The consult"
+104,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The guard to the side of the executives embarrassed himself', 'The guard to the side of the executives embarrassed themselves', 'The guards to the side of the executive embarrassed themselves', 'The guards to the side of the executive embarrassed himself']
+Answer with the sentence that is grammatically correct: 1, 2, 3, 4
+I am looking for a grammar book.
+In the example above, we can see that the"
+105,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The clerk across from the authors disguised himself', 'The clerk across from the authors disguised themselves', 'The clerks across from the author disguised themselves', 'The clerks across from the author disguised himself']
+Answer with the sentence that is grammatically correct: 1) The clerk across from the authors disguised himself 2) The clerk across from the authors disguised themselves 3)"
+106,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The architect next to the pilots hated himself', 'The architect next to the pilots hated themselves', 'The architects next to the pilot hated themselves', 'The architects next to the pilot hated himself']
+Answer with the sentence that is grammatically correct: 1, 2, 3, or 4.
+'The architect next to the pilots hated himself'
+'The architect next"
+107,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The athlete behind the doctors doubted himself', 'The athlete behind the doctors doubted themselves', 'The athletes behind the doctor doubted themselves', 'The athletes behind the doctor doubted himself']
+Answer with the sentence that is grammatically correct: 1) The athlete behind the doctors doubted himself 2) The athlete behind the doctors doubted themselves 3) The athlet"
+108,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The actor in front of the farmers hurt himself', 'The actor in front of the farmers hurt themselves', 'The actors in front of the farmer hurt themselves', 'The actors in front of the farmer hurt himself']
+Answer with the sentence that is grammatically correct: 1) The actor in front of the farmers hurt himself. 2) The actor in front of the farmers hurt themselves. 3)"
+109,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The minister near the managers injured himself', 'The minister near the managers injured themselves', 'The ministers near the manager injured themselves', 'The ministers near the manager injured himself']
+Answer with the sentence that is grammatically correct: 1. The minister near the managers injured himself 2. The minister near the managers injured themselves 3. The ministers near the manager"
+110,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The taxi driver to the side of the customers suspected himself', 'The taxi driver to the side of the customers suspected themselves', 'The taxi drivers to the side of the customer suspected themselves', 'The taxi drivers to the side of the customer suspected himself']
+Answer with the sentence that is grammatically correct: 1. The taxi driver to the side of the customers suspected himself. 2. The taxi driver to the side of the customers sus"
+111,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The secretary across from the officers embarrassed himself', 'The secretary across from the officers embarrassed themselves', 'The secretaries across from the officer embarrassed themselves', 'The secretaries across from the officer embarrassed himself']
+Answer with the sentence that is grammatically correct: 1. The secretary across from the officers embarrassed himself. 2. The secretary across from the officers embarrassed themselves. 3."
+112,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['The executive next to the teachers disguised himself', 'The executive next to the teachers disguised themselves', 'The executives next to the teacher disguised themselves', 'The executives next to the teacher disguised himself']
+Answer with the sentence that is grammatically correct: 1) The executive next to the teachers disguised himself 2) The executive next to the teachers disguised themselves 3) The execut"
+113,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What he did was the meal', 'What he ate was the meal', 'What he did was prepare the meal', 'What he ate was prepare the meal']
+Answer with the sentence that is grammatically correct: 1.
+The sentence is grammatically correct if the subject and the object in the sentence are parallel. In this case, we have two noun"
+114,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the young man did was the crops', 'What the young man planted was the crops', 'What the young man did was plant the crops', 'What the young man planted was plant the crops']
+Answer with the sentence that is grammatically correct: 1. What the young man did was plant the crops.
+The young man planted the crops.
+What the young man did was"
+115,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the worker did was the plane', 'What the worker repaired was the plane', 'What the worker did was board the plane', 'What the worker repaired was board the plane']
+Answer with the sentence that is grammatically correct: 1. What the worker did was the plane. 2. What the worker repaired was the plane. 3. What the worker did"
+116,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the fan did was the tickets', 'What the fan sold was the tickets', 'What the fan did was buy the tickets', 'What the fan sold was buy the tickets']
+Answer with the sentence that is grammatically correct: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,"
+117,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the young woman did was the toilet', 'What the young woman wiped was the toilet', 'What the young woman did was flush the toilet', 'What the young woman wiped was flush the toilet']
+Answer with the sentence that is grammatically correct: 1. What the young woman did was the toilet. 2. What the young woman wiped was the toilet. "
+118,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the fans did was the game', 'What the fans watched was the game', 'What the fans did was lose the game', 'What the fans watched was lose the game']
+Answer with the sentence that is grammatically correct: 1 2 3 4
+The sentence is:
+What the fans did was the game.
+It is a syntactic phenomenon"
+119,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the gardener did was the tree', 'What the gardener trimmed was the tree', 'What the gardener did was plant the tree', 'What the gardener trimmed was plant the tree']
+Answer with the sentence that is grammatically correct: 1. What the gardener did was plant the tree. 2. What the gardener trimmed was plant the tree. 3. What"
+120,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the old man did was the flag', 'What the old man bought was the flag', 'What the old man did was raise the flag', 'What the old man bought was raise the flag']
+Answer with the sentence that is grammatically correct: 1.
+What the old man did was raise the flag
+What the old man bought was raise the flag
+What the old man did was the"
+121,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the old man did was the chicken', 'What the old man cooked was the chicken', 'What the old man did was hunt the chicken', 'What the old man cooked was hunt the chicken']
+Answer with the sentence that is grammatically correct: 0 / 1 pt
+The answer is 'What the old man did was hunt the chicken' because the verb 'hunt' in"
+122,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the workers did was the sidewalk', 'What the workers walked down was the sidewalk', 'What the workers did was pave the sidewalk', 'What the workers walked down was pave the sidewalk']
+Answer with the sentence that is grammatically correct: 1, 2, 3, 4, or 5.
+Given the syntactic phenomenon from SyntaxGym, choose"
+123,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Who the mother did was the baby', 'Who the mother fed was the baby', 'Who the mother did was hug the baby', 'Who the mother fed was hug the baby']
+Answer with the sentence that is grammatically correct: 1. 'Who the mother did was the baby' 2. 'Who the mother fed was the baby' 3. 'Who the mother"
+124,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the old woman did was the apartment', 'What the old woman bought was the apartment', 'What the old woman did was furnish the apartment', 'What the old woman bought was furnish the apartment']
+Answer with the sentence that is grammatically correct: 1. What the old woman did was the apartment. 2. What the old woman bought was the apartment. 3. What the"
+125,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the guards did was the plot', 'What the guards concocted was the plot', 'What the guards did was thwart the plot', 'What the guards concocted was thwart the plot']
+Answer with the sentence that is grammatically correct: 1. The guards concocted the plot. 2. The guards did thwart the plot. 3. The guards con"
+126,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the senator did was the bill', 'What the senator sponsored was the bill', 'What the senator did was veto the bill', 'What the senator sponsored was veto the bill']
+Answer with the sentence that is grammatically correct: 3
+Answer with the sentence that is grammatically correct: 10
+The senator sponsored the bill.
+The senator veto"
+127,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the representatives did was the law', 'What the representatives wrote was the law', 'What the representatives did was repeal the law', 'What the representatives wrote was repeal the law']
+Answer with the sentence that is grammatically correct: 1) What the representatives did was the law. 2) What the representatives wrote was the law. 3) What the representatives"
+128,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the old woman did was the cats', 'What the old woman fed was the cats', 'What the old woman did was stroke the cats', 'What the old woman fed was stroke the cats']
+Answer with the sentence that is grammatically correct: 1. What the old woman did was the cats. 2. What the old woman fed was the cats. 3. What the"
+129,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the army did was the country', 'What the army loved was the country', 'What the army did was invade the country', 'What the army loved was invade the country']
+Answer with the sentence that is grammatically correct: 1
+What the army did was the country.
+What the army loved was the country.
+What the army did was invade the country"
+130,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Who the soldier did was the enemy', 'Who the soldier battled was the enemy', 'Who the soldier did was attack the enemy', 'Who the soldier battled was attack the enemy']
+Answer with the sentence that is grammatically correct: 4
+['Who the soldier did was the enemy', 'Who the soldier battled was the enemy']
+['Who the soldier did was the enemy"
+131,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the novelist did was the book', 'What the novelist wrote was the book', 'What the novelist did was borrow the book', 'What the novelist wrote was borrow the book']
+Answer with the sentence that is grammatically correct: 1, 2, 3, or 4.
+""What the novelist did was _____ the book.""
+Answer with the sentence"
+132,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the worker did was the door', 'What the worker installed was the door', 'What the worker did was lock the door', 'What the worker installed was lock the door']
+Answer with the sentence that is grammatically correct: 0 / 1 pt
+What the worker did was the door
+What the worker installed was the door
+What the worker did was lock the door"
+133,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the workers did was the wall', 'What the workers painted was the wall', 'What the workers did was reinforce the wall', 'What the workers painted was reinforce the wall']
+Answer with the sentence that is grammatically correct: 1.
+What the workers did was reinforce the wall.
+What the workers painted was reinforce the wall.
+What the workers did was"
+134,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the actor did was the story', 'What the actor wrote was the story', 'What the actor did was tell the story', 'What the actor wrote was tell the story']
+Answer with the sentence that is grammatically correct: 1.
+What the actor did was tell the story
+What the actor did was the story
+What the actor wrote was tell the story
+What"
+135,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the tourists did was the destination', 'What the tourists traveled towards was the destination', 'What the tourists did was reach the destination', 'What the tourists traveled towards was reach the destination']
+Answer with the sentence that is grammatically correct: 1) What the tourists did was reach the destination. 2) What the tourists did was the destination. 3) What the tour"
+136,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the men did was the city', 'What the men repaired was the city', 'What the men did was defend the city', 'What the men repaired was defend the city']
+Answer with the sentence that is grammatically correct: 1, 2, 3, 4
+Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstr"
+137,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What he did was the package', 'What he sent was the package', 'What he did was deliver the package', 'What he sent was deliver the package']
+Answer with the sentence that is grammatically correct: 1. The package is in the mail. 2. The package is on the mail. 3. The package is in the mailbox."
+138,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What she did was the contract', 'What she wrote was the contract', 'What she did was renew the contract', 'What she wrote was renew the contract']
+Answer with the sentence that is grammatically correct: 1. What she did was renew the contract. 2. What she wrote was renew the contract. 3. What she did was the contract"
+139,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What he did was the rumor', 'What he spread was the rumor', 'What he did was confirm the rumor', 'What he spread was confirm the rumor']
+Answer with the sentence that is grammatically correct: 1
+What he did was the rumor
+What he spread was the rumor
+What he did was confirm the rumor
+What he spread"
+140,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Who they did was the politician', 'Who they rebuked was the politician', 'Who they did was murder the politician', 'Who they rebuked was murder the politician']
+Answer with the sentence that is grammatically correct: 1) 'Who they did was the politician', 2) 'Who they rebuked was the politician', 3) 'Who they did"
+141,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Who the police did was the suspect', 'Who the police caught was the suspect', 'Who the police did was monitor the suspect', 'Who the police caught was monitor the suspect']
+Answer with the sentence that is grammatically correct: 1. Who the police did was the suspect. 2. Who the police caught was the suspect. 3. Who the police did was monitor"
+142,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the people did was the trash', 'What the people collected was the trash', 'What the people did was remove the trash', 'What the people collected was remove the trash']
+Answer with the sentence that is grammatically correct: 1 2 3 4 5
+The correct answer is: [What the people collected was remove the trash]
+The sentence in"
+143,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the teacher did was the subject', 'What the teacher taught was the subject', 'What the teacher did was write about the subject', 'What the teacher taught was write about the subject']
+Answer with the sentence that is grammatically correct: 1) What the teacher did was write about the subject. 2) What the teacher taught was write about the subject.
+This is an example"
+144,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What they did was the drugs', 'What they bought was the drugs', 'What they did was transport the drugs', 'What they bought was transport the drugs']
+Answer with the sentence that is grammatically correct: 1 2 3 4 5 6
+What they did was the drugs What they bought was the drugs What they did was"
+145,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Who he did was his friend', 'Who he called was his friend', 'Who he did was hug his friend', 'Who he called was hug his friend']
+Answer with the sentence that is grammatically correct: 1. Who he did was his friend. 2. Who he called was his friend. 3. Who he did was hug his friend"
+146,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What she did was the shipment', 'What she bought was the shipment', 'What she did was transport the shipment', 'What she bought was transport the shipment']
+Answer with the sentence that is grammatically correct: 1. What she did was the shipment. 2. What she bought was the shipment. 3. What she did was transport the"
+147,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What we did was the argument', 'What we won was the argument', 'What we did was make the argument', 'What we won was make the argument']
+Answer with the sentence that is grammatically correct: 1) What we did was make the argument. 2) What we did was the argument. 3) What we won was make the argument"
+148,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Who you did was the worker', 'Who you contracted was the worker', 'Who you did was hire the worker', 'Who you contracted was hire the worker']
+Answer with the sentence that is grammatically correct: 1. Who you did was hire the worker. 2. Who you contracted was hire the worker. 3. Who you did"
+149,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What he did was a painting', 'What he created was a painting', 'What he did was paint a painting', 'What he created was paint a painting']
+Answer with the sentence that is grammatically correct: 1, 2, 3, 4
+Correct answer: 1
+Answer: 1."
+150,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the woman did was the letter', 'What the woman wrote was the letter', 'What the woman did was mail the letter', 'What the woman wrote was mail the letter']
+Answer with the sentence that is grammatically correct: 0 / 4 pts
+'What the woman did was mail the letter'
+'What the woman did was the letter'
+'What"
+151,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['What the maid did was the glass', 'What the maid broke was the glass', 'What the maid did was empty the glass', 'What the maid broke was empty the glass']
+Answer with the sentence that is grammatically correct: 0.0 / 10
+What the maid broke was the glass
+What the maid did was empty the glass
+What the ma"
+152,"Given the syntactic phenomenon from SyntaxGym, choose the correct option that demonstrates grammaticality.
+['Who the judge did was the criminal', 'Who the judge accused was the criminal', 'Who the judge did was sentence the criminal', 'Who the judge accused was sentence the criminal']
+Answer with the sentence that is grammatically correct: 4
+The correct answer is: 'Who the judge accused was the criminal'. The sentence is correct because it has the correct subject-verb agreement."
