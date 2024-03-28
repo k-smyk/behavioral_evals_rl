@@ -1,0 +1,201 @@
+,sentence,label,idx,prompt,log_prob_unacceptable,log_prob_acceptable,prediction,log_prob_unacceptable_chat,log_prob_acceptable_chat,prediction_chat
+0,The cat were bitten by the dog.,0,926,The cat were bitten by the dog.,tensor(-5.7502),tensor(-6.8440),0,tensor(-5.8972),tensor(-6.7835),0
+1,What did you leave before they started playing?,0,598,What did you leave before they started playing?,tensor(-9.4777),tensor(-9.6086),0,tensor(-8.0447),tensor(-8.6302),0
+2,John believes it sincerely that Bill is here.,0,1011,John believes it sincerely that Bill is here.,tensor(-6.4182),tensor(-6.7847),0,tensor(-6.3154),tensor(-6.7945),0
+3,"John likes some students, but I don't know who John likes some students.",0,567,"John likes some students, but I don't know who John likes some students.",tensor(-6.1771),tensor(-7.1512),0,tensor(-6.6291),tensor(-7.3671),0
+4,John lay the ball in the box.,1,35,John lay the ball in the box.,tensor(-5.9751),tensor(-7.4194),0,tensor(-6.0014),tensor(-6.5906),0
+5,how silly is Bill considered?,1,967,how silly is Bill considered?,tensor(-9.0717),tensor(-9.5320),0,tensor(-7.9660),tensor(-8.5929),0
+6,Carla slid at the book.,0,170,Carla slid at the book.,tensor(-5.9163),tensor(-7.1063),0,tensor(-6.2129),tensor(-6.6069),0
+7,They found the book on the atom.,1,779,They found the book on the atom.,tensor(-6.0192),tensor(-6.8405),0,tensor(-6.1104),tensor(-7.1863),0
+8,Sandy removed her ballet shoes.,1,239,Sandy removed her ballet shoes.,tensor(-6.0536),tensor(-7.5184),0,tensor(-6.1600),tensor(-7.1273),0
+9,the attempt by John to leave surprised me.,1,1002,the attempt by John to leave surprised me.,tensor(-6.2425),tensor(-6.9734),0,tensor(-6.1681),tensor(-7.3412),0
+10,I feel that Arch will show up.,1,81,I feel that Arch will show up.,tensor(-6.5445),tensor(-6.9608),0,tensor(-6.1471),tensor(-6.4766),0
+11,Jessica loaded boxes under the wagon.,1,162,Jessica loaded boxes under the wagon.,tensor(-6.1365),tensor(-8.7491),0,tensor(-6.3114),tensor(-7.5847),0
+12,The child and her mother clung together.,1,186,The child and her mother clung together.,tensor(-6.0865),tensor(-7.1452),0,tensor(-5.9835),tensor(-6.8222),0
+13,On whom are you counting to incriminate himself?,1,985,On whom are you counting to incriminate himself?,tensor(-8.6449),tensor(-9.1586),0,tensor(-8.6364),tensor(-9.1878),0
+14,"Max seemed to be trying to begin to love Harriet, and Fred to be trying to begin to love Sue.",1,655,"Max seemed to be trying to begin to love Harriet, and Fred to be trying to begin to love Sue.",tensor(-6.9236),tensor(-6.9238),0,tensor(-7.2084),tensor(-6.6781),1
+15,Under the bed seems to be a fun place to hide.,1,276,Under the bed seems to be a fun place to hide.,tensor(-7.0891),tensor(-7.1264),0,tensor(-7.2992),tensor(-7.0577),1
+16,That kind of person is hard to find anyone to look after.,1,320,That kind of person is hard to find anyone to look after.,tensor(-6.7528),tensor(-6.7867),0,tensor(-7.2557),tensor(-6.7210),1
+17,This teacher is a genius.,1,235,This teacher is a genius.,tensor(-6.1240),tensor(-7.0603),0,tensor(-6.6336),tensor(-6.8910),0
+18,"Fluffy is sick, which not everybody knows.",1,106,"Fluffy is sick, which not everybody knows.",tensor(-7.0056),tensor(-6.8720),1,tensor(-7.0241),tensor(-6.6816),1
+19,We like ourselves.,1,738,We like ourselves.,tensor(-6.0185),tensor(-6.2789),0,tensor(-6.2558),tensor(-6.2075),1
+20,The candidates bring advantage to the voters.,1,956,The candidates bring advantage to the voters.,tensor(-6.3220),tensor(-7.0047),0,tensor(-6.2920),tensor(-7.2660),0
+21,Mary thinks that she is smart.,1,461,Mary thinks that she is smart.,tensor(-6.0139),tensor(-7.7606),0,tensor(-6.3551),tensor(-6.6161),0
+22,A seat available was in the last row.,0,934,A seat available was in the last row.,tensor(-6.9270),tensor(-7.4105),0,tensor(-6.8711),tensor(-7.5568),0
+23,John was struck as sick.,0,974,John was struck as sick.,tensor(-6.0507),tensor(-6.6890),0,tensor(-6.7354),tensor(-6.5302),1
+24,Jason persuaded the doctor to treat Medea,1,481,Jason persuaded the doctor to treat Medea,tensor(-9.5034),tensor(-10.2660),0,tensor(-8.1038),tensor(-9.0157),0
+25,The cat got bitten.,1,925,The cat got bitten.,tensor(-5.7588),tensor(-7.2625),0,tensor(-6.0268),tensor(-6.4082),0
+26,The crocodile devoured the doughnut.,1,244,The crocodile devoured the doughnut.,tensor(-6.3023),tensor(-6.8874),0,tensor(-6.2313),tensor(-7.2213),0
+27,They chased the man with the car.,1,348,They chased the man with the car.,tensor(-6.0249),tensor(-7.9279),0,tensor(-6.3367),tensor(-6.7000),0
+28,Sally kissed himself.,0,338,Sally kissed himself.,tensor(-5.9216),tensor(-7.2037),0,tensor(-6.1271),tensor(-6.5075),0
+29,"With my parents as supportive as they are, I'll be in fine shape.",1,858,"With my parents as supportive as they are, I'll be in fine shape.",tensor(-7.0887),tensor(-6.9834),1,tensor(-7.3412),tensor(-7.2181),1
+30,The teacher handed the student.,0,810,The teacher handed the student.,tensor(-5.7333),tensor(-6.8806),0,tensor(-5.9938),tensor(-7.1196),0
+31,John regards Bill as a good friend.,1,251,John regards Bill as a good friend.,tensor(-6.1718),tensor(-7.7830),0,tensor(-6.0724),tensor(-6.7777),0
+32,Dumb ideas are put notions in children's heads by TV.,0,919,Dumb ideas are put notions in children's heads by TV.,tensor(-6.6329),tensor(-7.0165),0,tensor(-6.8317),tensor(-7.1023),0
+33,That Fred was unpopular nominated Bill.,0,255,That Fred was unpopular nominated Bill.,tensor(-6.1110),tensor(-6.7422),0,tensor(-6.3071),tensor(-6.3870),0
+34,He washed her.,1,222,He washed her.,tensor(-6.0798),tensor(-6.6427),0,tensor(-6.2475),tensor(-6.5133),0
+35,to steal talismans from witches is dangerous,1,474,to steal talismans from witches is dangerous,tensor(-8.9996),tensor(-9.2081),0,tensor(-8.4204),tensor(-8.2018),1
+36,I know you like the back of my hand.,1,774,I know you like the back of my hand.,tensor(-6.5164),tensor(-7.0169),0,tensor(-6.2798),tensor(-7.0593),0
+37,John was believed to be telling the truth by Mary.,1,626,John was believed to be telling the truth by Mary.,tensor(-6.5528),tensor(-7.0579),0,tensor(-6.3773),tensor(-6.9413),0
+38,John tried to leave.,1,977,John tried to leave.,tensor(-6.2655),tensor(-7.6293),0,tensor(-6.4131),tensor(-7.4020),0
+39,Any man didn't eat dinner.,0,387,Any man didn't eat dinner.,tensor(-5.5350),tensor(-6.8682),0,tensor(-6.5411),tensor(-6.5060),1
+40,We want John to win.,1,27,We want John to win.,tensor(-6.6666),tensor(-7.3854),0,tensor(-6.5788),tensor(-7.0939),0
+41,Brown presented a plaque to Jones.,1,176,Brown presented a plaque to Jones.,tensor(-6.0848),tensor(-7.8926),0,tensor(-6.2093),tensor(-7.2887),0
+42,The guests dined.,1,834,The guests dined.,tensor(-5.9319),tensor(-6.8929),0,tensor(-6.5873),tensor(-6.6281),0
+43,I gave Pete the book to impress.,0,1028,I gave Pete the book to impress.,tensor(-5.8722),tensor(-8.3116),0,tensor(-5.9756),tensor(-7.8187),0
+44,What did Bill buy?,1,71,What did Bill buy?,tensor(-8.7490),tensor(-9.7495),0,tensor(-7.8698),tensor(-9.2130),0
+45,"Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech.",0,468,"Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech.",tensor(-6.6732),tensor(-7.0512),0,tensor(-6.5811),tensor(-7.3545),0
+46,This is the senator to whose mother's friend's sister's I sent the letter.,1,692,This is the senator to whose mother's friend's sister's I sent the letter.,tensor(-6.7658),tensor(-6.6254),1,tensor(-7.3068),tensor(-6.8350),1
+47,Harriet admired Mr Knightley.,1,416,Harriet admired Mr Knightley.,tensor(-6.3304),tensor(-6.5490),0,tensor(-6.2963),tensor(-6.8863),0
+48,The needle poked the cloth.,1,181,The needle poked the cloth.,tensor(-5.9656),tensor(-7.2176),0,tensor(-6.3994),tensor(-6.6791),0
+49,I know a man who Tom drives as drives.,0,77,I know a man who Tom drives as drives.,tensor(-6.5886),tensor(-7.1831),0,tensor(-6.3883),tensor(-7.4559),0
+50,I bought Bill a book to read.,1,996,I bought Bill a book to read.,tensor(-6.1749),tensor(-7.3426),0,tensor(-5.9633),tensor(-6.8843),0
+51,A magazine about crime appeared on the newsstands.,1,843,A magazine about crime appeared on the newsstands.,tensor(-6.6085),tensor(-7.1836),0,tensor(-6.6150),tensor(-7.0077),0
+52,Mary was respected by John.,1,611,Mary was respected by John.,tensor(-6.4008),tensor(-7.6414),0,tensor(-6.8253),tensor(-6.7689),1
+53,We made them be rude.,1,259,We made them be rude.,tensor(-5.6399),tensor(-7.1418),0,tensor(-5.8496),tensor(-6.2329),0
+54,We persuaded Mary to leave and Sue to stay.,1,37,We persuaded Mary to leave and Sue to stay.,tensor(-6.4556),tensor(-6.7870),0,tensor(-6.1043),tensor(-6.7660),0
+55,His or her least known work.,1,563,His or her least known work.,tensor(-6.1620),tensor(-6.5326),0,tensor(-6.5072),tensor(-6.6717),0
+56,There seemed to be intelligent.,0,271,There seemed to be intelligent.,tensor(-5.6940),tensor(-7.3916),0,tensor(-5.9165),tensor(-6.4221),0
+57,Tabs are kept on suspected drug dealers by the FBI.,1,957,Tabs are kept on suspected drug dealers by the FBI.,tensor(-7.1744),tensor(-6.8893),1,tensor(-7.4199),tensor(-6.7048),1
+58,We believed John to be a fountain in the park.,0,273,We believed John to be a fountain in the park.,tensor(-6.7746),tensor(-6.8330),0,tensor(-7.1755),tensor(-6.6281),1
+59,John gave Bill the dog dead.,1,972,John gave Bill the dog dead.,tensor(-6.0127),tensor(-6.4908),0,tensor(-7.0213),tensor(-6.3168),1
+60,I served my guests.,1,536,I served my guests.,tensor(-5.7565),tensor(-7.2096),0,tensor(-6.7583),tensor(-6.7760),0
+61,Some people consider dogs dangerous.,1,802,Some people consider dogs dangerous.,tensor(-6.5219),tensor(-7.3069),0,tensor(-6.6484),tensor(-6.8580),0
+62,We preferred them on our team.,1,857,We preferred them on our team.,tensor(-6.0368),tensor(-6.9927),0,tensor(-5.9370),tensor(-6.6289),0
+63,Blue leather shows herself that Betsy is pretty.,0,342,Blue leather shows herself that Betsy is pretty.,tensor(-6.5140),tensor(-6.7301),0,tensor(-5.9425),tensor(-6.8035),0
+64,John was seen the book.,0,620,John was seen the book.,tensor(-5.5377),tensor(-6.9596),0,tensor(-6.0967),tensor(-6.6588),0
+65,"I think Agnes said that Bill would speak, but I don't remember what about.",1,604,"I think Agnes said that Bill would speak, but I don't remember what about.",tensor(-6.7821),tensor(-6.9589),0,tensor(-7.1230),tensor(-6.8070),1
+66,John ate dinner but I don't know who.,0,533,John ate dinner but I don't know who.,tensor(-6.0331),tensor(-7.0057),0,tensor(-5.9363),tensor(-7.1127),0
+67,"She doesn't meet anyone for dinner, but they can't figure out who.",0,551,"She doesn't meet anyone for dinner, but they can't figure out who.",tensor(-7.0368),tensor(-7.5613),0,tensor(-7.1326),tensor(-7.2825),0
+68,Kerry remarked it was late.,1,820,Kerry remarked it was late.,tensor(-5.9885),tensor(-6.8605),0,tensor(-6.0850),tensor(-7.1935),0
+69,I bought it to give to Pete.,1,1026,I bought it to give to Pete.,tensor(-6.0248),tensor(-7.5340),0,tensor(-5.9137),tensor(-7.2048),0
+70,The only person that I like whose kids Dana is willing to put up with is Pat.,1,723,The only person that I like whose kids Dana is willing to put up with is Pat.,tensor(-7.4038),tensor(-7.3512),1,tensor(-7.8928),tensor(-7.3150),1
+71,Nobody told Susan about herself.,1,877,Nobody told Susan about herself.,tensor(-5.7574),tensor(-7.5548),0,tensor(-6.0699),tensor(-6.1454),0
+72,"Most columnists claim that a senior White House official has been briefing them, and the newspaper today reveals which one.",1,556,"Most columnists claim that a senior White House official has been briefing them, and the newspaper today reveals which one.",tensor(-7.4440),tensor(-6.6280),1,tensor(-7.5091),tensor(-7.0155),1
+73,"Which boy's, mother, did you meet?",1,731,"Which boy's, mother, did you meet?",tensor(-8.6113),tensor(-9.0623),0,tensor(-8.0743),tensor(-8.6005),0
+74,a tall building.,1,403,a tall building.,tensor(-6.1338),tensor(-6.2365),0,tensor(-6.3344),tensor(-6.7394),0
+75,The person whose mother's dog we were all fond of.,1,687,The person whose mother's dog we were all fond of.,tensor(-6.6198),tensor(-7.0047),0,tensor(-6.2003),tensor(-7.0007),0
+76,That Sam sometimes didn't sleep must have pleased somebody.,1,100,That Sam sometimes didn't sleep must have pleased somebody.,tensor(-6.3388),tensor(-7.2620),0,tensor(-6.4573),tensor(-6.8503),0
+77,John tried to please Stephen.,1,272,John tried to please Stephen.,tensor(-5.9434),tensor(-8.0077),0,tensor(-6.2912),tensor(-6.7899),0
+78,"Any albino tiger has orange fur, marked with black stripes.",1,392,"Any albino tiger has orange fur, marked with black stripes.",tensor(-7.9581),tensor(-6.7971),1,tensor(-8.0067),tensor(-7.0867),1
+79,John was spoken by Mary to.,0,618,John was spoken by Mary to.,tensor(-5.6897),tensor(-7.1152),0,tensor(-6.4808),tensor(-6.6991),0
+80,Agamemnon seems to be a maniac,1,516,Agamemnon seems to be a maniac,tensor(-9.0005),tensor(-9.5596),0,tensor(-8.1601),tensor(-8.5652),0
+81,Magnus went to Ireland.,1,412,Magnus went to Ireland.,tensor(-6.0579),tensor(-7.7977),0,tensor(-6.1572),tensor(-6.9141),0
+82,The car was driven by John to Maine.,1,628,The car was driven by John to Maine.,tensor(-6.2737),tensor(-7.5153),0,tensor(-6.3215),tensor(-6.4027),0
+83,Bill's funny story about Sue and Max's boring one about Kathy both amazed me.,1,670,Bill's funny story about Sue and Max's boring one about Kathy both amazed me.,tensor(-7.0370),tensor(-6.7513),1,tensor(-7.3193),tensor(-6.6466),1
+84,It seems that Lucy was mugged.,1,374,It seems that Lucy was mugged.,tensor(-6.5188),tensor(-7.0083),0,tensor(-6.4086),tensor(-7.2289),0
+85,Some people yell at noisy dogs in my neighborhood.,1,791,Some people yell at noisy dogs in my neighborhood.,tensor(-7.1172),tensor(-7.1469),0,tensor(-7.6013),tensor(-7.1945),1
+86,The book which inspired them was very long.,1,684,The book which inspired them was very long.,tensor(-6.2614),tensor(-6.4567),0,tensor(-5.7268),tensor(-7.0531),0
+87,"The soup cooks, thickens.",1,447,"The soup cooks, thickens.",tensor(-5.9238),tensor(-7.8152),0,tensor(-6.1983),tensor(-6.8265),0
+88,"Hopefully, we'll make it through the winter without snow.",1,341,"Hopefully, we'll make it through the winter without snow.",tensor(-7.4407),tensor(-6.9998),1,tensor(-7.7338),tensor(-6.9982),1
+89,John is eager.,1,26,John is eager.,tensor(-6.4005),tensor(-7.3788),0,tensor(-6.2246),tensor(-6.4214),0
+90,Kim is eager to please Tom.,1,315,Kim is eager to please Tom.,tensor(-6.1166),tensor(-7.2487),0,tensor(-5.9438),tensor(-7.0364),0
+91,Gwen hit the baseball.,1,343,Gwen hit the baseball.,tensor(-5.7344),tensor(-7.6911),0,tensor(-6.0337),tensor(-7.1501),0
+92,It is some disgruntled old pigs in those ditches that humans love to eat.,1,512,It is some disgruntled old pigs in those ditches that humans love to eat.,tensor(-7.3311),tensor(-6.7632),1,tensor(-7.3598),tensor(-6.6205),1
+93,The person responsible confessed.,1,867,The person responsible confessed.,tensor(-6.2948),tensor(-7.3004),0,tensor(-6.5361),tensor(-6.9247),0
+94,Leslie slept.,1,886,Leslie slept.,tensor(-6.4864),tensor(-6.3124),1,tensor(-6.2435),tensor(-6.3795),0
+95,The men will all leave.,1,42,The men will all leave.,tensor(-5.9125),tensor(-8.1036),0,tensor(-6.0551),tensor(-6.3083),0
+96,Who is she trying to make up to now?,1,90,Who is she trying to make up to now?,tensor(-9.1493),tensor(-10.0018),0,tensor(-8.6671),tensor(-9.1103),0
+97,"We launched the rocket to the moon, but it blew up before it got there.",1,133,"We launched the rocket to the moon, but it blew up before it got there.",tensor(-6.9351),tensor(-6.8096),1,tensor(-7.8288),tensor(-6.7956),1
+98,"Drowning cats, which is against the law, are hard to rescue.",0,78,"Drowning cats, which is against the law, are hard to rescue.",tensor(-7.6898),tensor(-6.7073),1,tensor(-7.9823),tensor(-6.7173),1
+99,That Chris knew the answer occurred to Pat.,1,943,That Chris knew the answer occurred to Pat.,tensor(-6.3614),tensor(-6.7399),0,tensor(-5.9000),tensor(-7.1497),0
+100,We put the pigs in a pen.,1,761,We put the pigs in a pen.,tensor(-6.1167),tensor(-7.5758),0,tensor(-6.5810),tensor(-6.5823),0
+101,The children amused.,0,192,The children amused.,tensor(-5.9154),tensor(-6.6354),0,tensor(-5.9593),tensor(-6.4116),0
+102,"The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.",1,586,"The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.",tensor(-7.0308),tensor(-6.7952),1,tensor(-7.4701),tensor(-6.9471),1
+103,Books were taken from no student and given to Mary by any professor.,0,637,Books were taken from no student and given to Mary by any professor.,tensor(-6.6607),tensor(-6.7586),0,tensor(-6.8713),tensor(-7.1396),0
+104,The book that crime was declining surprised many people.,0,848,The book that crime was declining surprised many people.,tensor(-7.1546),tensor(-6.9480),1,tensor(-7.0565),tensor(-7.2385),0
+105,There were four men arriving at the station when I pulled up.,1,376,There were four men arriving at the station when I pulled up.,tensor(-7.5967),tensor(-7.6492),0,tensor(-7.5969),tensor(-7.0426),1
+106,John wants not to leave the town.,1,285,John wants not to leave the town.,tensor(-6.2057),tensor(-8.2543),0,tensor(-6.3298),tensor(-7.2393),0
+107,Protect you!,0,884,Protect you!,tensor(-8.6984),tensor(-8.8747),0,tensor(-7.0016),tensor(-8.0074),0
+108,Heidi likes her violin.,1,383,Heidi likes her violin.,tensor(-6.0811),tensor(-7.6138),0,tensor(-6.4318),tensor(-7.0029),0
+109,"Though he may hate those that criticize Carter, it doesn't matter.",1,331,"Though he may hate those that criticize Carter, it doesn't matter.",tensor(-7.0525),tensor(-6.9864),1,tensor(-7.3918),tensor(-7.2478),1
+110,The table was wiped by John clean.,0,624,The table was wiped by John clean.,tensor(-6.3185),tensor(-6.6954),0,tensor(-5.7612),tensor(-7.6776),0
+111,John grudgingly accepted judgments of his incompetence as an auto mechanic.,1,1023,John grudgingly accepted judgments of his incompetence as an auto mechanic.,tensor(-7.0415),tensor(-6.8211),1,tensor(-7.2932),tensor(-7.0208),1
+112,"That the cops spoke to the janitor about it yesterday is terrible, that robbery.",0,116,"That the cops spoke to the janitor about it yesterday is terrible, that robbery.",tensor(-7.0939),tensor(-6.8836),1,tensor(-7.2258),tensor(-6.8505),1
+113,Maxwell is quite a doctor.,1,107,Maxwell is quite a doctor.,tensor(-6.0129),tensor(-6.8683),0,tensor(-6.1102),tensor(-6.6887),0
+114,List associates of each defendant who speaks Spanish.,1,782,List associates of each defendant who speaks Spanish.,tensor(-6.8070),tensor(-6.6463),1,tensor(-6.9333),tensor(-6.9283),1
+115,The government's imposition of a fine.,1,484,The government's imposition of a fine.,tensor(-6.7121),tensor(-7.0240),0,tensor(-6.5348),tensor(-7.4882),0
+116,They were taking a hard look at possible FTA.,1,256,They were taking a hard look at possible FTA.,tensor(-6.9759),tensor(-6.9669),1,tensor(-7.1560),tensor(-7.1279),1
+117,John is sad.,1,960,John is sad.,tensor(-6.5647),tensor(-6.8116),0,tensor(-6.6344),tensor(-6.2898),1
+118,the book of poems and from Blackwell takes a very long time to read.,0,350,the book of poems and from Blackwell takes a very long time to read.,tensor(-6.8351),tensor(-6.5057),1,tensor(-6.9980),tensor(-6.7129),1
+119,Water bubbled up out of the kettle.,1,30,Water bubbled up out of the kettle.,tensor(-5.8529),tensor(-8.1549),0,tensor(-6.1080),tensor(-7.2649),0
+120,We forgot our invitations.,1,951,We forgot our invitations.,tensor(-5.9186),tensor(-7.8489),0,tensor(-6.4512),tensor(-6.3628),1
+121,"I like Bill's yellow shirt, but not Max's.",1,669,"I like Bill's yellow shirt, but not Max's.",tensor(-6.7265),tensor(-7.0573),0,tensor(-6.9283),tensor(-7.3541),0
+122,We never found any of the unicorns.,1,292,We never found any of the unicorns.,tensor(-6.9466),tensor(-7.1589),0,tensor(-6.8713),tensor(-6.8832),0
+123,I would hate for John to leave.,1,988,I would hate for John to leave.,tensor(-6.3708),tensor(-7.7073),0,tensor(-6.2046),tensor(-7.0125),0
+124,The jeweller scribbled the contract with his name.,0,189,The jeweller scribbled the contract with his name.,tensor(-6.3350),tensor(-6.8808),0,tensor(-6.6693),tensor(-6.8015),0
+125,Himself is understood by Rutherford.,0,80,Himself is understood by Rutherford.,tensor(-5.5329),tensor(-6.4724),0,tensor(-5.4737),tensor(-6.8661),0
+126,That Fido barks annoys me.,1,953,That Fido barks annoys me.,tensor(-6.2073),tensor(-6.7028),0,tensor(-6.1020),tensor(-6.9165),0
+127,The monkeys proud of their leader.,0,229,The monkeys proud of their leader.,tensor(-6.7787),tensor(-7.3106),0,tensor(-6.0736),tensor(-6.9212),0
+128,"That dog is so ferocious, it even tried to bite itself.",1,268,"That dog is so ferocious, it even tried to bite itself.",tensor(-7.1099),tensor(-6.6348),1,tensor(-7.3270),tensor(-6.7469),1
+129,The bird give the worm a tug.,0,815,The bird give the worm a tug.,tensor(-5.9967),tensor(-6.8010),0,tensor(-6.0454),tensor(-7.2346),0
+130,Newsweek appeared on the newsstands.,1,844,Newsweek appeared on the newsstands.,tensor(-6.2418),tensor(-7.9805),0,tensor(-6.6582),tensor(-6.7345),0
+131,Nobody who hates to eat anything should work in a delicatessen.,1,120,Nobody who hates to eat anything should work in a delicatessen.,tensor(-6.7264),tensor(-6.6501),1,tensor(-7.2305),tensor(-6.7899),1
+132,"You may pick every flower, but leave a few for Mary.",0,395,"You may pick every flower, but leave a few for Mary.",tensor(-6.4535),tensor(-6.8336),0,tensor(-6.6035),tensor(-6.5494),1
+133,I am counting on Bill to get there on time.,1,986,I am counting on Bill to get there on time.,tensor(-6.0308),tensor(-6.7995),0,tensor(-6.4290),tensor(-6.8305),0
+134,"I can't believe Fred won't, either.",1,49,"I can't believe Fred won't, either.",tensor(-6.8931),tensor(-6.9488),0,tensor(-6.8258),tensor(-6.7350),1
+135,She voted for herself.,1,742,She voted for herself.,tensor(-6.2330),tensor(-6.2547),0,tensor(-6.7414),tensor(-6.6033),1
+136,The soundly and furry cat slept.,0,870,The soundly and furry cat slept.,tensor(-6.3110),tensor(-7.1179),0,tensor(-6.2249),tensor(-6.7644),0
+137,Carla shoveled the walk.,1,166,Carla shoveled the walk.,tensor(-6.1335),tensor(-7.4867),0,tensor(-6.2918),tensor(-7.0863),0
+138,He danced.,1,364,He danced.,tensor(-7.0072),tensor(-6.7240),1,tensor(-6.4593),tensor(-6.7449),0
+139,Fred talked about everything before Rusty did talk about something.,1,63,Fred talked about everything before Rusty did talk about something.,tensor(-6.0662),tensor(-6.9843),0,tensor(-5.8344),tensor(-7.4265),0
+140,Fido barks.,1,954,Fido barks.,tensor(-5.9310),tensor(-6.3428),0,tensor(-6.2341),tensor(-6.5906),0
+141,Henry found that Bill is sad.,1,462,Henry found that Bill is sad.,tensor(-6.0082),tensor(-7.6067),0,tensor(-6.3946),tensor(-6.5478),0
+142,A letter was received Jones would be upset by.,0,720,A letter was received Jones would be upset by.,tensor(-6.2013),tensor(-6.5715),0,tensor(-5.4695),tensor(-6.6948),0
+143,The children are fond that they have ice cream.,0,841,The children are fond that they have ice cream.,tensor(-6.6791),tensor(-7.1176),0,tensor(-6.3635),tensor(-7.2571),0
+144,Agnes wondered how John could eat but it's not clear what.,0,605,Agnes wondered how John could eat but it's not clear what.,tensor(-6.7279),tensor(-7.3079),0,tensor(-6.8710),tensor(-6.8534),1
+145,John thinks that Mary loves himself.,0,384,John thinks that Mary loves himself.,tensor(-5.8229),tensor(-7.7103),0,tensor(-5.7246),tensor(-6.7398),0
+146,Some of them made as many errors as 20.,1,337,Some of them made as many errors as 20.,tensor(-6.7563),tensor(-6.4914),1,tensor(-6.8111),tensor(-7.0045),0
+147,"Mary claimed that eating cabbage, Holly shouldn't.",1,53,"Mary claimed that eating cabbage, Holly shouldn't.",tensor(-6.7412),tensor(-6.9930),0,tensor(-7.0626),tensor(-7.1700),0
+148,It bothers me that John coughs.,1,313,It bothers me that John coughs.,tensor(-6.7014),tensor(-6.6657),1,tensor(-6.2908),tensor(-7.3417),0
+149,"The ship sank, but I don't know with what.",0,540,"The ship sank, but I don't know with what.",tensor(-7.0201),tensor(-6.5482),1,tensor(-6.7523),tensor(-6.5367),1
+150,The argument was summed by the coach up.,0,614,The argument was summed by the coach up.,tensor(-6.5821),tensor(-7.0546),0,tensor(-6.1301),tensor(-7.1983),0
+151,Which book did each author recommend?,1,562,Which book did each author recommend?,tensor(-9.5823),tensor(-9.8814),0,tensor(-8.3263),tensor(-8.9846),0
+152,John ate his noodle quietly.,1,237,John ate his noodle quietly.,tensor(-6.2673),tensor(-6.9929),0,tensor(-6.5702),tensor(-6.9044),0
+153,"Mary arranged for, in St. Louis, John to rent a house cheap.",0,704,"Mary arranged for, in St. Louis, John to rent a house cheap.",tensor(-9.2922),tensor(-10.4915),0,tensor(-8.9160),tensor(-8.9645),0
+154,Anson demonized up the Khyber,0,478,Anson demonized up the Khyber,tensor(-9.0705),tensor(-10.5026),0,tensor(-7.5418),tensor(-9.2136),0
+155,It isn't because Sue said anything bad about me that I'm angry.,1,327,It isn't because Sue said anything bad about me that I'm angry.,tensor(-7.2823),tensor(-6.9788),1,tensor(-7.8757),tensor(-6.8352),1
+156,People are looking through the window.,1,936,People are looking through the window.,tensor(-6.3501),tensor(-7.3301),0,tensor(-6.5419),tensor(-7.1722),0
+157,"Whenever Russia has made a major political blunder, the U.S. has too.",1,664,"Whenever Russia has made a major political blunder, the U.S. has too.",tensor(-9.6492),tensor(-11.1308),0,tensor(-9.1999),tensor(-10.4825),0
+158,"Jones, that we were talking to last night, always watches football games alone.",0,718,"Jones, that we were talking to last night, always watches football games alone.",tensor(-7.3388),tensor(-6.9610),1,tensor(-7.5640),tensor(-6.9451),1
+159,What additional categories and rules would be required to handle these verbs?,1,821,What additional categories and rules would be required to handle these verbs?,tensor(-7.4591),tensor(-8.5548),0,tensor(-6.7952),tensor(-7.7338),0
+160,"Which book's, author did you meet who you liked?",0,730,"Which book's, author did you meet who you liked?",tensor(-9.7060),tensor(-9.9835),0,tensor(-8.8975),tensor(-8.5871),1
+161,Penny skated around the rink.,1,215,Penny skated around the rink.,tensor(-6.4761),tensor(-7.3586),0,tensor(-6.4682),tensor(-7.2402),0
+162,"No writer, nor any playwright, meets in Vienna.",0,124,"No writer, nor any playwright, meets in Vienna.",tensor(-6.8148),tensor(-6.8829),0,tensor(-6.6522),tensor(-6.9838),0
+163,John has something for Bill to do.,1,983,John has something for Bill to do.,tensor(-6.0204),tensor(-7.6648),0,tensor(-6.3266),tensor(-6.5597),0
+164,Who did they see someone?,0,608,Who did they see someone?,tensor(-9.0827),tensor(-9.4035),0,tensor(-8.3490),tensor(-8.4400),0
+165,Each candidate who has interest in semantics will be admitted to the department.,1,322,Each candidate who has interest in semantics will be admitted to the department.,tensor(-7.2004),tensor(-6.5514),1,tensor(-6.9440),tensor(-7.0308),0
+166,Ellen said that melons were selling well.,1,195,Ellen said that melons were selling well.,tensor(-6.6113),tensor(-7.1204),0,tensor(-5.7223),tensor(-7.1691),0
+167,Something happened I couldn't really talk about.,1,722,Something happened I couldn't really talk about.,tensor(-6.6904),tensor(-6.8757),0,tensor(-6.6006),tensor(-6.8520),0
+168,The storm arrived after the picnic.,1,849,The storm arrived after the picnic.,tensor(-6.5626),tensor(-7.3857),0,tensor(-6.2398),tensor(-7.7146),0
+169,Bill ate more peaches than Harry did grapes.,1,647,Bill ate more peaches than Harry did grapes.,tensor(-5.7767),tensor(-6.9581),0,tensor(-6.5415),tensor(-7.3391),0
+170,Cohen proved the independence of the continuum hypothesis.,1,949,Cohen proved the independence of the continuum hypothesis.,tensor(-6.8283),tensor(-7.2478),0,tensor(-7.0016),tensor(-7.3971),0
+171,I wonder in whom them to place their trust.,0,707,I wonder in whom them to place their trust.,tensor(-6.8053),tensor(-6.7568),1,tensor(-6.8111),tensor(-6.5836),1
+172,He was arrested by the police.,1,924,He was arrested by the police.,tensor(-5.7989),tensor(-7.6961),0,tensor(-6.3652),tensor(-6.4723),0
+173,Lou put the umbrella was broken.,0,907,Lou put the umbrella was broken.,tensor(-5.6908),tensor(-6.9958),0,tensor(-6.0632),tensor(-6.7848),0
+174,Ourselves like ourselves.,0,741,Ourselves like ourselves.,tensor(-5.8797),tensor(-7.0550),0,tensor(-5.9953),tensor(-6.3081),0
+175,In which way is Clinton anxious to find out which budget dilemmas Panetta would be willing to solve?,0,595,In which way is Clinton anxious to find out which budget dilemmas Panetta would be willing to solve?,tensor(-9.5382),tensor(-9.5465),0,tensor(-8.6725),tensor(-8.6052),1
+176,Books were taken from each student by the other.,1,638,Books were taken from each student by the other.,tensor(-6.5769),tensor(-6.8244),0,tensor(-6.3080),tensor(-7.1288),0
+177,"This is the book which Bob reviewed, and this is the one which Fred won't do it.",0,58,"This is the book which Bob reviewed, and this is the one which Fred won't do it.",tensor(-7.2332),tensor(-6.8536),1,tensor(-7.1892),tensor(-6.9959),1
+178,Newsweek about crime appeared on the newsstands.,0,845,Newsweek about crime appeared on the newsstands.,tensor(-6.5780),tensor(-7.1942),0,tensor(-6.5193),tensor(-7.1928),0
+179,John can kick the ball.,1,279,John can kick the ball.,tensor(-5.9187),tensor(-6.3516),0,tensor(-6.9172),tensor(-6.8142),1
+180,That professor is feared by all students.,1,610,That professor is feared by all students.,tensor(-6.1686),tensor(-6.9088),0,tensor(-6.0039),tensor(-7.7024),0
+181,John was found in the office.,1,282,John was found in the office.,tensor(-6.3899),tensor(-7.6493),0,tensor(-7.3387),tensor(-6.4740),1
+182,Anson became a muscle bound.,1,526,Anson became a muscle bound.,tensor(-5.7844),tensor(-7.0974),0,tensor(-5.3993),tensor(-7.5033),0
+183,John arranged for himself to get the prize.,1,1041,John arranged for himself to get the prize.,tensor(-6.1786),tensor(-7.0330),0,tensor(-6.1357),tensor(-7.3254),0
+184,They want them arrested.,1,855,They want them arrested.,tensor(-6.2715),tensor(-7.6383),0,tensor(-6.5206),tensor(-6.3225),1
+185,Vera sent a baby alligator to Max and a leather dinosaur to Phyllis.,1,642,Vera sent a baby alligator to Max and a leather dinosaur to Phyllis.,tensor(-6.8828),tensor(-7.2301),0,tensor(-7.2422),tensor(-6.8920),1
+186,I wonder whose mother died.,1,688,I wonder whose mother died.,tensor(-6.1417),tensor(-6.7983),0,tensor(-5.9842),tensor(-6.4378),0
+187,The dogs barked.,1,861,The dogs barked.,tensor(-6.2144),tensor(-6.7453),0,tensor(-7.1977),tensor(-6.8573),1
+188,"I know which book José didn't read for class, and which book Lilly did it for him.",0,57,"I know which book José didn't read for class, and which book Lilly did it for him.",tensor(-6.9569),tensor(-7.0188),0,tensor(-7.2381),tensor(-7.5810),0
+189,"Mary listens to the Grateful Dead, she gets depressed.",1,7,"Mary listens to the Grateful Dead, she gets depressed.",tensor(-7.0235),tensor(-7.5468),0,tensor(-7.5669),tensor(-7.6832),0
+190,They preferred them arrested.,1,856,They preferred them arrested.,tensor(-5.4154),tensor(-7.1412),0,tensor(-5.9840),tensor(-6.4049),0
+191,They were interested in his.,1,788,They were interested in his.,tensor(-5.7219),tensor(-7.9082),0,tensor(-5.8830),tensor(-6.9936),0
+192,John left orders to follow Pete.,1,1003,John left orders to follow Pete.,tensor(-6.2904),tensor(-7.3062),0,tensor(-6.2845),tensor(-6.5196),0
+193,We elected me.,1,67,We elected me.,tensor(-6.1240),tensor(-6.4777),0,tensor(-6.3784),tensor(-6.3834),0
+194,"Put a picture of Bill on your desk before tomorrow, this girl in the red coat will put a picture of Bill on your desk before tomorrow.",0,436,"Put a picture of Bill on your desk before tomorrow, this girl in the red coat will put a picture of Bill on your desk before tomorrow.",tensor(-6.8858),tensor(-6.7241),1,tensor(-7.1602),tensor(-6.8152),1
+195,He can not have been working.,1,19,He can not have been working.,tensor(-5.7232),tensor(-7.1698),0,tensor(-5.8919),tensor(-6.5463),0
+196,Which house does your friend live?,0,304,Which house does your friend live?,tensor(-9.1330),tensor(-9.6655),0,tensor(-8.1596),tensor(-8.6012),0
+197,Kim gave a dollar to Bobbie and a dime to Jean.,1,434,Kim gave a dollar to Bobbie and a dime to Jean.,tensor(-6.1113),tensor(-7.0948),0,tensor(-6.4682),tensor(-7.3797),0
+198,"If Sam was going, Sally would know where.",1,529,"If Sam was going, Sally would know where.",tensor(-6.7664),tensor(-7.8580),0,tensor(-6.6311),tensor(-7.4415),0
+199,the baker from whom I bought these bagels left.,1,305,the baker from whom I bought these bagels left.,tensor(-6.8220),tensor(-7.0987),0,tensor(-6.8902),tensor(-6.9396),0
