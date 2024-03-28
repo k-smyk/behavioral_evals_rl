@@ -1,0 +1,1651 @@
+premise,question,choice1,choice2,label,generated_response
+The woman filed a restraining order against the man.,cause,The man called her.,The man stalked her.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman filed a restraining order against the man..
+
+    To determine: cause.
+
+    Sentences: The man called her. The man stalked her.
+
+    Answer:
+    0"
+I drank from the water fountain.,cause,I was thirsty.,I felt nauseous.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I drank from the water fountain..
+
+    To determine: cause.
+
+    Sentences: I was thirsty. I felt nauseous.
+
+    Answer:
+    0"
+The authorities vowed to protect the identity of the crime victim.,effect,The victim struggled to recall details about the crime.,They withheld the victim's name from the public.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The authorities vowed to protect the identity of the crime victim..
+
+    To determine: effect.
+
+    Sentences: The victim struggled to recall details about the crime. They withheld the victim's name from the public.
+
+    Answer:
+    0"
+My feet were blistered.,cause,I went hiking.,I went swimming.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: My feet were blistered..
+
+    To determine: cause.
+
+    Sentences: I went hiking. I went swimming.
+
+    Answer:
+    0"
+I burst into a fit of laughter.,effect,My teeth began to chatter.,My eyes welled up with tears.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I burst into a fit of laughter..
+
+    To determine: effect.
+
+    Sentences: My teeth began to chatter. My eyes welled up with tears.
+
+    Answer:
+    1"
+The bird couldn't fly.,cause,It migrated for the winter.,It injured its wing.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The bird couldn't fly..
+
+    To determine: cause.
+
+    Sentences: It migrated for the winter. It injured its wing.
+
+    Answer:
+    0"
+The boy got a black eye.,cause,The bully mocked the boy.,The bully punched the boy.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The boy got a black eye..
+
+    To determine: cause.
+
+    Sentences: The bully mocked the boy. The bully punched the boy.
+
+    Answer:
+    0"
+The woman received a diploma.,cause,She enrolled in college.,She graduated from college.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman received a diploma..
+
+    To determine: cause.
+
+    Sentences: She enrolled in college. She graduated from college.
+
+    Answer:
+    0"
+The clouds looked dark.,effect,I brought my laptop to work.,I brought my umbrella to work.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The clouds looked dark..
+
+    To determine: effect.
+
+    Sentences: I brought my laptop to work. I brought my umbrella to work.
+
+    Answer:
+    1"
+The truck crashed into the motorcycle on the bridge.,effect,The motorcyclist died.,The bridge collapsed.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The truck crashed into the motorcycle on the bridge..
+
+    To determine: effect.
+
+    Sentences: The motorcyclist died. The bridge collapsed.
+
+    Answer:
+    1"
+The cowgirl threw her lasso towards the horse.,effect,The lasso grabbed onto the horse.,The horse trotted into the barn.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The cowgirl threw her lasso towards the horse..
+
+    To determine: effect.
+
+    Sentences: The lasso grabbed onto the horse. The horse trotted into the barn.
+
+    Answer:
+    0"
+The police officer pulled over the celebrity.,effect,The celebrity offered the officer a bribe.,The celebrity sued the police officer.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The police officer pulled over the celebrity..
+
+    To determine: effect.
+
+    Sentences: The celebrity offered the officer a bribe. The celebrity sued the police officer.
+
+    Answer:
+    1"
+A water pipe in the house burst.,cause,The water was unsanitary.,The pipe froze.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: A water pipe in the house burst..
+
+    To determine: cause.
+
+    Sentences: The water was unsanitary. The pipe froze.
+
+    Answer:
+    0"
+The patient was dehydrated.,effect,The nurse tested his reflexes.,The nurse gave him an IV.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The patient was dehydrated..
+
+    To determine: effect.
+
+    Sentences: The nurse tested his reflexes. The nurse gave him an IV.
+
+    Answer:
+    0"
+The friends' dinnertime conversation turned to politics.,effect,The conversation quieted down.,A debate erupted.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The friends' dinnertime conversation turned to politics..
+
+    To determine: effect.
+
+    Sentences: The conversation quieted down. A debate erupted.
+
+    Answer:
+    0"
+Our group's conversation gradually lulled to silence.,effect,I felt awkward.,I became enraged.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: Our group's conversation gradually lulled to silence..
+
+    To determine: effect.
+
+    Sentences: I felt awkward. I became enraged.
+
+    Answer:
+    0"
+The cup of tea was scalding hot.,effect,I blew on it.,I poured it out.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The cup of tea was scalding hot..
+
+    To determine: effect.
+
+    Sentences: I blew on it. I poured it out.
+
+    Answer:
+    0"
+The investigators deemed the man's death a suicide.,cause,He left a note.,He had children.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The investigators deemed the man's death a suicide..
+
+    To determine: cause.
+
+    Sentences: He left a note. He had children.
+
+    Answer:
+    0"
+The girl felt dizzy.,effect,She lost her balance.,She did stretches.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The girl felt dizzy..
+
+    To determine: effect.
+
+    Sentences: She lost her balance. She did stretches.
+
+    Answer:
+    0"
+The leader received praise.,cause,He fought poverty.,He raised taxes.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The leader received praise..
+
+    To determine: cause.
+
+    Sentences: He fought poverty. He raised taxes.
+
+    Answer:
+    0"
+The woman hit a midlife crisis.,effect,She retired.,She went sky diving.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman hit a midlife crisis..
+
+    To determine: effect.
+
+    Sentences: She retired. She went sky diving.
+
+    Answer:
+    0"
+A fistfight broke out in the hall of the school.,effect,The principal suspended the students involved.,The principal called off classes for the day.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: A fistfight broke out in the hall of the school..
+
+    To determine: effect.
+
+    Sentences: The principal suspended the students involved. The principal called off classes for the day.
+
+    Answer:
+    0"
+The cook stirred the ingredients in the bowl.,effect,The ingredients melted.,The ingredients blended together.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The cook stirred the ingredients in the bowl..
+
+    To determine: effect.
+
+    Sentences: The ingredients melted. The ingredients blended together.
+
+    Answer:
+    0"
+The sun emerged from the clouds.,effect,The woman glanced at her watch.,The woman took her sweater off.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The sun emerged from the clouds..
+
+    To determine: effect.
+
+    Sentences: The woman glanced at her watch. The woman took her sweater off.
+
+    Answer:
+    0"
+The woman betrayed her friend.,effect,Her friend sent her a greeting card.,Her friend cut off contact with her.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman betrayed her friend..
+
+    To determine: effect.
+
+    Sentences: Her friend sent her a greeting card. Her friend cut off contact with her.
+
+    Answer:
+    0"
+I pushed the pendulum.,effect,It slowed to a stop.,It swung back and forth.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I pushed the pendulum..
+
+    To determine: effect.
+
+    Sentences: It slowed to a stop. It swung back and forth.
+
+    Answer:
+    0"
+The woman exaggerated the details of the story.,cause,She wanted attention.,She felt shy.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman exaggerated the details of the story..
+
+    To determine: cause.
+
+    Sentences: She wanted attention. She felt shy.
+
+    Answer:
+    1"
+I put shoes on.,cause,The floor contained broken glass.,The paint on the walls was wet.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I put shoes on..
+
+    To determine: cause.
+
+    Sentences: The floor contained broken glass. The paint on the walls was wet.
+
+    Answer:
+    0"
+The toddler became cranky.,effect,Her mother put her down for a nap.,Her mother fixed her hair into pigtails.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The toddler became cranky..
+
+    To determine: effect.
+
+    Sentences: Her mother put her down for a nap. Her mother fixed her hair into pigtails.
+
+    Answer:
+    0"
+We ordered a pizza.,effect,The pizza was delivered.,The pizza got cold.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: We ordered a pizza..
+
+    To determine: effect.
+
+    Sentences: The pizza was delivered. The pizza got cold.
+
+    Answer:
+    0"
+The man had lipstick on his cheek.,cause,The woman kissed him.,The woman made him blush.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man had lipstick on his cheek..
+
+    To determine: cause.
+
+    Sentences: The woman kissed him. The woman made him blush.
+
+    Answer:
+    0"
+The girl came across an unfamiliar word in her textbook.,effect,She looked the term up in the dictionary.,She chucked the textbook across the room.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The girl came across an unfamiliar word in her textbook..
+
+    To determine: effect.
+
+    Sentences: She looked the term up in the dictionary. She chucked the textbook across the room.
+
+    Answer:
+    1"
+My stomach growled.,cause,I forgot to eat breakfast.,I was full from breakfast.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: My stomach growled..
+
+    To determine: cause.
+
+    Sentences: I forgot to eat breakfast. I was full from breakfast.
+
+    Answer:
+    0"
+The man's watch was broken.,effect,He waited at the bus stop.,He asked a stranger for the time.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man's watch was broken..
+
+    To determine: effect.
+
+    Sentences: He waited at the bus stop. He asked a stranger for the time.
+
+    Answer:
+    0"
+The student flaunted his test grade to his classmates.,cause,He received a perfect score.,He feigned interest in the class.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The student flaunted his test grade to his classmates..
+
+    To determine: cause.
+
+    Sentences: He received a perfect score. He feigned interest in the class.
+
+    Answer:
+    0"
+The gardener pulled the weeds.,effect,The weeds came out of the soil.,The weeds produced seeds.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The gardener pulled the weeds..
+
+    To determine: effect.
+
+    Sentences: The weeds came out of the soil. The weeds produced seeds.
+
+    Answer:
+    0"
+The chef pressed down on the dough.,effect,The dough crumbled.,The dough flattened.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The chef pressed down on the dough..
+
+    To determine: effect.
+
+    Sentences: The dough crumbled. The dough flattened.
+
+    Answer:
+    1"
+The man grieved.,cause,His wife criticized him.,His mother passed away.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man grieved..
+
+    To determine: cause.
+
+    Sentences: His wife criticized him. His mother passed away.
+
+    Answer:
+    0"
+The teacher took roll.,effect,She identified the students that were absent.,She gave her students a pop quiz.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The teacher took roll..
+
+    To determine: effect.
+
+    Sentences: She identified the students that were absent. She gave her students a pop quiz.
+
+    Answer:
+    1"
+I rubbed sandpaper on the wood.,effect,The wood became smooth.,The wood became sticky.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I rubbed sandpaper on the wood..
+
+    To determine: effect.
+
+    Sentences: The wood became smooth. The wood became sticky.
+
+    Answer:
+    1"
+The clay hardened.,cause,The potter rolled the clay into a ball.,The potter put the clay in the oven.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The clay hardened..
+
+    To determine: cause.
+
+    Sentences: The potter rolled the clay into a ball. The potter put the clay in the oven.
+
+    Answer:
+    0"
+The girl made a wish.,cause,She saw a black cat.,She saw a shooting star.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The girl made a wish..
+
+    To determine: cause.
+
+    Sentences: She saw a black cat. She saw a shooting star.
+
+    Answer:
+    0"
+The woman awakened.,cause,She took sleeping pills.,Her husband was snoring.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman awakened..
+
+    To determine: cause.
+
+    Sentences: She took sleeping pills. Her husband was snoring.
+
+    Answer:
+    0"
+The driver rotated the steering wheel.,effect,The car halted.,The car turned.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The driver rotated the steering wheel..
+
+    To determine: effect.
+
+    Sentences: The car halted. The car turned.
+
+    Answer:
+    0"
+The girl desired her parent's approval.,effect,She ran away from home.,She obeyed her parent's rules.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The girl desired her parent's approval..
+
+    To determine: effect.
+
+    Sentences: She ran away from home. She obeyed her parent's rules.
+
+    Answer:
+    0"
+The homeowners disliked their nosy neighbors.,effect,They built a fence around their property.,They hosted a barbeque in their backyard.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The homeowners disliked their nosy neighbors..
+
+    To determine: effect.
+
+    Sentences: They built a fence around their property. They hosted a barbeque in their backyard.
+
+    Answer:
+    0"
+The man dropped food on the floor.,effect,His dog jumped up on him.,His dog ran over to eat the food.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man dropped food on the floor..
+
+    To determine: effect.
+
+    Sentences: His dog jumped up on him. His dog ran over to eat the food.
+
+    Answer:
+    0"
+Marine life diminished.,cause,Boats sailed through the ocean.,Oil spilled into the ocean.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: Marine life diminished..
+
+    To determine: cause.
+
+    Sentences: Boats sailed through the ocean. Oil spilled into the ocean.
+
+    Answer:
+    0"
+My daughter suffered an allergy attack.,effect,I encouraged her to take deep breaths.,I took her to the emergency room.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: My daughter suffered an allergy attack..
+
+    To determine: effect.
+
+    Sentences: I encouraged her to take deep breaths. I took her to the emergency room.
+
+    Answer:
+    0"
+The chandelier shattered on the floor.,cause,The chandelier dropped from the ceiling.,The chandelier's lights flickered on and off.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The chandelier shattered on the floor..
+
+    To determine: cause.
+
+    Sentences: The chandelier dropped from the ceiling. The chandelier's lights flickered on and off.
+
+    Answer:
+    0"
+The magnet attracted the paperclip.,effect,The paperclip dropped from the magnet.,The paperclip stuck to the magnet.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The magnet attracted the paperclip..
+
+    To determine: effect.
+
+    Sentences: The paperclip dropped from the magnet. The paperclip stuck to the magnet.
+
+    Answer:
+    0"
+The smoke alarm went off.,cause,I lit a candle.,I burnt my dinner.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The smoke alarm went off..
+
+    To determine: cause.
+
+    Sentences: I lit a candle. I burnt my dinner.
+
+    Answer:
+    1"
+The man held his breath.,cause,He went underwater.,He treaded water.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man held his breath..
+
+    To determine: cause.
+
+    Sentences: He went underwater. He treaded water.
+
+    Answer:
+    0"
+The women met for coffee.,cause,The cafe reopened in a new location.,They wanted to catch up with each other.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The women met for coffee..
+
+    To determine: cause.
+
+    Sentences: The cafe reopened in a new location. They wanted to catch up with each other.
+
+    Answer:
+    0"
+My body cast a shadow over the grass.,cause,The sun was rising.,The grass was cut.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: My body cast a shadow over the grass..
+
+    To determine: cause.
+
+    Sentences: The sun was rising. The grass was cut.
+
+    Answer:
+    0"
+The bureau drawers were cluttered.,effect,I threw away unnecessary contents.,I locked the drawers shut.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The bureau drawers were cluttered..
+
+    To determine: effect.
+
+    Sentences: I threw away unnecessary contents. I locked the drawers shut.
+
+    Answer:
+    0"
+I jumped instinctively in fright.,cause,I sensed someone approaching me from behind.,I heard people chuckling in the adjacent room.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I jumped instinctively in fright..
+
+    To determine: cause.
+
+    Sentences: I sensed someone approaching me from behind. I heard people chuckling in the adjacent room.
+
+    Answer:
+    0"
+I dabbed the floor with a paper towel.,cause,I spilled juice on the floor.,The floor was permanently stained.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I dabbed the floor with a paper towel..
+
+    To determine: cause.
+
+    Sentences: I spilled juice on the floor. The floor was permanently stained.
+
+    Answer:
+    0"
+The woman pressed down on the piano key.,effect,A sound played.,The key got stuck.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman pressed down on the piano key..
+
+    To determine: effect.
+
+    Sentences: A sound played. The key got stuck.
+
+    Answer:
+    0"
+The baby pulled the mother's hair.,effect,The baby burped.,The mother grimaced.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The baby pulled the mother's hair..
+
+    To determine: effect.
+
+    Sentences: The baby burped. The mother grimaced.
+
+    Answer:
+    0"
+I ironed my shirt.,cause,It was clean.,It was wrinkled.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I ironed my shirt..
+
+    To determine: cause.
+
+    Sentences: It was clean. It was wrinkled.
+
+    Answer:
+    0"
+The woman was wrongly convicted for the crime.,cause,The jury was fair.,She was framed.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman was wrongly convicted for the crime..
+
+    To determine: cause.
+
+    Sentences: The jury was fair. She was framed.
+
+    Answer:
+    0"
+The police officer dropped the gun.,effect,The gun recoiled.,The gun went off.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The police officer dropped the gun..
+
+    To determine: effect.
+
+    Sentences: The gun recoiled. The gun went off.
+
+    Answer:
+    0"
+I tipped the bottle.,effect,The liquid in the bottle froze.,The liquid in the bottle poured out.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I tipped the bottle..
+
+    To determine: effect.
+
+    Sentences: The liquid in the bottle froze. The liquid in the bottle poured out.
+
+    Answer:
+    1"
+I finished a page of the book.,effect,I ripped out the next page.,I turned to the next page.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I finished a page of the book..
+
+    To determine: effect.
+
+    Sentences: I ripped out the next page. I turned to the next page.
+
+    Answer:
+    0"
+The physician misdiagnosed the patient.,effect,The patient filed a malpractice lawsuit against the physician.,The patient disclosed confidential information to the physician.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The physician misdiagnosed the patient..
+
+    To determine: effect.
+
+    Sentences: The patient filed a malpractice lawsuit against the physician. The patient disclosed confidential information to the physician.
+
+    Answer:
+    0"
+The parents recognized their daughter's creativity.,effect,They taught her how to ride a bike.,They encouraged her to become an artist.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The parents recognized their daughter's creativity..
+
+    To determine: effect.
+
+    Sentences: They taught her how to ride a bike. They encouraged her to become an artist.
+
+    Answer:
+    0"
+The woman shivered as she got out the pool.,effect,She wrapped herself in a towel.,She poured herself some lemonade.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman shivered as she got out the pool..
+
+    To determine: effect.
+
+    Sentences: She wrapped herself in a towel. She poured herself some lemonade.
+
+    Answer:
+    0"
+The woman wanted to be a doctor.,effect,She visited the hospital.,She went to medical school.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman wanted to be a doctor..
+
+    To determine: effect.
+
+    Sentences: She visited the hospital. She went to medical school.
+
+    Answer:
+    0"
+The mother needed help looking after her children.,effect,She sent the children to daycare.,She gave up custody of the children.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The mother needed help looking after her children..
+
+    To determine: effect.
+
+    Sentences: She sent the children to daycare. She gave up custody of the children.
+
+    Answer:
+    0"
+The family took their dog to the veterinarian.,cause,The dog chewed on a bone.,The dog injured his paw.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The family took their dog to the veterinarian..
+
+    To determine: cause.
+
+    Sentences: The dog chewed on a bone. The dog injured his paw.
+
+    Answer:
+    0"
+The egg splattered.,cause,I dropped it.,I boiled it.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The egg splattered..
+
+    To determine: cause.
+
+    Sentences: I dropped it. I boiled it.
+
+    Answer:
+    0"
+I applied pressure to the cut on my arm.,effect,It healed.,It stopped bleeding.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I applied pressure to the cut on my arm..
+
+    To determine: effect.
+
+    Sentences: It healed. It stopped bleeding.
+
+    Answer:
+    0"
+The skier slipped on the slope.,cause,She dropped her ski poles.,She hit a patch of ice.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The skier slipped on the slope..
+
+    To determine: cause.
+
+    Sentences: She dropped her ski poles. She hit a patch of ice.
+
+    Answer:
+    0"
+The scientist gained recognition.,cause,She discovered a new species.,She received tenure at the university.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The scientist gained recognition..
+
+    To determine: cause.
+
+    Sentences: She discovered a new species. She received tenure at the university.
+
+    Answer:
+    0"
+The book became a huge bestseller.,effect,It was adapted into a movie.,The author faded into obscurity.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The book became a huge bestseller..
+
+    To determine: effect.
+
+    Sentences: It was adapted into a movie. The author faded into obscurity.
+
+    Answer:
+    0"
+The family postponed the barbeque.,cause,The forecast called for storms.,It was a holiday weekend.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The family postponed the barbeque..
+
+    To determine: cause.
+
+    Sentences: The forecast called for storms. It was a holiday weekend.
+
+    Answer:
+    0"
+My stomach hurt.,cause,I jogged on the treadmill.,I ate birthday cake.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: My stomach hurt..
+
+    To determine: cause.
+
+    Sentences: I jogged on the treadmill. I ate birthday cake.
+
+    Answer:
+    1"
+The man felt thankful to be alive.,cause,He was cured of cancer.,His wife was diagnosed with cancer.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man felt thankful to be alive..
+
+    To determine: cause.
+
+    Sentences: He was cured of cancer. His wife was diagnosed with cancer.
+
+    Answer:
+    0"
+The vehicles travelled slowly.,cause,It was cloudy.,It was foggy.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The vehicles travelled slowly..
+
+    To determine: cause.
+
+    Sentences: It was cloudy. It was foggy.
+
+    Answer:
+    0"
+The children ran through the sprinkler.,cause,They ate popsicles.,They were hot.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The children ran through the sprinkler..
+
+    To determine: cause.
+
+    Sentences: They ate popsicles. They were hot.
+
+    Answer:
+    0"
+The chair squeaked.,cause,The man carried the chair to his office.,The man scooted the chair closer to his desk.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The chair squeaked..
+
+    To determine: cause.
+
+    Sentences: The man carried the chair to his office. The man scooted the chair closer to his desk.
+
+    Answer:
+    0"
+I wrote a thank-you note to my grandmother.,cause,She became forgetful.,She sent me a gift.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I wrote a thank-you note to my grandmother..
+
+    To determine: cause.
+
+    Sentences: She became forgetful. She sent me a gift.
+
+    Answer:
+    0"
+The host of the trivia show called on the contestant for an answer.,cause,The contestant was in the lead.,The contestant rang the buzzer.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The host of the trivia show called on the contestant for an answer..
+
+    To determine: cause.
+
+    Sentences: The contestant was in the lead. The contestant rang the buzzer.
+
+    Answer:
+    0"
+The mother suspected that her son was lying.,cause,He refused to talk to her.,He avoided making eye contact with her.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The mother suspected that her son was lying..
+
+    To determine: cause.
+
+    Sentences: He refused to talk to her. He avoided making eye contact with her.
+
+    Answer:
+    0"
+The boy's mouth stung.,cause,He ate a pepper.,He blew out the candle.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The boy's mouth stung..
+
+    To determine: cause.
+
+    Sentences: He ate a pepper. He blew out the candle.
+
+    Answer:
+    1"
+I clenched the candy wrapper in my fist.,effect,The wrapper crinkled.,The wrapper ripped.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I clenched the candy wrapper in my fist..
+
+    To determine: effect.
+
+    Sentences: The wrapper crinkled. The wrapper ripped.
+
+    Answer:
+    0"
+A group of teenagers crashed the party.,effect,The host of the party kicked them out.,The host of the party invited them in.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: A group of teenagers crashed the party..
+
+    To determine: effect.
+
+    Sentences: The host of the party kicked them out. The host of the party invited them in.
+
+    Answer:
+    1"
+The boy wanted to be muscular.,effect,He lifted weights.,He played computer games.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The boy wanted to be muscular..
+
+    To determine: effect.
+
+    Sentences: He lifted weights. He played computer games.
+
+    Answer:
+    0"
+I pushed the gas pedal.,effect,The car accelerated.,The car door opened.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I pushed the gas pedal..
+
+    To determine: effect.
+
+    Sentences: The car accelerated. The car door opened.
+
+    Answer:
+    0"
+The milk stayed cold.,cause,It was pasteurized.,I stored it in the refrigerator.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The milk stayed cold..
+
+    To determine: cause.
+
+    Sentences: It was pasteurized. I stored it in the refrigerator.
+
+    Answer:
+    0"
+The celebrity wore sunglasses.,cause,She wanted to thank her fans.,She wanted to avoid recognition.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The celebrity wore sunglasses..
+
+    To determine: cause.
+
+    Sentences: She wanted to thank her fans. She wanted to avoid recognition.
+
+    Answer:
+    0"
+The woman gave the man her phone number.,cause,She was attracted to him.,She was repulsed by him.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman gave the man her phone number..
+
+    To determine: cause.
+
+    Sentences: She was attracted to him. She was repulsed by him.
+
+    Answer:
+    0"
+The army surrendered the battle.,cause,They were outnumbered.,They stormed the city.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The army surrendered the battle..
+
+    To determine: cause.
+
+    Sentences: They were outnumbered. They stormed the city.
+
+    Answer:
+    0"
+The swimmer won the race.,effect,She received a gold medal.,Her team lost the meet.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The swimmer won the race..
+
+    To determine: effect.
+
+    Sentences: She received a gold medal. Her team lost the meet.
+
+    Answer:
+    0"
+The girl met her favorite actor.,effect,She went to see his new film.,She asked him for his autograph.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The girl met her favorite actor..
+
+    To determine: effect.
+
+    Sentences: She went to see his new film. She asked him for his autograph.
+
+    Answer:
+    0"
+The girl applied the scissors to the paper.,effect,The paper sliced apart.,The paper crinkled.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The girl applied the scissors to the paper..
+
+    To determine: effect.
+
+    Sentences: The paper sliced apart. The paper crinkled.
+
+    Answer:
+    0"
+The shop was closed.,cause,The owner was helping customers.,The shop was undergoing renovation.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The shop was closed..
+
+    To determine: cause.
+
+    Sentences: The owner was helping customers. The shop was undergoing renovation.
+
+    Answer:
+    0"
+My flight got delayed.,cause,Tornadoes were sighted in the area.,I was held up at airport security.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: My flight got delayed..
+
+    To determine: cause.
+
+    Sentences: Tornadoes were sighted in the area. I was held up at airport security.
+
+    Answer:
+    0"
+The child caught a life-threatening illness.,cause,She didn't get vaccinated.,She was adopted.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The child caught a life-threatening illness..
+
+    To determine: cause.
+
+    Sentences: She didn't get vaccinated. She was adopted.
+
+    Answer:
+    0"
+The woman felt compelled to help someone in need.,effect,She donated blood.,She wrote a poem.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman felt compelled to help someone in need..
+
+    To determine: effect.
+
+    Sentences: She donated blood. She wrote a poem.
+
+    Answer:
+    0"
+The boat capsized.,cause,The captain raised the sail.,It was caught in a hurricane.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The boat capsized..
+
+    To determine: cause.
+
+    Sentences: The captain raised the sail. It was caught in a hurricane.
+
+    Answer:
+    1"
+The man lifted the heavy box.,effect,He put out his back.,He scratched his back.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man lifted the heavy box..
+
+    To determine: effect.
+
+    Sentences: He put out his back. He scratched his back.
+
+    Answer:
+    0"
+The woman had an infection.,effect,She took antibiotics.,She washed her hands.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman had an infection..
+
+    To determine: effect.
+
+    Sentences: She took antibiotics. She washed her hands.
+
+    Answer:
+    0"
+The woman's ring slipped off in the shower.,effect,The woman polished the ring.,The ring went down the drain.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman's ring slipped off in the shower..
+
+    To determine: effect.
+
+    Sentences: The woman polished the ring. The ring went down the drain.
+
+    Answer:
+    0"
+The employee missed work.,cause,Her family got in touch with her.,There was a death in her family.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The employee missed work..
+
+    To determine: cause.
+
+    Sentences: Her family got in touch with her. There was a death in her family.
+
+    Answer:
+    0"
+The turtle hid in its shell.,cause,It ate a fish.,It detected a predator.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The turtle hid in its shell..
+
+    To determine: cause.
+
+    Sentences: It ate a fish. It detected a predator.
+
+    Answer:
+    0"
+My friend was recovering from surgery.,effect,I dropped her off at the hospital.,I brought her a card and flowers.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: My friend was recovering from surgery..
+
+    To determine: effect.
+
+    Sentences: I dropped her off at the hospital. I brought her a card and flowers.
+
+    Answer:
+    0"
+I moved to a new city.,cause,I found a better-paying job.,My son was born.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I moved to a new city..
+
+    To determine: cause.
+
+    Sentences: I found a better-paying job. My son was born.
+
+    Answer:
+    1"
+The teacher caught the student chewing gum.,effect,The gum stuck to the student's shoe.,The student spit out the gum.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The teacher caught the student chewing gum..
+
+    To determine: effect.
+
+    Sentences: The gum stuck to the student's shoe. The student spit out the gum.
+
+    Answer:
+    0"
+The city re-elected the mayor.,cause,The city cut its budget.,The mayor fulfilled his promises.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The city re-elected the mayor..
+
+    To determine: cause.
+
+    Sentences: The city cut its budget. The mayor fulfilled his promises.
+
+    Answer:
+    0"
+The customer thought the souvenir was overpriced.,effect,The vender sold it to him.,He bargained with the vendor.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The customer thought the souvenir was overpriced..
+
+    To determine: effect.
+
+    Sentences: The vender sold it to him. He bargained with the vendor.
+
+    Answer:
+    0"
+The man's clothes fit loosely.,cause,He bought them on sale.,He lost weight.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man's clothes fit loosely..
+
+    To determine: cause.
+
+    Sentences: He bought them on sale. He lost weight.
+
+    Answer:
+    0"
+The photograph faded.,cause,It was fake.,It was old.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The photograph faded..
+
+    To determine: cause.
+
+    Sentences: It was fake. It was old.
+
+    Answer:
+    0"
+The runner wore shorts.,cause,The forecast predicted high temperatures.,She planned to run along the beach.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The runner wore shorts..
+
+    To determine: cause.
+
+    Sentences: The forecast predicted high temperatures. She planned to run along the beach.
+
+    Answer:
+    0"
+The man read the cartoon in the newspaper.,effect,He sipped coffee.,He chuckled.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man read the cartoon in the newspaper..
+
+    To determine: effect.
+
+    Sentences: He sipped coffee. He chuckled.
+
+    Answer:
+    0"
+The glasses on the table spilled.,cause,The child drew on the table.,The child yanked the tablecloth.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The glasses on the table spilled..
+
+    To determine: cause.
+
+    Sentences: The child drew on the table. The child yanked the tablecloth.
+
+    Answer:
+    0"
+The computer crashed.,cause,I backed up my files.,I downloaded a virus.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The computer crashed..
+
+    To determine: cause.
+
+    Sentences: I backed up my files. I downloaded a virus.
+
+    Answer:
+    0"
+I lingered in bed upon awakening.,cause,I was hungry.,It was Saturday.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I lingered in bed upon awakening..
+
+    To determine: cause.
+
+    Sentences: I was hungry. It was Saturday.
+
+    Answer:
+    0"
+The balloon expanded.,cause,I blew into it.,I pricked it.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The balloon expanded..
+
+    To determine: cause.
+
+    Sentences: I blew into it. I pricked it.
+
+    Answer:
+    0"
+The man gained weight.,effect,He got his suit altered.,He got his shoes shined.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man gained weight..
+
+    To determine: effect.
+
+    Sentences: He got his suit altered. He got his shoes shined.
+
+    Answer:
+    0"
+Air leaked out of the beach ball.,cause,It was inflated.,There was a hole in it.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: Air leaked out of the beach ball..
+
+    To determine: cause.
+
+    Sentences: It was inflated. There was a hole in it.
+
+    Answer:
+    0"
+The group overlooked the woman's faux pas.,effect,The woman was relieved.,The woman apologized.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The group overlooked the woman's faux pas..
+
+    To determine: effect.
+
+    Sentences: The woman was relieved. The woman apologized.
+
+    Answer:
+    1"
+I held the door for the woman entering behind me.,effect,The door slammed shut.,The woman thanked me.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I held the door for the woman entering behind me..
+
+    To determine: effect.
+
+    Sentences: The door slammed shut. The woman thanked me.
+
+    Answer:
+    0"
+The boy's hands were shaking.,cause,He planned to ask the girl out.,His palms were cold and sweaty.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The boy's hands were shaking..
+
+    To determine: cause.
+
+    Sentences: He planned to ask the girl out. His palms were cold and sweaty.
+
+    Answer:
+    0"
+The cat purred.,cause,It scratched me.,I petted it.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The cat purred..
+
+    To determine: cause.
+
+    Sentences: It scratched me. I petted it.
+
+    Answer:
+    0"
+The hunter ran out of ammunition.,effect,He reloaded the gun.,He aimed at the deer.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The hunter ran out of ammunition..
+
+    To determine: effect.
+
+    Sentences: He reloaded the gun. He aimed at the deer.
+
+    Answer:
+    0"
+I scrubbed the stain on the floor.,effect,I got rid of the stain.,I got dirt on the floor.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I scrubbed the stain on the floor..
+
+    To determine: effect.
+
+    Sentences: I got rid of the stain. I got dirt on the floor.
+
+    Answer:
+    0"
+The police eliminated the woman from the list of suspects.,cause,The police interrogated her.,Her alibi checked out.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The police eliminated the woman from the list of suspects..
+
+    To determine: cause.
+
+    Sentences: The police interrogated her. Her alibi checked out.
+
+    Answer:
+    0"
+The nurse prepared the needle for the patient's injection.,effect,The patient bled.,The patient tensed up.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The nurse prepared the needle for the patient's injection..
+
+    To determine: effect.
+
+    Sentences: The patient bled. The patient tensed up.
+
+    Answer:
+    1"
+The driver pulled over to the side of the road.,cause,He went through an intersection.,He noticed a stranded vehicle.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The driver pulled over to the side of the road..
+
+    To determine: cause.
+
+    Sentences: He went through an intersection. He noticed a stranded vehicle.
+
+    Answer:
+    0"
+The parents left their children with a babysitter.,cause,Their youngest child started attending preschool.,They made plans to celebrate their anniversary.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The parents left their children with a babysitter..
+
+    To determine: cause.
+
+    Sentences: Their youngest child started attending preschool. They made plans to celebrate their anniversary.
+
+    Answer:
+    0"
+The child became immune to the disease.,cause,He avoided exposure to the disease.,He received the vaccine for the disease.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The child became immune to the disease..
+
+    To determine: cause.
+
+    Sentences: He avoided exposure to the disease. He received the vaccine for the disease.
+
+    Answer:
+    1"
+The water in the teapot started to boil.,effect,The teapot cooled.,The teapot whistled.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The water in the teapot started to boil..
+
+    To determine: effect.
+
+    Sentences: The teapot cooled. The teapot whistled.
+
+    Answer:
+    0"
+The boy felt homesick.,cause,He went away to camp.,He bickered with his sister.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The boy felt homesick..
+
+    To determine: cause.
+
+    Sentences: He went away to camp. He bickered with his sister.
+
+    Answer:
+    0"
+The security guard replayed the surveillance footage.,cause,The surveillance camera was out of focus.,He noticed some suspicious activity.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The security guard replayed the surveillance footage..
+
+    To determine: cause.
+
+    Sentences: The surveillance camera was out of focus. He noticed some suspicious activity.
+
+    Answer:
+    0"
+I flipped the light switch up and down.,effect,The light faded.,The light flickered.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I flipped the light switch up and down..
+
+    To determine: effect.
+
+    Sentences: The light faded. The light flickered.
+
+    Answer:
+    0"
+The button on my shirt fell off.,effect,I sewed the button back on.,I glued the button back on.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The button on my shirt fell off..
+
+    To determine: effect.
+
+    Sentences: I sewed the button back on. I glued the button back on.
+
+    Answer:
+    0"
+I ran out of breath.,cause,I climbed several flights of stairs.,I read several chapters of the book.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I ran out of breath..
+
+    To determine: cause.
+
+    Sentences: I climbed several flights of stairs. I read several chapters of the book.
+
+    Answer:
+    0"
+The mother scolded her daughter.,cause,Her daughter burped at the kitchen table.,Her daughter set the kitchen table.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The mother scolded her daughter..
+
+    To determine: cause.
+
+    Sentences: Her daughter burped at the kitchen table. Her daughter set the kitchen table.
+
+    Answer:
+    0"
+The vandals threw a rock at the window.,effect,The window cracked.,The window fogged up.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The vandals threw a rock at the window..
+
+    To determine: effect.
+
+    Sentences: The window cracked. The window fogged up.
+
+    Answer:
+    0"
+The woman's makeup smeared.,cause,She brushed her hair.,She wiped her eyes.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The woman's makeup smeared..
+
+    To determine: cause.
+
+    Sentences: She brushed her hair. She wiped her eyes.
+
+    Answer:
+    0"
+The seamstress pushed the threaded needle into the fabric.,effect,The thread wrapped around the needle.,The thread went through the fabric.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The seamstress pushed the threaded needle into the fabric..
+
+    To determine: effect.
+
+    Sentences: The thread wrapped around the needle. The thread went through the fabric.
+
+    Answer:
+    0"
+I went to bed.,cause,It was a clear night.,It was late.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: I went to bed..
+
+    To determine: cause.
+
+    Sentences: It was a clear night. It was late.
+
+    Answer:
+    0"
+The friends' debate dragged on interminably.,cause,The friends saw eye to eye.,The friends were splitting hairs.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The friends' debate dragged on interminably..
+
+    To determine: cause.
+
+    Sentences: The friends saw eye to eye. The friends were splitting hairs.
+
+    Answer:
+    0"
+The boy read the novel aloud to his grandfather.,cause,His grandfather was deaf.,His grandfather was blind.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The boy read the novel aloud to his grandfather..
+
+    To determine: cause.
+
+    Sentences: His grandfather was deaf. His grandfather was blind.
+
+    Answer:
+    1"
+The bar closed.,cause,It was crowded.,It was 3 AM.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The bar closed..
+
+    To determine: cause.
+
+    Sentences: It was crowded. It was 3 AM.
+
+    Answer:
+    0"
+The fans in the stadium cheered.,cause,The game ended in a tie.,The player scored.,1,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The fans in the stadium cheered..
+
+    To determine: cause.
+
+    Sentences: The game ended in a tie. The player scored.
+
+    Answer:
+    0"
+The man became disabled.,effect,His family offered him financial support.,His family cut off contact with him.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The man became disabled..
+
+    To determine: effect.
+
+    Sentences: His family offered him financial support. His family cut off contact with him.
+
+    Answer:
+    0"
+The pond froze over for the winter.,effect,People skated on the pond.,People brought boats to the pond.,0,"You are given the premise and two sentences with it. Determine which sentence is a cause/effect for the premise.
+    If the answer is the first sentence, answer with 0. If the answer is the second sentence, answer with 1.
+
+    Premise: The pond froze over for the winter..
+
+    To determine: effect.
+
+    Sentences: People skated on the pond. People brought boats to the pond.
+
+    Answer:
+    0"
